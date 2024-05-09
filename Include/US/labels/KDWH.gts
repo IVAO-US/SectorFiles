@@ -1,0 +1,2 @@
+West Terminal;KDWH;30.06401;-095.5617;
+North Terminal;KDWH;30.07028;-095.55229;

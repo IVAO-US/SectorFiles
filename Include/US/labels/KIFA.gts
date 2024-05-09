@@ -1,0 +1,1 @@
+Airport Terminal/FBO;KIFA;42.46978;-093.26448;

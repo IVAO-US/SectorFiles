@@ -1,0 +1,4 @@
+Concord Regional Airport FBO;KJQF;35.38553;-080.71385;
+Concord Regional Airport Allegiant Terminal;KJQF;35.38036;-080.71592;
+GATE 1;KJQF;35.3799195;-080.7133485;
+GATE 2;KJQF;35.3804366;-080.7132152;

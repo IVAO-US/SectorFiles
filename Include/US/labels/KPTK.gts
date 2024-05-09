@@ -1,0 +1,3 @@
+Oakland County International Airport;KPTK;42.66279;-083.41883;
+IFL Group;KPTK;42.66091;-083.42423;
+G;KPTK;42.66602;-083.41008;
