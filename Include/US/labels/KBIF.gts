@@ -1,0 +1,6 @@
+West Ramp;KBIF;31.83174;-106.40911;
+Hazardous Cargo Ramp;KBIF;31.84987;-106.38747;
+North Parking Apron;KBIF;31.84044;-106.38485;
+Main Ramp;KBIF;31.83428;-106.38401;
+Hot Refuel Pad;KBIF;31.83775;-106.37382;
+Hot Refuel Pad;KBIF;31.83734;-106.37381;

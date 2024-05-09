@@ -1,0 +1,7 @@
+Arm/Disarm Pad;KFAR;46.90967;-096.81379;
+North Air Cargo Ramp;KFAR;46.93004;-096.82366;
+Arm/Disarm Pad;KFAR;46.92865;-096.81456;
+North General Aviation Ramp;KFAR;46.92933;-096.81027;
+Terminal Ramp;KFAR;46.9205;-096.82609;
+Passenger Terminal;KFAR;46.91992;-096.82647;
+South General Aviation Ramp;KFAR;46.90681;-096.80791;

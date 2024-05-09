@@ -1,0 +1,2 @@
+Main Terminal;KPNS;30.47542;-087.19396;
+Cargo Ramp;KPNS;30.47828;-087.193;

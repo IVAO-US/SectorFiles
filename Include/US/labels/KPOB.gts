@@ -1,0 +1,4 @@
+Green Ramp;KPOB;35.173;-079.01992;
+Red Ramp;KPOB;35.1635;-079.01847;
+Yellow Ramp;KPOB;35.16905;-079.01251;
+Golden Knights Ramp;KPOB;35.16611;-079.01308;
