@@ -1,2 +1,0 @@
-Concourse C;KRNO;39.50689;-119.77422;
-Concourse B;KRNO;39.50476;-119.77399;

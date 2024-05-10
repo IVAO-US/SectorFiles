@@ -1,3 +1,0 @@
-Northwest Ramp;KPDK;33.88099;-084.30682;
-Clairmont Ramp;KPDK;33.87761;-084.30828;
-West Ramp;KPDK;33.87539;-084.30684;

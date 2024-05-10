@@ -1,2 +1,0 @@
-Air Cargo Apron;KMHR;38.55537;-121.31013;
-North Apron;KMHR;38.56325;-121.29703;

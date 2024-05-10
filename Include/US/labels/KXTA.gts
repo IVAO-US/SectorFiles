@@ -1,2 +1,0 @@
-King Air Ramp;KXTA;37.24028;-115.81248;
-Janet Ramp;KXTA;37.23761;-115.81236;

@@ -1,5 +1,0 @@
-Cargo Ramp;KMKE;42.94245;-087.91539;
-South Ramp;KMKE;42.93447;-087.90479;
-Ground Runup Enclosure;KMKE;42.94034;-087.90296;
-Cessna Citation Apron;KMKE;42.93949;-087.90769;
-Jet In Apron;KMKE;42.94035;-087.90438;

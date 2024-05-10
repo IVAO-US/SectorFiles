@@ -1,3 +1,0 @@
-Fighter Alert Apron;KCEF;42.17678;-072.55394;
-Metro;KCEF;42.17941;-072.55607;
-Bomber Alert Pad;KCEF;42.17857;-072.55775;

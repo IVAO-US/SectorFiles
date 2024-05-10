@@ -1,2 +1,0 @@
-Maine Instrument Flight;KAUG;44.31792;-069.79393;
-GA Run Up Area;KAUG;44.31718;-069.79565;

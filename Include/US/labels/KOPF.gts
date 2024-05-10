@@ -1,7 +1,0 @@
-Miami Executive Aviation Ramp;KOPF;25.91021;-080.26912;
-Miami Executive Aviation;KOPF;25.91042;-080.26902;
-Ramp;KOPF;25.90904;-080.27147;
-FBO Ramp;KOPF;25.90334;-080.27045;
-Fontainebleau Aviation;KOPF;25.90526;-080.26975;
-LifeFlight;KOPF;25.91027;-080.26815;
-FBO Terminal;KOPF;25.90241;-080.26948;

@@ -1,4 +1,0 @@
-Lakeland Regional Airport;KLAL;27.99426;-082.0156;
-Aircraft Ramp;KLAL;27.98239;-082.01248;
-Air Cargo Ramp;KLAL;27.99157;-082.03257;
-Sheltair FBO;KLAL;27.9932;-082.0167;

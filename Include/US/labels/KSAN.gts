@@ -1,4 +1,0 @@
-Terminal 2 East;KSAN;32.73245;-117.2017;
-Terminal 1;KSAN;32.73258;-117.19808;
-Terminal 2 West;KSAN;32.73239;-117.20468;
-New Terminal 1;KSAN;32.73135;-117.19426;

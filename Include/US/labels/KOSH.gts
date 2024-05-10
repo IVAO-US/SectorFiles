@@ -1,7 +1,0 @@
-Basler Flight Service;KOSH;43.99419;-088.55316;
-Hilton Garden Inn Ramp;KOSH;43.99447;-088.57194;
-EAA Ramp;KOSH;43.99472;-088.5664;
-Myers Salvage Ramp;KOSH;43.98764;-088.55205;
-DNR Ramp;KOSH;43.97292;-088.54754;
-Cargo Apron;KOSH;43.9947;-088.56813;
-Basler Flight Service;KOSH;43.99427;-088.55315;
