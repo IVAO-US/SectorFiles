@@ -3,7 +3,7 @@ N29.53.21.631
 W094.53.23.267
 60
 52
--03.4658
+03.4658
 US/ZHU;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas
 
 [DEFINE]
@@ -42,8 +42,24 @@ F;airways.high
 F;vfr.fix
 
 [MVA]
-F;KAUS.mva
+F;KMAF.mva
+F;KGPT.mva
+F;KMOB.mva
+F;KP31.mva
+F;KCRP.mva
+F;KSHV.mva
 F;KACT.mva
+F;KGRK.mva
+F;KMLU.mva
+F;KGGG.mva
+F;KSAT.mva
+F;KJAN.mva
+F;KLFT.mva
+F;KBTR.mva
+F;KAUS.mva
+F;KLCH.mva
+F;KI90.mva
+F;KMSY.mva
 
 [ARTCC]
 F;artcc.artcc

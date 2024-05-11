@@ -3,7 +3,7 @@ N42.00.02.953
 W088.29.56.739
 60
 45
-01.9816
+-01.9816
 US/ZAU;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas
 
 [DEFINE]
@@ -52,12 +52,12 @@ F;KFWA.mva
 F;KRFD.mva
 F;KAZO.mva
 F;KRST.mva
-F;KHUF.mva
 F;KD21.mva
+F;KHUF.mva
 F;KCID.mva
 F;KPIA.mva
-F;KCMH.mva
 F;KCMI.mva
+F;KCMH.mva
 F;KMKE.mva
 F;KSBN.mva
 F;KIND.mva

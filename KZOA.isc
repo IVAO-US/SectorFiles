@@ -3,7 +3,7 @@ N38.11.11.718
 W121.10.01.904
 60
 47
--14.7241
+14.7241
 US/ZOA;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas
 
 [DEFINE]
@@ -42,11 +42,11 @@ F;airways.high
 F;vfr.fix
 
 [MVA]
-F;KNCT.mva
-F;KJCF.mva
-F;KBFL.mva
-F;KSBA.mva
 F;KFAT.mva
+F;KSBA.mva
+F;KBFL.mva
+F;KJCF.mva
+F;KNCT.mva
 
 [ARTCC]
 F;artcc.artcc
