@@ -1,0 +1,17 @@
+Northeast Ramp (former terminal site);KIND;39.72929;-086.2764;
+Terminal Ramp;KIND;39.71594;-086.29674;
+Concourse B;KIND;39.7167;-086.29861;
+Northwest Ramp;KIND;39.73409;-086.28318;
+[FBO Ramp];KIND;39.72547;-086.27242;
+FedEx South Ramp;KIND;39.71757;-086.27333;
+Concourse A;KIND;39.71459;-086.29602;
+FedEx Main Ramp;KIND;39.70821;-086.28985;
+Indianapolis International Airport - Colonel H. Weir Cook Passenger Terminal;KIND;39.71493;-086.30162;
+Ground Run-Up Enclosure (GRE);KIND;39.70918;-086.32476;
+Lilly Aviation Ramp;KIND;39.72346;-086.26792;
+Comlux Ramp;KIND;39.7221;-086.26805;
+[ramp];KIND;39.72353;-086.26926;
+Ivy Tech Ramp;KIND;39.73434;-086.27994;
+[Hangar 10 Ramp];KIND;39.72034;-086.26683;
+A3;KIND;39.7130362;-086.2957302;
+A3;KIND;39.7133606;-086.296176;

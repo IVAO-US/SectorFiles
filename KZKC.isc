@@ -961,4 +961,4 @@ F;T93.geo
 F;TE05.geo
 F;TS79.geo
 F;TX38.geo
-
+F;Way { Id = 220504502, Tags = System.Collections.Frozen.LengthBucketsFrozenDictionary`1[System.String], Nodes = WSleeman.Osm.Node[] }.geo

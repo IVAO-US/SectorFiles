@@ -42,21 +42,20 @@ F;airways.high
 F;vfr.fix
 
 [MVA]
-F;KBHM.mva
 F;KMOB.mva
-F;KLIT.mva
-F;KMLU.mva
-F;KTUL.mva
-F;KSGF.mva
-F;KHSV.mva
-F;KCHA.mva
-F;KEVV.mva
-F;KM03.mva
-F;KFSM.mva
-F;KBNA.mva
-F;KSDF.mva
-F;KJAN.mva
+F;KBHM.mva
 F;KT75.mva
+F;KTUL.mva
+F;KEVV.mva
+F;KHSV.mva
+F;KSGF.mva
+F;KCHA.mva
+F;KM03.mva
+F;KLIT.mva
+F;KJAN.mva
+F;KFSM.mva
+F;KMLU.mva
+F;KBNA.mva
 
 [ARTCC]
 F;artcc.artcc

@@ -461,4 +461,6 @@ F;PS54.geo
 F;PS82.geo
 F;PS99.geo
 F;S37.geo
-
+F;Way { Id = 160756588, Tags = System.Collections.Frozen.LengthBucketsFrozenDictionary`1[System.String], Nodes = WSleeman.Osm.Node[] }.geo
+F;Way { Id = 490368869, Tags = System.Collections.Frozen.LengthBucketsFrozenDictionary`1[System.String], Nodes = WSleeman.Osm.Node[] }.geo
+F;Way { Id = 839815130, Tags = System.Collections.Frozen.LengthBucketsFrozenDictionary`1[System.String], Nodes = WSleeman.Osm.Node[] }.geo

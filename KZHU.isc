@@ -42,24 +42,8 @@ F;airways.high
 F;vfr.fix
 
 [MVA]
-F;KMAF.mva
-F;KGPT.mva
-F;KMOB.mva
-F;KP31.mva
-F;KCRP.mva
-F;KSHV.mva
-F;KACT.mva
-F;KGRK.mva
-F;KMLU.mva
-F;KGGG.mva
-F;KSAT.mva
-F;KJAN.mva
-F;KLFT.mva
-F;KBTR.mva
 F;KAUS.mva
-F;KLCH.mva
-F;KI90.mva
-F;KMSY.mva
+F;KACT.mva
 
 [ARTCC]
 F;artcc.artcc
@@ -991,4 +975,10 @@ F;XS93.geo
 F;XS94.geo
 F;XS95.geo
 F;XS99.geo
-
+F;Way { Id = 27713990, Tags = System.Collections.Frozen.LengthBucketsFrozenDictionary`1[System.String], Nodes = WSleeman.Osm.Node[] }.geo
+F;Way { Id = 79439698, Tags = System.Collections.Frozen.LengthBucketsFrozenDictionary`1[System.String], Nodes = WSleeman.Osm.Node[] }.geo
+F;Way { Id = 239565955, Tags = System.Collections.Frozen.LengthBucketsFrozenDictionary`1[System.String], Nodes = WSleeman.Osm.Node[] }.geo
+F;Way { Id = 373361443, Tags = System.Collections.Frozen.LengthBucketsFrozenDictionary`1[System.String], Nodes = WSleeman.Osm.Node[] }.geo
+F;Way { Id = 549952966, Tags = System.Collections.Frozen.LengthBucketsFrozenDictionary`1[System.String], Nodes = WSleeman.Osm.Node[] }.geo
+F;Way { Id = 644029070, Tags = System.Collections.Frozen.LengthBucketsFrozenDictionary`1[System.String], Nodes = WSleeman.Osm.Node[] }.geo
+F;Way { Id = 663948009, Tags = System.Collections.Frozen.LengthBucketsFrozenDictionary`1[System.String], Nodes = WSleeman.Osm.Node[] }.geo

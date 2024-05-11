@@ -685,4 +685,7 @@ F;VT73.geo
 F;VT8.geo
 F;W57.geo
 F;KIAD.geo
-
+F;Way { Id = 80214027, Tags = System.Collections.Frozen.LengthBucketsFrozenDictionary`1[System.String], Nodes = WSleeman.Osm.Node[] }.geo
+F;Way { Id = 95404662, Tags = System.Collections.Frozen.LengthBucketsFrozenDictionary`1[System.String], Nodes = WSleeman.Osm.Node[] }.geo
+F;Way { Id = 97232563, Tags = System.Collections.Frozen.LengthBucketsFrozenDictionary`1[System.String], Nodes = WSleeman.Osm.Node[] }.geo
+F;Way { Id = 1003255083, Tags = System.Collections.Frozen.LengthBucketsFrozenDictionary`1[System.String], Nodes = WSleeman.Osm.Node[] }.geo

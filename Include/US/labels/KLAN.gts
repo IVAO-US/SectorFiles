@@ -1,0 +1,4 @@
+Cargo Ramp;KLAN;42.77456;-084.58246;
+Terminal Ramp;KLAN;42.77557;-084.59099;
+Transient Ramp;KLAN;42.77357;-084.59389;
+Lansing Apron;KLAN;42.77505;-084.59176;

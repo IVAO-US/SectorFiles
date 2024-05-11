@@ -42,11 +42,7 @@ F;airways.high
 F;vfr.fix
 
 [MVA]
-F;KS46.mva
-F;KPSC.mva
-F;KMWH.mva
-F;KEUG.mva
-F;KGEG.mva
+
 
 [ARTCC]
 F;artcc.artcc
@@ -813,4 +809,6 @@ F;WT44.geo
 F;WT77.geo
 F;WT88.geo
 F;Z99.geo
-
+F;Way { Id = 279901384, Tags = System.Collections.Frozen.LengthBucketsFrozenDictionary`1[System.String], Nodes = WSleeman.Osm.Node[] }.geo
+F;Way { Id = 529235108, Tags = System.Collections.Frozen.LengthBucketsFrozenDictionary`1[System.String], Nodes = WSleeman.Osm.Node[] }.geo
+F;Way { Id = 531755815, Tags = System.Collections.Frozen.LengthBucketsFrozenDictionary`1[System.String], Nodes = WSleeman.Osm.Node[] }.geo

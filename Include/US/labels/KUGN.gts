@@ -1,0 +1,2 @@
+Signature Ramp;KUGN;42.41699;-087.86643;
+Skill Ramp;KUGN;42.42102;-087.86401;
