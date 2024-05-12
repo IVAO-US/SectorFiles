@@ -1,10 +1,10 @@
 Terminal 1 - A Gates;KLAS;36.08562;-115.15433;
-Terminal 1 - C Gates;KLAS;36.08192;-115.1486;
+Terminal 1 - C Gates;KLAS;36.08189;-115.14859;
 Terminal 3 - E Gates;KLAS;36.08607;-115.13795;
 Terminal 1 - D Gates;KLAS;36.08161;-115.1387;
 Cargo Terminal;KLAS;36.08026;-115.12551;
 Cargo Terminal;KLAS;36.08258;-115.12548;
 Janet Terminal;KLAS;36.09219;-115.1659;
-Terminal 1;KLAS;36.08478;-115.15075;
+Terminal 1;KLAS;36.08477;-115.15071;
 Terminal 1 - B Gates;KLAS;36.08303;-115.1529;
 Set Jet;KLAS;36.1001;-115.16086;

@@ -1,0 +1,3 @@
+General Aviation Parking;KSHV;32.45104;-093.82858;
+East Cargo;KSHV;32.45174;-093.82402;
+Cargo Pad;KSHV;32.45056;-093.83845;

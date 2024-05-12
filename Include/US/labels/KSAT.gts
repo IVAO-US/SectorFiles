@@ -1,0 +1,2 @@
+Terminal B;KSAT;29.52801;-098.47306;
+Terminal A;KSAT;29.5263;-098.47196;

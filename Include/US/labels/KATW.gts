@@ -1,0 +1,8 @@
+Airline Terminal;KATW;44.26017;-088.51296;
+Freight;KATW;44.26767;-088.5094;
+South Ramp;KATW;44.2486;-088.52079;
+Fuel;KATW;44.25262;-088.51708;
+Northwest Ramp;KATW;44.26758;-088.52015;
+Run-up Pad;KATW;44.263;-088.52041;
+US Customs and Border Protection;KATW;44.25865;-088.51311;
+Appleton Flight Center;KATW;44.24909;-088.52053;
