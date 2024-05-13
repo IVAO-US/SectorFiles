@@ -42,21 +42,7 @@ F;airways.high
 F;vfr.fix
 
 [MVA]
-F;KDLH.mva
-F;KR90.mva
-F;KMKE.mva
-F;KALO.mva
-F;KGRB.mva
-F;KRST.mva
-F;KBIS.mva
-F;KCID.mva
-F;KM98.mva
-F;KDSM.mva
-F;KFAR.mva
-F;KAZO.mva
-F;KMCI.mva
-F;KSUX.mva
-F;KFSD.mva
+
 
 [ARTCC]
 F;artcc.artcc
