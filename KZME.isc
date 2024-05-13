@@ -64,6 +64,9 @@ F;artcc.artcc
 [ARTCC LOW]
 F;low.artcc
 
+[ARTCC HIGH]
+F;high.artcc
+
 [GEO]
 F;coast.geo
 F;00AL.geo
@@ -723,3 +726,6 @@ F;TN97.geo
 F;TN99.geo
 F;X33.geo
 
+
+[FILLCOLOR]
+F;online.ply

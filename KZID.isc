@@ -67,6 +67,9 @@ F;artcc.artcc
 [ARTCC LOW]
 F;low.artcc
 
+[ARTCC HIGH]
+F;high.artcc
+
 [GEO]
 F;coast.geo
 F;00KY.geo
@@ -605,3 +608,6 @@ F;WV39.geo
 F;WV40.geo
 F;WV59.geo
 
+
+[FILLCOLOR]
+F;online.ply

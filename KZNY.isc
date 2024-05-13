@@ -42,21 +42,6 @@ F;airways.high
 F;vfr.fix
 
 [MVA]
-F;KELM.mva
-F;KSYR.mva
-F;KACY.mva
-F;KN90.mva
-F;KA90.mva
-F;KBGM.mva
-F;KAVP.mva
-F;KPCT.mva
-F;KPVD.mva
-F;KMDT.mva
-F;KY90.mva
-F;KRDG.mva
-F;KALB.mva
-F;KPHL.mva
-F;KROC.mva
 F;KABE.mva
 
 [ARTCC]
@@ -64,6 +49,9 @@ F;artcc.artcc
 
 [ARTCC LOW]
 F;low.artcc
+
+[ARTCC HIGH]
+F;high.artcc
 
 [GEO]
 F;coast.geo
@@ -461,6 +449,9 @@ F;PS54.geo
 F;PS82.geo
 F;PS99.geo
 F;S37.geo
-F;Way { Id = 160756588, Tags = System.Collections.Frozen.LengthBucketsFrozenDictionary`1[System.String], Nodes = WSleeman.Osm.Node[] }.geo
-F;Way { Id = 490368869, Tags = System.Collections.Frozen.LengthBucketsFrozenDictionary`1[System.String], Nodes = WSleeman.Osm.Node[] }.geo
-F;Way { Id = 839815130, Tags = System.Collections.Frozen.LengthBucketsFrozenDictionary`1[System.String], Nodes = WSleeman.Osm.Node[] }.geo
+F;KJRA.geo
+F;46N.geo
+F;KJSD.geo
+
+[FILLCOLOR]
+F;online.ply

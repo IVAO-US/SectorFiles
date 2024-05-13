@@ -42,20 +42,22 @@ F;airways.high
 F;vfr.fix
 
 [MVA]
-F;KBOI_BZN.mva
 F;KBIL.mva
-F;KBOI.mva
-F;KGEG.mva
-F;KGTF.mva
 F;KS56.mva
+F;KGTF.mva
 F;KZLC_GTF.mva
+F;KBOI.mva
 F;KCPR.mva
+F;KBOI_BZN.mva
 
 [ARTCC]
 F;artcc.artcc
 
 [ARTCC LOW]
 F;low.artcc
+
+[ARTCC HIGH]
+F;high.artcc
 
 [GEO]
 F;coast.geo
@@ -692,8 +694,11 @@ F;WY34.geo
 F;WY38.geo
 F;WY60.geo
 F;WY64.geo
-F;Way { Id = 221152984, Tags = System.Collections.Frozen.LengthBucketsFrozenDictionary`1[System.String], Nodes = WSleeman.Osm.Node[] }.geo
-F;Way { Id = 243994274, Tags = System.Collections.Frozen.LengthBucketsFrozenDictionary`1[System.String], Nodes = WSleeman.Osm.Node[] }.geo
-F;Way { Id = 535145089, Tags = System.Collections.Frozen.LengthBucketsFrozenDictionary`1[System.String], Nodes = WSleeman.Osm.Node[] }.geo
-F;Way { Id = 1220605914, Tags = System.Collections.Frozen.LengthBucketsFrozenDictionary`1[System.String], Nodes = WSleeman.Osm.Node[] }.geo
-F;Way { Id = 441726261, Tags = System.Collections.Frozen.LengthBucketsFrozenDictionary`1[System.String], Nodes = WSleeman.Osm.Node[] }.geo
+F;K9D2.geo
+F;KBDX.geo
+F;I98D.geo
+F;KFYN.geo
+F;KGFA.geo
+
+[FILLCOLOR]
+F;online.ply

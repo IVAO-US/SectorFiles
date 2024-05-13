@@ -54,6 +54,9 @@ F;artcc.artcc
 [ARTCC LOW]
 F;low.artcc
 
+[ARTCC HIGH]
+F;high.artcc
+
 [GEO]
 F;coast.geo
 F;00AA.geo
@@ -551,6 +554,9 @@ F;WY58.geo
 F;WY61.geo
 F;WY65.geo
 F;WY66.geo
-F;Way { Id = 45874536, Tags = System.Collections.Frozen.LengthBucketsFrozenDictionary`1[System.String], Nodes = WSleeman.Osm.Node[] }.geo
-F;Way { Id = 468609144, Tags = System.Collections.Frozen.LengthBucketsFrozenDictionary`1[System.String], Nodes = WSleeman.Osm.Node[] }.geo
-F;Way { Id = 221190078, Tags = System.Collections.Frozen.LengthBucketsFrozenDictionary`1[System.String], Nodes = WSleeman.Osm.Node[] }.geo
+F;K6V0.geo
+F;KFEW.geo
+F;K6V4.geo
+
+[FILLCOLOR]
+F;online.ply
