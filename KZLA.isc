@@ -1,9 +1,9 @@
 [INFO]
-N34.27.45.013
-W117.05.32.216
+N34.26.40.462
+W117.01.09.647
 60
 49
-13.2250
+13.2099
 US/ZLA;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas
 
 [DEFINE]
@@ -42,13 +42,7 @@ F;airways.high
 F;vfr.fix
 
 [MVA]
-F;KP50.mva
-F;KSBA.mva
-F;KL30.mva
-F;KFAT.mva
-F;KBFL.mva
-F;KJCF.mva
-F;KSCT.mva
+
 
 [ARTCC]
 F;artcc.artcc
@@ -312,6 +306,7 @@ F;UT30.geo
 F;UT47.geo
 F;UT54.geo
 F;UT91.geo
+F;KPHX.geo
 F;KCSL.geo
 F;KDRA.geo
 F;KNXF.geo
