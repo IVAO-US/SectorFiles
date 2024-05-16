@@ -6,3 +6,4 @@ Northwest Ramp;KATW;44.26758;-088.52015;
 Run-up Pad;KATW;44.263;-088.52041;
 US Customs and Border Protection;KATW;44.25865;-088.51311;
 Appleton Flight Center;KATW;44.24909;-088.52053;
+Terminal;KATW;44.25954;-088.513;

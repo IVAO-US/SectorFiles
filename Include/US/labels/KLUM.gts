@@ -1,2 +1,2 @@
-Score Field Apron;KLUM;44.89332;-091.8722;
-Menomonie Municipal Airport;KLUM;44.89396;-091.87284;
+Score Field Apron;KLUM;44.89324;-091.87227;
+Menomonie Municipal Airport;KLUM;44.89394;-091.87284;

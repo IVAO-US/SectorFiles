@@ -1,3 +1,6 @@
 Terminal;KROA;37.32111;-079.97177;
 Signature Flight Support;KROA;37.32298;-079.97444;
 Helicopter Parking;KROA;37.32575;-079.97547;
+De-Ice Area;KROA;37.32925;-079.97115;
+Cargo Ramp;KROA;37.33037;-079.96875;
+General Aviation;KROA;37.32389;-079.97301;

@@ -4,3 +4,5 @@ City Ramp;KJAX;30.49492;-081.6799;
 Fixed-Based Operator (FBO) Ramp;KJAX;30.49702;-081.67942;
 RAMP 1;KJAX;30.48634;-081.68518;
 Florida Air National Guard Apron;KJAX;30.48841;-081.70327;
+Concourse C;KJAX;30.49036;-081.68668;
+Concourse A;KJAX;30.49293;-081.68612;

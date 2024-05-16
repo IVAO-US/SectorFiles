@@ -5,3 +5,4 @@ North General Aviation Ramp;KFAR;46.92933;-096.81027;
 Terminal Ramp;KFAR;46.9205;-096.82609;
 Passenger Terminal;KFAR;46.91992;-096.82647;
 South General Aviation Ramp;KFAR;46.90681;-096.80791;
+North Dakota ANG Ramp;KFAR;46.91093;-096.80547;
