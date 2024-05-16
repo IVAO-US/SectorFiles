@@ -42,7 +42,11 @@ F;airways.high
 F;vfr.fix
 
 [MVA]
-
+F;KD01_GJT.mva
+F;KASE.mva
+F;KCOS.mva
+F;KD01_DEN_PUB.mva
+F;KCPR.mva
 
 [ARTCC]
 F;artcc.artcc
