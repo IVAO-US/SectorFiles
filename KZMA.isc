@@ -1,9 +1,9 @@
 [INFO]
-N25.46.36.970
-W079.18.48.268
+N25.48.52.415
+W079.19.59.929
 60
 54
--06.1639
+-06.1613
 US/ZMA;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas
 
 [DEFINE]
@@ -42,14 +42,7 @@ F;airways.high
 F;vfr.fix
 
 [MVA]
-F;KDAB.mva
-F;KF11.mva
-F;KZSU.mva
-F;KJAX.mva
-F;KMIA.mva
-F;KPBI.mva
-F;KRSW.mva
-F;KTPA.mva
+
 
 [ARTCC]
 F;artcc.artcc
@@ -289,6 +282,7 @@ F;X49.geo
 F;X51.geo
 F;X52.geo
 F;X58.geo
+F;KMCO.geo
 
 
 [FILLCOLOR]
