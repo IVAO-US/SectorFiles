@@ -1,9 +1,9 @@
 [INFO]
-N25.48.52.415
-W079.19.59.929
+N26.54.26.730
+W081.18.49.586
 60
 54
--06.1613
+-05.3396
 US/ZMA;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas
 
 [DEFINE]
@@ -44,7 +44,6 @@ F;vfr.fix
 [MVA]
 F;KDAB.mva
 F;KF11.mva
-F;KZSU.mva
 F;KJAX.mva
 F;KMIA.mva
 F;KPBI.mva
@@ -62,26 +61,6 @@ F;high.artcc
 
 [GEO]
 F;coast.geo
-F;02PR.geo
-F;PR03.geo
-F;PR10.geo
-F;PR20.geo
-F;PR25.geo
-F;PR34.geo
-F;TIST.geo
-F;TISX.geo
-F;TJAB.geo
-F;TJBQ.geo
-F;TJCP.geo
-F;TJIG.geo
-F;TJMZ.geo
-F;TJPS.geo
-F;TJRV.geo
-F;TJSJ.geo
-F;TJVQ.geo
-F;VI22.geo
-F;VI32.geo
-F;X63.geo
 F;00FA.geo
 F;00FL.geo
 F;03FA.geo
@@ -289,7 +268,6 @@ F;X49.geo
 F;X51.geo
 F;X52.geo
 F;X58.geo
-F;KMCO.geo
 
 
 [FILLCOLOR]
