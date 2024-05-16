@@ -1,4 +1,5 @@
 North Terminal, Anchorage International Airport;PANC;61.1782;-149.98915;
+FedEx Aircraft Maintenance Facility;PANC;61.19471;-149.99512;
 Concourse C;PANC;61.17493;-149.98402;
 Reeve Air Alaska;PANC;61.18186;-149.98894;
 South Terminal, Anchorage International Airport;PANC;61.17319;-149.98319;

@@ -1,3 +1,4 @@
+American Airlines Hangars;KLGA;40.77316;-073.87797;
 Marine Air Terminal;KLGA;40.77344;-073.88672;
 Terminal A;KLGA;40.77351;-073.88528;
 Eastern Concourse;KLGA;40.7737;-073.86979;

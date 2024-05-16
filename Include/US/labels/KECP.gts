@@ -1,6 +1,7 @@
 Northwest Florida Beaches International Airport;KECP;30.35515;-085.80125;
 Air Cargo Ramp;KECP;30.35331;-085.79802;
 FBO Ramp;KECP;30.34306;-085.79443;
+Air Cargo;KECP;30.35318;-085.79809;
 Sheltair;KECP;30.34376;-085.79514;
 Transient Apron;KECP;30.3458;-085.7956;
 1;KECP;30.3550687;-085.7989019;

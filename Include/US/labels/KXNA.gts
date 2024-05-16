@@ -1,3 +1,4 @@
+Envoy Air;KXNA;36.28138;-094.30166;
 Cargo Ramp;KXNA;36.27958;-094.29993;
 Alice L. Walton Terminal Building;KXNA;36.27566;-094.2989;
 Terminal Ramp;KXNA;36.27629;-094.29783;

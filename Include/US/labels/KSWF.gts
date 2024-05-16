@@ -1,3 +1,5 @@
+Cessna Aircraft Services Center;KSWF;41.50889;-074.09661;
+U.S. Global Airways;KSWF;41.51046;-074.09679;
 VIP Box;KSWF;41.49277;-074.09401;
 Compass Calibration;KSWF;41.50727;-074.10256;
 Freight;KSWF;41.5067;-074.11496;

@@ -1,7 +1,10 @@
 Greater Rochester International Airport (ROC)- Main Concourse;KROC;43.12749;-077.66825;
+USAirports FBO;KROC;43.11643;-077.6637;
 FedEx Express Air Terminal (ROC);KROC;43.11945;-077.65763;
 Susan B. Anthony - Concourse B;KROC;43.12656;-077.6653;
 Frederick A. Douglass - Concourse A;KROC;43.12648;-077.6684;
+Hangar 8;KROC;43.11772;-077.65974;
+Hangar 7;KROC;43.11656;-077.66245;
 A10;KROC;43.1258022;-077.6669801;
 A8;KROC;43.1258629;-077.6666165;
 A6A;KROC;43.126162;-077.6663431;

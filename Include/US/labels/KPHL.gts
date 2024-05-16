@@ -5,6 +5,7 @@ B;KPHL;39.87446;-075.24391;
 F;KPHL;39.88077;-075.23767;
 Terminal E;KPHL;39.87786;-075.23789;
 Terminal D/E Ticketing;KPHL;39.87781;-075.24099;
+Atlantic Executive Terminal;KPHL;39.88179;-075.22727;
 Terminal A - East;KPHL;39.87372;-075.24807;
 Terminal C;KPHL;39.87484;-075.24174;
 General Aviation Apron;KPHL;39.88148;-075.2261;

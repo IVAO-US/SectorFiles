@@ -2,6 +2,7 @@ Terminal Building;KMHT;42.9275;-071.43915;
 West Cargo Ramp;KMHT;42.92369;-071.44142;
 De-icing;KMHT;42.92753;-071.43475;
 FBO Ramp;KMHT;42.93295;-071.43172;
+Signature Flight Support Services;KMHT;42.93381;-071.43319;
 Corporate Ramp;KMHT;42.92471;-071.43385;
 Tech Ramp;KMHT;42.92511;-071.43496;
 MHT Hex Hangars;KMHT;42.92463;-071.43678;

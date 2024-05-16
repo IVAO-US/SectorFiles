@@ -8,3 +8,4 @@ Janet Terminal;KLAS;36.09219;-115.1659;
 Terminal 1;KLAS;36.08477;-115.15071;
 Terminal 1 - B Gates;KLAS;36.08303;-115.1529;
 Set Jet;KLAS;36.1001;-115.16086;
+Atlantic Aviation;KLAS;36.10017;-115.16124;

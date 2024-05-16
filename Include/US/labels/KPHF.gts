@@ -5,6 +5,7 @@ Baggage Claim;KPHF;37.1301;-076.50317;
 A Terminal;KPHF;37.12941;-076.50336;
 Newport News/Williamsburg Airport;KPHF;37.12976;-076.50417;
 South Corporate Ramp;KPHF;37.12478;-076.49645;
+ATAC;KPHF;37.12363;-076.49619;
 General Aviation Terminal;KPHF;37.13229;-076.50174;
 Air Carrier Ramp;KPHF;37.12965;-076.50264;
 General Aviation Ramp;KPHF;37.13278;-076.50115;

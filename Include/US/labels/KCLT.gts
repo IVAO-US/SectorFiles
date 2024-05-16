@@ -1,6 +1,9 @@
 NC ANG Ramp;KCLT;35.21568;-080.93241;
+American Airlines Base Maintenance Hangar;KCLT;35.20705;-080.9468;
+American Airlines Line Maintenace Hangar;KCLT;35.20748;-080.94438;
 Air Cargo;KCLT;35.21156;-080.9423;
 Wilson Air Center;KCLT;35.20965;-080.93248;
+Jetpool, LLC;KCLT;35.21934;-080.93143;
 RON Parking;KCLT;35.21745;-080.94903;
 General Aviation Ramp;KCLT;35.21075;-080.93212;
 Charlotte-Douglas International Airport;KCLT;35.22092;-080.94485;

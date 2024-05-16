@@ -1,4 +1,6 @@
 Concourse D;KRSW;26.52875;-081.75797;
+PrivateSky Aviation;KRSW;26.5366;-081.76496;
+Jet Aircraft Maintenance;KRSW;26.53731;-081.76167;
 Concourse C;KRSW;26.52886;-081.75566;
 Concourse B;KRSW;26.52812;-081.75336;
 North Ramp;KRSW;26.54208;-081.75174;
