@@ -17,10 +17,8 @@ A: [File an issue](https://github.com/IVAO-US/SectorFiles/issues/new/choose)!
 
 ## Getting Started
 
-To get started, press the "Fork" button on the top right of the
-[repository's main page](https://github.com/ivao-xa/sectorfiles). When you are done making changes, file a new
-[pull request](https://github.com/ivao-xa/sectorfiles/pulls), assign yourself, add the appropriate labels (described
-below), and request a reviewer. Thank you for your interest in contributing your time and efforts to our division.
+All ground-based data comes from OpenStreetMap. You can edit the data [here](https://openstreetmap.org/). For a
+more in-depth explnation, watch our [YouTube tutorial](https://youtu.be/-sbA0QU6yv8).  
 
 ## Structure
 
