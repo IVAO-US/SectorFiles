@@ -1,9 +1,9 @@
 [INFO]
-N34.26.40.462
-W117.01.09.647
+N34.27.45.013
+W117.05.32.216
 60
 49
-13.2099
+13.2250
 US/ZLA;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas
 
 [DEFINE]
@@ -312,7 +312,6 @@ F;UT30.geo
 F;UT47.geo
 F;UT54.geo
 F;UT91.geo
-F;KPHX.geo
 F;KCSL.geo
 F;KDRA.geo
 F;KNXF.geo
