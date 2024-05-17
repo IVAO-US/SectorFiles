@@ -6,7 +6,7 @@ Jet Aviation Dulles;KIAD;38.9691;-077.4528;
 Cargo Ramp;KIAD;38.95695;-077.45502;
 Apron W;KIAD;38.94572;-077.46782;
 R Ramp;KIAD;38.94001;-077.44806;
-Washington-Dulles International Airport, Main Terminal;KIAD;38.95303;-077.45061;
+Washington-Dulles International Airport, Main Terminal;KIAD;38.95307;-077.45064;
 Cargo Ramp;KIAD;38.95437;-077.455;
 Cargo Building 5;KIAD;38.96006;-077.45426;
 United Airlines Hangar;KIAD;38.97186;-077.45431;
