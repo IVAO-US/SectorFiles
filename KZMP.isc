@@ -1,6 +1,6 @@
 [INFO]
 N44.38.49.470
-W094.14.29.618
+W094.14.29.619
 60
 43
 02.3092
@@ -942,7 +942,6 @@ F;KPQN.geo
 F;KPRO.geo
 F;KPWC.geo
 F;KPZQ.geo
-F;KRCT.geo
 F;KRCX.geo
 F;KRDK.geo
 F;KRDR.geo
@@ -1009,6 +1008,7 @@ F;M61.geo
 F;M69.geo
 F;M96.geo
 F;MI30.geo
+F;MI31.geo
 F;MI45.geo
 F;MI55.geo
 F;MI56.geo
@@ -1084,10 +1084,10 @@ F;MY17.geo
 F;MY18.geo
 F;MY21.geo
 F;MY29.geo
-F;MY33.geo
 F;MY35.geo
 F;MY37.geo
 F;MY38.geo
+F;MY43.geo
 F;MY46.geo
 F;MY50.geo
 F;MY52.geo

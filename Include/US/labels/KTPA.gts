@@ -2,6 +2,6 @@ Pemco World Air Services - Hangar 2;KTPA;27.98304;-082.52624;
 Pemco World Air Services - Hangar 1;KTPA;27.97695;-082.5262;
 Airside A;KTPA;27.97599;-082.53271;
 Airside C;KTPA;27.98271;-082.53267;
-Airside E;KTPA;27.98001;-082.53859;
+Airside E;KTPA;27.98001;-082.53858;
 Airside F;KTPA;27.97659;-082.53796;
 Airside F;KTPA;27.97761;-082.53779;

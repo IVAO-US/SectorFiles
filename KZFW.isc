@@ -141,6 +141,7 @@ F;12TX.geo
 F;12XA.geo
 F;13TX.geo
 F;13XA.geo
+F;14TA.geo
 F;14XA.geo
 F;14XS.geo
 F;15F.geo
@@ -153,7 +154,6 @@ F;16TX.geo
 F;16X.geo
 F;17OK.geo
 F;17TX.geo
-F;17XA.geo
 F;17XS.geo
 F;18T.geo
 F;18TE.geo
@@ -900,7 +900,6 @@ F;TT98.geo
 F;TT99.geo
 F;TX00.geo
 F;TX1.geo
-F;TX11.geo
 F;TX12.geo
 F;TX15.geo
 F;TX16.geo
