@@ -1,0 +1,3 @@
+Bell Textron Inc.;KAMA;35.20684;-101.72064;
+Bell Textron Inc.;KAMA;35.20556;-101.72233;
+AMA Terminal;KAMA;35.21864;-101.70637;

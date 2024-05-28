@@ -1,0 +1,2 @@
+Coast Guard Air Station;PASI;57.05451;-135.37066;
+CGAS Sitka;PASI;57.05485;-135.36923;

@@ -1,0 +1,2 @@
+USCG;KNBG;29.82151;-090.02677;
+U.S. Coast Guard Air Station;KNBG;29.82202;-090.02762;

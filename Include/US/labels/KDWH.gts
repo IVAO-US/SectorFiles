@@ -1,0 +1,3 @@
+West Terminal;KDWH;30.06401;-095.5617;
+Torkworx;KDWH;30.05361;-095.55016;
+North Terminal;KDWH;30.07028;-095.55229;

@@ -1,0 +1,3 @@
+Sourth Terminal Apron;KLXT;38.95891;-094.37718;
+North Apron;KLXT;38.96213;-094.37599;
+East Apron;KLXT;38.96198;-094.37226;

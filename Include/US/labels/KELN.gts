@@ -1,0 +1,2 @@
+Midstate Aviation;KELN;47.02903;-120.52893;
+Tarp-It Air;KELN;47.02922;-120.52928;

@@ -1,0 +1,2 @@
+Sidney-Richland Muni. (SDY);KSDY;47.71069;-104.18606;
+Terminal;KSDY;47.7104793;-104.184598;

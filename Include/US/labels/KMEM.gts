@@ -1,0 +1,12 @@
+Wilson Air FBO;KMEM;35.05454;-089.96845;
+FedEx Maint.;KMEM;35.05433;-089.96063;
+Southern Airways Express Memphis Maitenence Hangar;KMEM;35.0527;-089.98148;
+Signature FBO Apron;KMEM;35.05473;-089.98203;
+Fedex Rampl West;KMEM;35.06494;-089.98375;
+Fedex Ramp;KMEM;35.06267;-089.96761;
+Terminal B;KMEM;35.04258;-089.98274;
+Terminal A;KMEM;35.04468;-089.9839;
+Terminal C;KMEM;35.04419;-089.98032;
+International Paper Corporate Hangar;KMEM;35.05399;-089.98212;
+UPS Apron;KMEM;35.04999;-089.96971;
+Military Ramp;KMEM;35.02795;-089.96736;

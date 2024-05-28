@@ -1,0 +1,6 @@
+Whiskey Taxilane Street;KAFO;42.7171053;-110.9404073;
+Aviat Taxiway Street;KAFO;42.7180631;-110.936126;
+Whiskey Taxilane Street;KAFO;42.7141621;-110.936479;
+Xray Taxilane Street;KAFO;42.715582;-110.9396412;
+Zulu Taxiway Street;KAFO;42.7118406;-110.9395945;
+Victor Taxilane Street;KAFO;42.7130016;-110.9394242;

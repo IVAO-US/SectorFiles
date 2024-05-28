@@ -1,0 +1,10 @@
+Terminal;KROA;37.32111;-079.97177;
+Signature Flight Support;KROA;37.32298;-079.97444;
+Helicopter Parking;KROA;37.32575;-079.97547;
+Signature;KROA;37.32334;-079.97301;
+T-Hangar;KROA;37.32436;-079.9702;
+T-Hangar;KROA;37.3246;-079.97056;
+Star Mountain Aviation;KROA;37.32244;-079.97375;
+De-Ice Area;KROA;37.32925;-079.97115;
+Cargo Ramp;KROA;37.33037;-079.96875;
+General Aviation;KROA;37.32389;-079.97301;
