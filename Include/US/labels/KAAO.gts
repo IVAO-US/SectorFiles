@@ -1,1 +1,0 @@
-Jabara FBO Building;KAAO;37.74717;-097.22496;

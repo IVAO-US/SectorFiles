@@ -1,1 +1,0 @@
-Terminal Ramp;KGCK;37.92889;-100.72066;

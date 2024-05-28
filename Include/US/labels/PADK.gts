@@ -1,4 +1,0 @@
-Old VP Hangar;PADK;51.87286;-176.6456;
-Terminal Apron;PADK;51.86922;-176.64616;
-Old AIMD Hangar;PADK;51.87478;-176.64559;
-Captain Pat Kelly Air Terminal;PADK;51.86912;-176.6464;

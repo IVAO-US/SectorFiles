@@ -1,2 +1,0 @@
-Commander Aero;KMGY;39.5928;-084.22895;
-Wright “B” Flyer;KMGY;39.59335;-084.22898;

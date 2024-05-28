@@ -1,3 +1,0 @@
-Terminal A;KSFB;28.77554;-081.24321;
-Terminal B;KSFB;28.7754;-081.24513;
-International Arrivals;KSFB;28.7755;-081.24461;

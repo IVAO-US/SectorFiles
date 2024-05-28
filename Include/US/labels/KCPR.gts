@@ -1,2 +1,0 @@
-Atlantic Aviation;KCPR;42.90131;-106.45985;
-FedEx;KCPR;42.90017;-106.46075;

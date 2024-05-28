@@ -1,7 +1,0 @@
-East Ramp;KGMU;34.8527;-082.34671;
-South Ramp;KGMU;34.84568;-082.35224;
-University Ramp;KGMU;34.84542;-082.34742;
-West Ramp;KGMU;34.84688;-082.35614;
-Special Services Corporation;KGMU;34.84536;-082.34818;
-Venture Aviation;KGMU;34.85335;-082.34689;
-Tower Ramp;KGMU;34.85067;-082.35152;

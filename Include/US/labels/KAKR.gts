@@ -1,2 +1,0 @@
-Goodyear Airdock;KAKR;41.0316;-081.4715;
-Summit Air (FBO);KAKR;41.04025;-081.46768;
