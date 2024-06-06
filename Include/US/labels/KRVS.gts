@@ -1,3 +1,4 @@
+Christiansen;KRVS;36.03994;-095.98845;
 Christiansen Aviation Jet Center;KRVS;36.0408;-095.99017;
 Lease-a-Plane;KRVS;36.03614;-095.99019;
 Spartan College of Aeronautics and Technology;KRVS;36.03751;-095.99197;

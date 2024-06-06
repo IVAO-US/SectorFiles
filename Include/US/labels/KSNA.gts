@@ -1,3 +1,3 @@
-Thomas F. Riley Terminal;KSNA;33.67826;-117.86339;
+Thomas F. Riley Terminal;KSNA;33.67829;-117.86337;
 ACI Jet;KSNA;33.67131;-117.86703;
 Isolation area;KSNA;33.66506;-117.87761;

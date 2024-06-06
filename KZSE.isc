@@ -42,11 +42,14 @@ F;airways.high
 F;vfr.fix
 
 [MVA]
+F;KGEG_PSC.mva
+F;KP80.mva
+F;KGEG.mva
+F;KEUG.mva
+F;KGEG_MSO.mva
 F;KS46.mva
 F;KPSC.mva
 F;KMWH.mva
-F;KEUG.mva
-F;KGEG.mva
 
 [ARTCC]
 F;artcc.artcc

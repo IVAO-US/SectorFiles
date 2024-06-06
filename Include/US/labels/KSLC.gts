@@ -1,4 +1,5 @@
 North Cargo;KSLC;40.80236;-111.98306;
+HB;KSLC;40.77411;-111.95684;
 Concourse A;KSLC;40.78557;-111.98595;
 Salt Lake City International Airport Terminal;KSLC;40.78434;-111.98735;
 Concourse B;KSLC;40.78872;-111.98925;

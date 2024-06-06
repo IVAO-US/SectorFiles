@@ -1,10 +1,11 @@
-GA Ramp;KAPA;39.56936;-104.84804;
 Centennial Airport;KAPA;39.57012;-104.84825;
-International Jet Aviation Services;KAPA;39.56179;-104.84841;
-U.S. Bank Equipment Finance;KAPA;39.56102;-104.84791;
-M&N Aviation;KAPA;39.56036;-104.84715;
 Alpha Ramp;KAPA;39.58252;-104.84751;
+Heliplex 130.275;KAPA;39.57516;-104.83874;
 Customs Ramp;KAPA;39.57874;-104.84912;
 Delta Ramp;KAPA;39.57563;-104.84785;
 Hotel Ramp;KAPA;39.57381;-104.83833;
+GA Ramp;KAPA;39.56936;-104.84804;
+International Jet Aviation Services;KAPA;39.56179;-104.84841;
 Alpha Ramp;KAPA;39.58185;-104.84901;
+U.S. Bank Equipment Finance;KAPA;39.56102;-104.84791;
+M&N Aviation;KAPA;39.56036;-104.84715;

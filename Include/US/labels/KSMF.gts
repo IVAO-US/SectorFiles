@@ -1,4 +1,4 @@
 Terminal A;KSMF;38.6931;-121.58808;
-Terminal B;KSMF;38.692;-121.59199;
+Terminal B;KSMF;38.692;-121.592;
 Terminal B Concourse;KSMF;38.69542;-121.59384;
 RON Parking;KSMF;38.6949;-121.58531;

@@ -1,4 +1,5 @@
 United Airlines;KEWR;40.70614;-074.16906;
+Newark Airport Helipad;KEWR;40.70434;-074.1692;
 Signature Flight Support Hangar;KEWR;40.70696;-074.17184;
 Area 340;KEWR;40.70485;-074.16714;
 Terminal A;KEWR;40.68386;-074.18669;
