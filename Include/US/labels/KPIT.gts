@@ -6,5 +6,5 @@ Pittsburgh International Airport Landside Terminal;KPIT;40.49591;-080.25887;
 Deicing Pad E;KPIT;40.49114;-080.23763;
 Deice Pad General Aviation;KPIT;40.49747;-080.2243;
 Deicing Pad C;KPIT;40.49959;-080.23723;
-NEW PIT Landside Terminal;KPIT;40.49559;-080.24873;
-Pittsburgh International Airport Airside Terminal;KPIT;40.49551;-080.24749;
+NEW PIT Landside Terminal;KPIT;40.49565;-080.24875;
+Pittsburgh International Airport Airside Terminal;KPIT;40.49552;-080.2475;
