@@ -1,4 +1,4 @@
-Northwest Florida Beaches International Airport;KECP;30.35515;-085.80125;
+Northwest Florida Beaches International Airport;KECP;30.35516;-085.80131;
 Air Cargo Ramp;KECP;30.35331;-085.79802;
 FBO Ramp;KECP;30.34306;-085.79443;
 Air Cargo;KECP;30.35318;-085.79809;
