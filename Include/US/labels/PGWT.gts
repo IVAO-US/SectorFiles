@@ -1,1 +1,1 @@
-Tinian International Airport;PGWT;14.99446;145.62512;
+Tinian International Airport;PGWT;14.99451;145.62518;

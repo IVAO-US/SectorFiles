@@ -4,4 +4,4 @@ Army Guard Heliport;KMSN;43.12965;-089.34071;
 South Holding Bay;KMSN;43.12577;-089.34572;
 North Holding Bay;KMSN;43.144;-089.34457;
 Cargo Ramp;KMSN;43.13279;-089.32775;
-West Apron;KMSN;43.13653;-089.34522;
+West Apron;KMSN;43.13624;-089.34537;

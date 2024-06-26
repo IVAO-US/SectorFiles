@@ -7,12 +7,12 @@ W097.33.19.847
 US/ZFW;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas
 
 [DEFINE]
-TAXIWAY;#999A99;
-APRON;#B9BBBB;
-OUTLINE;#000000;
-BUILDING;#773333;
-RUNWAY;#555555;
-STOPBAR;#B30000;
+TAXIWAY;#FF999A99;
+APRON;#FFB9BBBB;
+OUTLINE;#FF000000;
+BUILDING;#FF773333;
+RUNWAY;#FF555555;
+STOPBAR;#FFB30000;
 
 [ATC]
 F;atc.atc
@@ -187,7 +187,6 @@ F;1TX5.geo
 F;1TX6.geo
 F;1TX9.geo
 F;1XA1.geo
-F;1XA6.geo
 F;1XA8.geo
 F;20T.geo
 F;20TA.geo
@@ -804,6 +803,7 @@ F;T32.geo
 F;T37.geo
 F;T38.geo
 F;T39.geo
+F;T47.geo
 F;T48.geo
 F;T56.geo
 F;T58.geo
@@ -841,6 +841,7 @@ F;TA70.geo
 F;TA76.geo
 F;TA78.geo
 F;TA87.geo
+F;TA90.geo
 F;TA93.geo
 F;TE06.geo
 F;TE10.geo
@@ -936,6 +937,7 @@ F;TX93.geo
 F;TX94.geo
 F;TX96.geo
 F;TX99.geo
+F;X16.geo
 F;X65.geo
 F;XA0.geo
 F;XA03.geo

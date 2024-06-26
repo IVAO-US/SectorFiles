@@ -1,4 +1,3 @@
-Cargo 3 Apron;KPIT;40.50411;-080.24137;
 Cargo 1 and 2 Apron;KPIT;40.50434;-080.23724;
 ANG Apron;KPIT;40.48212;-080.21512;
 Deicing Pad S;KPIT;40.49124;-080.23157;
@@ -7,4 +6,5 @@ Deicing Pad E;KPIT;40.49114;-080.23763;
 Deice Pad General Aviation;KPIT;40.49747;-080.2243;
 Deicing Pad C;KPIT;40.49959;-080.23723;
 NEW PIT Landside Terminal;KPIT;40.49565;-080.24875;
+Cargo 3 Apron;KPIT;40.50406;-080.24056;
 Pittsburgh International Airport Airside Terminal;KPIT;40.49552;-080.2475;
