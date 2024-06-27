@@ -8,7 +8,7 @@ Cargo 1;KSEA;47.46392;-122.3046;
 Cargo 6;KSEA;47.45179;-122.30395;
 Cargo 2/3;KSEA;47.4613;-122.30189;
 Transient Parking;KSEA;47.43908;-122.31625;
-Sea-Tac Airport Main Terminal;KSEA;47.4433;-122.3033;
+Sea-Tac Airport Main Terminal;KSEA;47.44329;-122.30331;
 Sea-Tac Airport North Satellite;KSEA;47.44852;-122.30418;
 Sea-Tac Airport South Satellite;KSEA;47.43872;-122.30368;
 Alaska Airlines Maintenance & Engineering;KSEA;47.43581;-122.3041;
