@@ -1,1 +1,1 @@
-Leading Edge Aviation;KBDN;44.09031;-121.20398;
+Leading Edge Aviation;KBDN;44.09029;-121.20399;
