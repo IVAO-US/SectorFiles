@@ -1,1 +1,1 @@
-Midland Airport;KIKW;43.66036;-084.2623;
+Jack Barstow Airport;KIKW;43.66036;-084.26255;
