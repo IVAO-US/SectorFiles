@@ -1,7 +1,7 @@
 St. Cloud State University Aviation Program;KSTC;45.5473;-094.06977;
 Wright Aero;KSTC;45.54755;-094.06667;
 St. Cloud Aviation;KSTC;45.54703;-094.06604;
-Airline Terminal;KSTC;45.54607;-094.06679;
+Airline Terminal;KSTC;45.54607;-094.0668;
 Life Link III;KSTC;45.5524;-094.07414;
 1;KSTC;45.54037;-094.05632;
 3;KSTC;45.53998;-094.05578;

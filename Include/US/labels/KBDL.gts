@@ -1,4 +1,4 @@
-Terminal A;KBDL;41.92994;-072.68408;
+Terminal A;KBDL;41.92995;-072.68411;
 International Arrivals Terminal;KBDL;41.933;-072.69133;
 General Aviation Ramp;KBDL;41.93605;-072.6777;
 Air Cargo;KBDL;41.94005;-072.69475;
