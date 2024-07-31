@@ -1,6 +1,7 @@
 Wisconsin DNR;KOSH;43.97309;-088.5476;
 Myers Aviation;KOSH;43.98774;-088.55092;
 Cargo Apron;KOSH;43.9947;-088.56813;
+Sonex Parts Distribution Warehouse;KOSH;43.98824;-088.55077;
 Aviation Services;KOSH;43.98805;-088.55131;
 Myers Salvage Ramp;KOSH;43.98764;-088.55205;
 DNR Ramp;KOSH;43.97292;-088.54754;
@@ -17,6 +18,7 @@ PaccAir;KOSH;43.9951;-088.56805;
 Cloud 9;KOSH;43.97064;-088.55381;
 Lee Beverage;KOSH;43.98938;-088.54979;
 Hilton Garden Inn Ramp;KOSH;43.99447;-088.57194;
+Sonex Flight Center;KOSH;43.9878;-088.55027;
 C.R. Meyer;KOSH;43.99526;-088.55487;
 A&P Hangar;KOSH;43.97108;-088.54564;
 Sonex Aircraft;KOSH;43.988;-088.55056;
