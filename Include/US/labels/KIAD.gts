@@ -15,7 +15,7 @@ Cargo Building 5;KIAD;38.96006;-077.45426;
 Washington-Dulles International Airport, Main Terminal;KIAD;38.95302;-077.45076;
 Concourses C & D;KIAD;38.94529;-077.44693;
 International Arrivals Building;KIAD;38.95252;-077.4528;
-Concourse A & B;KIAD;38.94864;-077.44919;
+Concourse A & B;KIAD;38.94864;-077.44923;
 A15;KIAD;38.9496519;-077.4446136;
 A19;KIAD;38.949657;-077.4453952;
 A23;KIAD;38.9497547;-077.4459297;
