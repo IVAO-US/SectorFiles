@@ -1,9 +1,9 @@
 [INFO]
-N34.23.18.570
-W083.31.08.073
+N34.22.13.612
+W083.32.13.191
 60
 50
--04.7938
+-04.7702
 US/ZTL;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas
 
 [DEFINE]
@@ -318,7 +318,9 @@ F;69NC.geo
 F;6A1.geo
 F;6A2.geo
 F;6A4.geo
+F;6AL0.geo
 F;6AL3.geo
+F;6AL5.geo
 F;6GA0.geo
 F;6GA1.geo
 F;6GA4.geo

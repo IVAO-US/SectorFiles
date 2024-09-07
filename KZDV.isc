@@ -1,6 +1,6 @@
 [INFO]
-N40.18.51.947
-W103.55.35.229
+N40.18.51.946
+W103.55.35.230
 60
 46
 08.5250
@@ -75,6 +75,7 @@ F;06CO.geo
 F;07CO.geo
 F;07V.geo
 F;08CO.geo
+F;08UT.geo
 F;09CO.geo
 F;09K.geo
 F;0CD2.geo
@@ -164,7 +165,6 @@ F;35CO.geo
 F;35NE.geo
 F;36CO.geo
 F;37V.geo
-F;3CO0.geo
 F;3CO1.geo
 F;3CO2.geo
 F;3CO4.geo

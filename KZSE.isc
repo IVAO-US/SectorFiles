@@ -43,13 +43,12 @@ F;vfr.fix
 
 [MVA]
 F;KGEG_PSC.mva
-F;KP80.mva
-F;KGEG.mva
-F;KEUG.mva
 F;KGEG_MSO.mva
 F;KS46.mva
-F;KPSC.mva
 F;KMWH.mva
+F;KEUG.mva
+F;KP80.mva
+F;KGEG.mva
 
 [ARTCC]
 F;artcc.artcc
@@ -102,6 +101,7 @@ F;0WA2.geo
 F;0WN0.geo
 F;0WN1.geo
 F;0WN2.geo
+F;11OR.geo
 F;11S.geo
 F;11WA.geo
 F;12S.geo

@@ -1,1 +1,1 @@
-Start Skydiving;KMWO;39.52943;-084.3936;
+Start Skydiving;KMWO;39.52943;-084.39365;

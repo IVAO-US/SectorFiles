@@ -42,20 +42,19 @@ F;airways.high
 F;vfr.fix
 
 [MVA]
-F;KMLI.mva
-F;KTUL.mva
-F;KSGF.mva
-F;KEVV.mva
-F;KOKC.mva
-F;KFSM.mva
-F;KHUF.mva
-F;KMCI.mva
-F;KR90.mva
-F;KPIA.mva
-F;KCMI.mva
 F;KT75.mva
+F;KEVV.mva
 F;KICT.mva
-F;KSPI.mva
+F;KMCI.mva
+F;KCMI.mva
+F;KPIA.mva
+F;KTUL.mva
+F;KMLI.mva
+F;KHUF.mva
+F;KFSM.mva
+F;KSGF.mva
+F;KOKC.mva
+F;KR90.mva
 
 [ARTCC]
 F;artcc.artcc
@@ -362,6 +361,7 @@ F;55K.geo
 F;55KS.geo
 F;55MO.geo
 F;55OK.geo
+F;56MO.geo
 F;57IS.geo
 F;57KS.geo
 F;57MO.geo

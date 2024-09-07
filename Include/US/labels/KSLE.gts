@@ -1,1 +1,1 @@
-Passenger Terminal;KSLE;44.91047;-123.00878;
+Salem - Willamette Valley Airport;KSLE;44.91047;-123.00953;

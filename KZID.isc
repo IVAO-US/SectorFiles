@@ -1,9 +1,9 @@
 [INFO]
-N38.52.14.011
-W084.32.17.953
+N38.52.16.391
+W084.32.14.446
 60
 47
--04.5578
+-04.5685
 US/ZID;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas
 
 [DEFINE]
@@ -308,6 +308,7 @@ F;7IN3.geo
 F;7IN6.geo
 F;7IN9.geo
 F;7KY3.geo
+F;7KY4.geo
 F;7L8.geo
 F;7OA7.geo
 F;7OH3.geo

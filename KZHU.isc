@@ -189,6 +189,7 @@ F;20TS.geo
 F;20TT.geo
 F;21LA.geo
 F;21LS.geo
+F;21TT.geo
 F;21XS.geo
 F;22LA.geo
 F;22LS.geo
@@ -317,6 +318,7 @@ F;40XS.geo
 F;41TT.geo
 F;41TX.geo
 F;41XS.geo
+F;42TS.geo
 F;42TT.geo
 F;42XS.geo
 F;43TS.geo
@@ -377,7 +379,6 @@ F;52TS.geo
 F;53T.geo
 F;53XA.geo
 F;53XS.geo
-F;54AL.geo
 F;54LA.geo
 F;54T.geo
 F;54XS.geo
