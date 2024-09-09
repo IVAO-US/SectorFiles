@@ -1,1 +1,10 @@
+Wipaire;KSGS;44.8616;-093.03143;
+Advantage Aviation;KSGS;44.85499;-093.03052;
+Two Brothers;KSGS;44.85733;-093.03077;
+Cadotte Aero;KSGS;44.8589;-093.03087;
+Advanced Aviation;KSGS;44.8592;-093.03123;
+Civil Air Patrol;KSGS;44.85993;-093.03048;
+Dauntless Air;KSGS;44.86118;-093.0282;
 Commemorative Air Force Minnesota Wing;KSGS;44.86122;-093.03063;
+Fleming Field;KSGS;44.8612;-093.03064;
+Sierra Hotel Aero;KSGS;44.86212;-093.03165;
