@@ -225,6 +225,7 @@ F;30IS.geo
 F;30MI.geo
 F;31IN.geo
 F;31WN.geo
+F;33IA.geo
 F;33IL.geo
 F;34IA.geo
 F;34IN.geo
@@ -292,7 +293,6 @@ F;4C2.geo
 F;4C7.geo
 F;4C8.geo
 F;4IA2.geo
-F;4IA7.geo
 F;4II0.geo
 F;4IL2.geo
 F;4IL3.geo
@@ -497,7 +497,6 @@ F;9IL4.geo
 F;9IL7.geo
 F;9IS0.geo
 F;9IS2.geo
-F;9W7.geo
 F;9WI4.geo
 F;9WI5.geo
 F;9WI8.geo
@@ -552,7 +551,6 @@ F;IA24.geo
 F;IA27.geo
 F;IA30.geo
 F;IA42.geo
-F;IA54.geo
 F;IA63.geo
 F;IA68.geo
 F;IA8.geo
@@ -868,6 +866,7 @@ F;WI97.geo
 F;WI99.geo
 F;WN03.geo
 F;WN09.geo
+F;WN28.geo
 F;WN39.geo
 F;WN46.geo
 F;WN63.geo
@@ -893,7 +892,7 @@ F;Y50.geo
 F;Y70.geo
 F;Y72.geo
 F;Z98.geo
-
+F;IA54.geo
 
 [FILLCOLOR]
 F;online.ply

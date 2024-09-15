@@ -1,2 +1,2 @@
-Corporate Hangar;KMLI;41.452;-090.51698;
+John Deere Hangar;KMLI;41.452;-090.51703;
 FBO;KMLI;41.44234;-090.50691;
