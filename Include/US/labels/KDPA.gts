@@ -1,10 +1,10 @@
 South High Tail Hangar;KDPA;41.90521;-088.2586;
 Avel / Chicago Aviation Services Ramp;KDPA;41.91486;-088.24096;
-North Ramp;KDPA;41.91904;-088.24316;
+North Ramp;KDPA;41.91904;-088.24295;
 RT Ramp;KDPA;41.91471;-088.24977;
 Planemasters Ramp;KDPA;41.91537;-088.25771;
 ATP Ramp;KDPA;41.91636;-088.23958;
-South High Tails;KDPA;41.90464;-088.25824;
+South High Tails;KDPA;41.90459;-088.25827;
 Flight Center Ramp;KDPA;41.90752;-088.25589;
 North High Tails;KDPA;41.90884;-088.25757;
 Powis Ramp;KDPA;41.91376;-088.23945;
