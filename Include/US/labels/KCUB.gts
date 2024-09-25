@@ -1,1 +1,1 @@
-Curtiss-Wright Hangar;KCUB;33.97654;-081.00291;
+Curtiss-Wright Hangar;KCUB;33.97655;-081.00292;
