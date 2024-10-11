@@ -1,9 +1,9 @@
 [INFO]
-N38.08.48.468
-W094.26.38.131
+N38.08.51.545
+W094.24.27.796
 60
 47
-03.0050
+02.9697
 US/ZKC;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas
 
 [DEFINE]
@@ -498,6 +498,7 @@ F;8KS5.geo
 F;8KS7.geo
 F;8KS8.geo
 F;8MO3.geo
+F;8MO4.geo
 F;8MO7.geo
 F;8OK0.geo
 F;8OK4.geo

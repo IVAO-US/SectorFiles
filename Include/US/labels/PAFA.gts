@@ -1,5 +1,5 @@
-Fairbanks International Airport;PAFA;64.81749;-147.86942;
-West Ramp;PAFA;64.81809;-147.86562;
+Fairbanks International Airport;PAFA;64.81738;-147.86943;
+West Ramp;PAFA;64.81761;-147.86752;
 Wright Air Services;PAFA;64.80855;-147.85335;
 Heavy Cargo Ramp;PAFA;64.80314;-147.89354;
 6;PAFA;64.816751;-147.8691514;

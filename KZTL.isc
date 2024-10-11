@@ -1,6 +1,6 @@
 [INFO]
-N34.22.13.612
-W083.32.13.191
+N34.22.13.610
+W083.32.13.194
 60
 50
 -04.7702
@@ -486,6 +486,7 @@ F;GE30.geo
 F;GE33.geo
 F;GE35.geo
 F;GE53.geo
+F;GE61.geo
 F;GE72.geo
 F;GE99.geo
 F;KACJ.geo

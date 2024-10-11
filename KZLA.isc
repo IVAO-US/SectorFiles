@@ -1,9 +1,9 @@
 [INFO]
-N34.26.40.462
-W117.01.09.647
+N34.25.33.387
+W117.00.03.290
 60
 49
-13.1605
+13.1707
 US/ZLA;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas
 
 [DEFINE]
@@ -166,6 +166,7 @@ F;CL25.geo
 F;CL29.geo
 F;CL33.geo
 F;CL35.geo
+F;CL44.geo
 F;CL46.geo
 F;CL74.geo
 F;CN23.geo

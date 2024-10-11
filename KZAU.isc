@@ -1,6 +1,6 @@
 [INFO]
 N42.00.02.953
-W088.29.56.739
+W088.29.56.730
 60
 45
 -01.9816
@@ -126,7 +126,6 @@ F;0LL6.geo
 F;0WI2.geo
 F;0WI4.geo
 F;0WI8.geo
-F;0WN5.geo
 F;0WS7.geo
 F;10C.geo
 F;10IA.geo
@@ -275,6 +274,7 @@ F;3WI2.geo
 F;3WI5.geo
 F;3WI6.geo
 F;3WI8.geo
+F;3WN1.geo
 F;3WS9.geo
 F;40C.geo
 F;40IL.geo
@@ -502,6 +502,7 @@ F;9WI5.geo
 F;9WI8.geo
 F;9WN1.geo
 F;9WN5.geo
+F;9WN6.geo
 F;C00.geo
 F;C02.geo
 F;C03.geo
@@ -825,7 +826,6 @@ F;MI86.geo
 F;MI88.geo
 F;MI93.geo
 F;W11.geo
-F;W19.geo
 F;W23.geo
 F;WI03.geo
 F;WI07.geo

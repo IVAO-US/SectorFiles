@@ -3,7 +3,7 @@ N45.43.21.497
 W121.19.54.699
 60
 42
-15.8023
+15.7674
 US/ZSE;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas
 
 [DEFINE]
@@ -725,7 +725,6 @@ F;W66.geo
 F;WA00.geo
 F;WA01.geo
 F;WA04.geo
-F;WA07.geo
 F;WA08.geo
 F;WA10.geo
 F;WA13.geo
@@ -771,7 +770,6 @@ F;WA87.geo
 F;WA96.geo
 F;WN00.geo
 F;WN04.geo
-F;WN05.geo
 F;WN07.geo
 F;WN10.geo
 F;WN13.geo

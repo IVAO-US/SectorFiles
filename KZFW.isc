@@ -1,9 +1,9 @@
 [INFO]
-N33.15.33.081
-W097.33.19.847
+N33.15.33.561
+W097.34.28.917
 60
 50
-05.0655
+05.0473
 US/ZFW;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas
 
 [DEFINE]
@@ -80,6 +80,7 @@ F;01LA.geo
 F;01OL.geo
 F;01TE.geo
 F;01TS.geo
+F;01TX.geo
 F;02XA.geo
 F;03OL.geo
 F;03XS.geo
@@ -242,6 +243,7 @@ F;31TS.geo
 F;31TX.geo
 F;31XS.geo
 F;32OK.geo
+F;32TT.geo
 F;33OK.geo
 F;33TE.geo
 F;33XA.geo
@@ -292,6 +294,7 @@ F;40LA.geo
 F;41F.geo
 F;41TA.geo
 F;41TS.geo
+F;42TX.geo
 F;42XA.geo
 F;43LA.geo
 F;46OK.geo
@@ -529,6 +532,7 @@ F;93XA.geo
 F;93XS.geo
 F;94TA.geo
 F;94TS.geo
+F;94TT.geo
 F;94TX.geo
 F;95TS.geo
 F;96TE.geo

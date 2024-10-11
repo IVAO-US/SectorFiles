@@ -1,9 +1,9 @@
 [INFO]
-N43.53.21.528
-W111.04.29.426
+N43.54.29.270
+W111.04.28.921
 60
 43
-12.2583
+12.2479
 US/ZLC;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas
 
 [DEFINE]
@@ -161,6 +161,7 @@ F;20ID.geo
 F;20MT.geo
 F;20U.geo
 F;21MT.geo
+F;21UT.geo
 F;22ID.geo
 F;22MT.geo
 F;23ID.geo
