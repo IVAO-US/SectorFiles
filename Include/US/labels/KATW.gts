@@ -20,4 +20,4 @@ Run-up Pad;KATW;44.263;-088.52041;
 Gulfstream Paint-Hangar I;KATW;44.26632;-088.522;
 South Ramp;KATW;44.2486;-088.52079;
 Appleton Flight Center;KATW;44.24909;-088.52053;
-Terminal;KATW;44.25954;-088.513;
+Terminal;KATW;44.25956;-088.51284;

@@ -1,1 +1,1 @@
-Bradford Regional Airport Terminal;KBFD;41.79933;-078.64135;
+Bradford Regional Airport Terminal;KBFD;41.79934;-078.64135;
