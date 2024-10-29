@@ -1,1 +1,1 @@
-Jet Suite X;KCCR;37.98506;-122.05604;
+ARFF General Aviation Terminal and Administration Building;KCCR;37.98519;-122.05842;
