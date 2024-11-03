@@ -15,3 +15,4 @@ Compass Calibration;KSWF;41.50727;-074.10256;
 U.S. Global Airways;KSWF;41.51046;-074.09679;
 Cessna Aircraft Services Center;KSWF;41.50889;-074.09661;
 Freight;KSWF;41.5067;-074.11496;
+New York Stewart International Airport Passenger Terminal;KSWF;41.49847;-074.10313;
