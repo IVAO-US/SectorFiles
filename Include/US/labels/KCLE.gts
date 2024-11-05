@@ -1,7 +1,7 @@
 Atlantic Aviation FBO Hangar;KCLE;41.40149;-081.85656;
 Cleveland Hopkins International Airport - Main Terminal;KCLE;41.41117;-081.84107;
 Cleveland Hopkins International Airport - Concourse A;KCLE;41.41274;-081.84104;
-Cleveland Hopkins International Airport - Concourse D;KCLE;41.40628;-081.84085;
+Cleveland Hopkins International Airport - Concourse D;KCLE;41.40628;-081.84087;
 Cleveland Hopkins International Airport - Concourse C;KCLE;41.40783;-081.84387;
 Constant Aviation;KCLE;41.41245;-081.8333;
 PAD 1;KCLE;41.40825;-081.8472;
