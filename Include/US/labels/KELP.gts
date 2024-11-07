@@ -1,4 +1,4 @@
-El Paso International Airport;KELP;31.79964;-106.39703;
+El Paso International Airport;KELP;31.79969;-106.39694;
 Aircraft Maintenance Facility, El Paso Air Branch;KELP;31.79323;-106.39573;
 ATI Jet;KELP;31.79208;-106.39175;
 El Paso Air Branch;KELP;31.79235;-106.39095;
