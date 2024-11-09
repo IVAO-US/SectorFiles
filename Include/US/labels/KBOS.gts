@@ -4,7 +4,7 @@ Holding Apron;KBOS;42.36071;-071.00427;
 North Cargo;KBOS;42.37287;-071.02748;
 Terminal A;KBOS;42.36439;-071.02228;
 North Cargo;KBOS;42.37394;-071.02612;
-Terminal A Satellite;KBOS;42.36274;-071.0258;
+Terminal A Satellite;KBOS;42.36272;-071.0258;
 North Cargo;KBOS;42.3724;-071.02316;
 South Cargo;KBOS;42.35839;-071.02124;
 Signature Ramp;KBOS;42.37354;-071.02139;

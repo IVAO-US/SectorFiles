@@ -1,6 +1,6 @@
 [INFO]
 N26.53.21.420
-W081.18.52.123
+W081.18.52.122
 60
 54
 -05.3636
@@ -117,6 +117,7 @@ F;4FL8.geo
 F;52FA.geo
 F;52FL.geo
 F;57FL.geo
+F;59FA.geo
 F;59FD.geo
 F;5FD7.geo
 F;5FL0.geo
@@ -144,7 +145,7 @@ F;8FL1.geo
 F;90FL.geo
 F;94FL.geo
 F;95FD.geo
-F;96FD.geo
+F;9FD.geo
 F;9FD2.geo
 F;9FL3.geo
 F;9FL7.geo

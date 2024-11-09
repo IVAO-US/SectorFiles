@@ -1,6 +1,6 @@
 [INFO]
-N37.22.12.315
-W077.25.34.930
+N37.22.12.314
+W077.25.34.932
 60
 48
 -09.5906
@@ -244,6 +244,7 @@ F;4NC5.geo
 F;4NC7.geo
 F;4PN8.geo
 F;4VA3.geo
+F;4VA4.geo
 F;4VA5.geo
 F;4VA8.geo
 F;4VA9.geo
@@ -298,7 +299,6 @@ F;6VA9.geo
 F;6W4.geo
 F;70NC.geo
 F;70NR.geo
-F;70VA.geo
 F;73MD.geo
 F;76NC.geo
 F;77NC.geo
@@ -348,6 +348,7 @@ F;8NC8.geo
 F;8VA1.geo
 F;8VA4.geo
 F;8VA6.geo
+F;8VA9.geo
 F;8VG4.geo
 F;8W2.geo
 F;8WV3.geo
@@ -356,6 +357,7 @@ F;90VA.geo
 F;91VA.geo
 F;92VA.geo
 F;93VA.geo
+F;94MD.geo
 F;94NC.geo
 F;95VA.geo
 F;97VA.geo
@@ -603,6 +605,7 @@ F;NR32.geo
 F;NR37.geo
 F;NR40.geo
 F;NR68.geo
+F;NR76.geo
 F;NR77.geo
 F;NR88.geo
 F;NR92.geo

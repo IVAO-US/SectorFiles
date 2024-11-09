@@ -395,6 +395,7 @@ F;90PA.geo
 F;91NY.geo
 F;91OH.geo
 F;92G.geo
+F;92MI.geo
 F;92NY.geo
 F;92PA.geo
 F;92PN.geo
@@ -406,7 +407,6 @@ F;98NY.geo
 F;98OH.geo
 F;99MI.geo
 F;9G0.geo
-F;9G1.geo
 F;9G2.geo
 F;9G3.geo
 F;9G5.geo
@@ -576,6 +576,7 @@ F;NY39.geo
 F;NY41.geo
 F;NY49.geo
 F;NY70.geo
+F;NY75.geo
 F;NY76.geo
 F;NY78.geo
 F;NY79.geo
@@ -690,8 +691,8 @@ F;WV67.geo
 F;WV70.geo
 F;Y47.geo
 F;Y83.geo
-F;Z92.geo
 F;K89D.geo
+F;9G1.geo
 
 [FILLCOLOR]
 F;online.ply

@@ -199,7 +199,7 @@ F;30GE.geo
 F;30NC.geo
 F;31GE.geo
 F;32GA.geo
-F;32VA.geo
+F;32NR.geo
 F;33A.geo
 F;33GA.geo
 F;35A.geo
@@ -306,6 +306,7 @@ F;61GA.geo
 F;62GA.geo
 F;62NR.geo
 F;63GE.geo
+F;63TN.geo
 F;64GA.geo
 F;64GE.geo
 F;64NC.geo
@@ -338,7 +339,9 @@ F;6NR6.geo
 F;71NC.geo
 F;71TN.geo
 F;74GA.geo
+F;74TN.geo
 F;75GA.geo
+F;75NC.geo
 F;75NR.geo
 F;75TN.geo
 F;77GA.geo
@@ -364,6 +367,7 @@ F;80C.geo
 F;80GA.geo
 F;80TN.geo
 F;81GA.geo
+F;81TN.geo
 F;82A.geo
 F;82GA.geo
 F;82NR.geo

@@ -1,5 +1,5 @@
 Elliott;KDSM;41.54038;-093.65581;
-South Cargo Ramp;KDSM;41.52889;-093.6579;
+South Cargo Ramp;KDSM;41.52896;-093.65804;
 Main Terminal Ramp;KDSM;41.53409;-093.64946;
 Signature Flight Support;KDSM;41.53688;-093.6474;
 Endeavor Maintenance Hangar;KDSM;41.52721;-093.65759;
