@@ -1,3 +1,2 @@
-6-Pack Helipad;KSEZ;34.8474;-111.79294;
-Heavy Helipad;KSEZ;34.84687;-111.79315;
+Heavy Helipad;KSEZ;34.84686;-111.79315;
 Rwy 21 Run-Up Area;KSEZ;34.85356;-111.78389;
