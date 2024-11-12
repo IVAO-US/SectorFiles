@@ -4,7 +4,7 @@ W082.22.16.781
 60
 51
 -05.1942
-US/ZJX;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas
+US/ZJX;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas;US/videomaps
 
 [DEFINE]
 TAXIWAY;#FF999A99;
@@ -13,6 +13,7 @@ OUTLINE;#FF000000;
 BUILDING;#FF773333;
 RUNWAY;#FF555555;
 STOPBAR;#FFB30000;
+
 
 [ATC]
 F;atc.atc
@@ -40,6 +41,8 @@ F;airways.high
 
 [VFRFIX]
 F;vfr.fix
+
+[VFRROUTE]
 
 [MVA]
 F;KPBI.mva
@@ -76,6 +79,7 @@ F;high.artcc
 
 [GEO]
 F;coast.geo
+
 F;00SC.geo
 F;01FA.geo
 F;01FL.geo
