@@ -39,13 +39,12 @@ F;airways.low
 [HIGH AIRWAY]
 F;airways.high
 
-[VFRFIX]
-F;vfr.fix
+[VFRENR]
+F;vfr.vfi
 
 [VFRROUTE]
-1;VPLSR;VPLSR;
-1;KLAX/RW24L;KLAX/RW24L;
-1;SMO;SMO;
+F;vfr.vrt
+
 
 [MVA]
 F;KP50.mva

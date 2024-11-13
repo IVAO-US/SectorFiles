@@ -39,10 +39,12 @@ F;airways.low
 [HIGH AIRWAY]
 F;airways.high
 
-[VFRFIX]
-F;vfr.fix
+[VFRENR]
+F;vfr.vfi
 
 [VFRROUTE]
+F;vfr.vrt
+
 
 [MVA]
 F;KDAB.mva
@@ -306,8 +308,8 @@ F;MYCP.geo
 F;MYEM.geo
 F;MYBC.geo
 F;MYCA.geo
-F;MYAM.geo
 F;MYLS.geo
+F;MYAM.geo
 F;MYLD.geo
 F;MYBS.geo
 F;MYRP.geo
