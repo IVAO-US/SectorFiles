@@ -14,6 +14,8 @@ BUILDING;#FF773333;
 RUNWAY;#FF555555;
 STOPBAR;#FFB30000;
 WEST;#FF999999;
+WEST FULL;#00999999;
+VFR;#00999999;
 
 [ATC]
 F;atc.atc
@@ -67,6 +69,8 @@ F;high.artcc
 [GEO]
 F;coast.geo
 F;WEST.geo
+F;WEST FULL.geo
+F;VFR.geo
 F;00CA.geo
 F;04AZ.geo
 F;04CA.geo
