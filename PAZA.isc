@@ -4,7 +4,7 @@ W156.04.29.537
 60
 28
 14.2770
-US/ZAN;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas;US/videomaps
+US/PAZA;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas;US/videomaps
 
 [DEFINE]
 TAXIWAY;#FF999A99;
@@ -47,8 +47,8 @@ F;vfr.vrt
 
 
 [MVA]
-F;KFAI.mva
-F;KA11.mva
+F;FAI.mva
+F;A11.mva
 
 [ARTCC]
 F;artcc.artcc

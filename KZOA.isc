@@ -47,11 +47,11 @@ F;vfr.vrt
 
 
 [MVA]
-F;KFAT.mva
-F;KSBA.mva
-F;KBFL.mva
-F;KJCF.mva
-F;KNCT.mva
+F;FAT.mva
+F;SBA.mva
+F;BFL.mva
+F;JCF.mva
+F;NCT.mva
 
 [ARTCC]
 F;artcc.artcc
@@ -73,10 +73,10 @@ F;07CL.geo
 F;08CL.geo
 F;09CL.geo
 F;0CA0.geo
-F;0CA9.geo
 F;0CL0.geo
 F;0CN1.geo
 F;0CN2.geo
+F;0L4.geo
 F;0O4.geo
 F;0Q3.geo
 F;0Q4.geo
@@ -88,6 +88,7 @@ F;15CL.geo
 F;17CL.geo
 F;18CL.geo
 F;18NV.geo
+F;1A8.geo
 F;1C9.geo
 F;1NV1.geo
 F;1O2.geo
@@ -151,7 +152,6 @@ F;59CN.geo
 F;5CA7.geo
 F;5CA8.geo
 F;5CL0.geo
-F;5CL1.geo
 F;5CL9.geo
 F;60CL.geo
 F;63CL.geo

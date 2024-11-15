@@ -1,9 +1,9 @@
 [INFO]
-N45.43.21.497
-W121.19.54.699
+N45.47.46.240
+W121.21.06.198
 60
 42
-15.7674
+15.7841
 US/ZSE;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas;US/videomaps
 
 [DEFINE]
@@ -47,13 +47,13 @@ F;vfr.vrt
 
 
 [MVA]
-F;KGEG_PSC.mva
-F;KGEG_MSO.mva
-F;KS46.mva
-F;KMWH.mva
-F;KEUG.mva
-F;KP80.mva
-F;KGEG.mva
+F;GEG_PSC.mva
+F;GEG_MSO.mva
+F;S46.mva
+F;MWH.mva
+F;EUG.mva
+F;P80.mva
+F;GEG.mva
 
 [ARTCC]
 F;artcc.artcc
@@ -102,6 +102,7 @@ F;0S5.geo
 F;0S7.geo
 F;0S9.geo
 F;0W0.geo
+F;0W7.geo
 F;0WA1.geo
 F;0WA2.geo
 F;0WN0.geo
@@ -138,6 +139,7 @@ F;1OR3.geo
 F;1OR4.geo
 F;1OR5.geo
 F;1OR7.geo
+F;1RL.geo
 F;1S1.geo
 F;1S2.geo
 F;1S5.geo
@@ -187,6 +189,7 @@ F;2W1.geo
 F;2W3.geo
 F;2WA1.geo
 F;2WA2.geo
+F;2WA3.geo
 F;2WA6.geo
 F;2WA8.geo
 F;2WA9.geo
@@ -207,6 +210,7 @@ F;36WA.geo
 F;37ID.geo
 F;37OR.geo
 F;37WA.geo
+F;38W.geo
 F;38WA.geo
 F;39P.geo
 F;39WA.geo
@@ -260,6 +264,7 @@ F;4WA0.geo
 F;4WA1.geo
 F;4WA2.geo
 F;4WA4.geo
+F;4WA8.geo
 F;4WA9.geo
 F;50OR.geo
 F;51WA.geo
@@ -293,6 +298,7 @@ F;5S6.geo
 F;5W1.geo
 F;5WA0.geo
 F;5WA1.geo
+F;5WA2.geo
 F;5WA5.geo
 F;5WA7.geo
 F;5WA8.geo
@@ -371,7 +377,9 @@ F;7S5.geo
 F;7S9.geo
 F;7W1.geo
 F;7WA0.geo
+F;7WA3.geo
 F;7WA4.geo
+F;7WA5.geo
 F;80OR.geo
 F;80T.geo
 F;81OR.geo
@@ -402,8 +410,10 @@ F;8W9.geo
 F;8WA0.geo
 F;8WA6.geo
 F;8WA7.geo
+F;90WA.geo
 F;91WA.geo
 F;91WT.geo
+F;93WA.geo
 F;94OR.geo
 F;94WA.geo
 F;95ID.geo
@@ -480,6 +490,7 @@ F;KAST.geo
 F;KAWO.geo
 F;KBDN.geo
 F;KBFI.geo
+F;KBLI.geo
 F;KBOK.geo
 F;KBVS.geo
 F;KCEC.geo
@@ -521,6 +532,7 @@ F;KOKH.geo
 F;KOLM.geo
 F;KOMK.geo
 F;KONP.geo
+F;KORS.geo
 F;KOTH.geo
 F;KPAE.geo
 F;KPDT.geo
@@ -723,6 +735,8 @@ F;W28.geo
 F;W33.geo
 F;W36.geo
 F;W37.geo
+F;W39.geo
+F;W49.geo
 F;W52.geo
 F;W55.geo
 F;W56.geo
@@ -732,7 +746,9 @@ F;WA00.geo
 F;WA01.geo
 F;WA04.geo
 F;WA08.geo
+F;WA09.geo
 F;WA10.geo
+F;WA12.geo
 F;WA13.geo
 F;WA14.geo
 F;WA16.geo
@@ -747,6 +763,7 @@ F;WA29.geo
 F;WA30.geo
 F;WA32.geo
 F;WA35.geo
+F;WA39.geo
 F;WA41.geo
 F;WA42.geo
 F;WA45.geo
@@ -773,10 +790,14 @@ F;WA81.geo
 F;WA83.geo
 F;WA84.geo
 F;WA87.geo
+F;WA88.geo
+F;WA90.geo
+F;WA93.geo
 F;WA96.geo
 F;WN00.geo
 F;WN04.geo
 F;WN07.geo
+F;WN08.geo
 F;WN10.geo
 F;WN13.geo
 F;WN15.geo
@@ -788,6 +809,7 @@ F;WN23.geo
 F;WN26.geo
 F;WN29.geo
 F;WN31.geo
+F;WN35.geo
 F;WN41.geo
 F;WN42.geo
 F;WN45.geo
@@ -811,6 +833,7 @@ F;WN92.geo
 F;WS87.geo
 F;WT01.geo
 F;WT04.geo
+F;WT15.geo
 F;WT18.geo
 F;WT21.geo
 F;WT24.geo
@@ -821,6 +844,7 @@ F;WT44.geo
 F;WT77.geo
 F;WT88.geo
 F;Z99.geo
+F;K1RL.geo
 F;K4S2.geo
 F;WA40.geo
 F;S08.geo

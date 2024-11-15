@@ -47,11 +47,11 @@ F;vfr.vrt
 
 
 [MVA]
-F;KD01_GJT.mva
-F;KASE.mva
-F;KCOS.mva
-F;KD01_DEN_PUB.mva
-F;KCPR.mva
+F;D01_GJT.mva
+F;ASE.mva
+F;COS.mva
+F;D01_DEN_PUB.mva
+F;CPR.mva
 
 [ARTCC]
 F;artcc.artcc
@@ -184,6 +184,7 @@ F;3SD3.geo
 F;41CO.geo
 F;42V.geo
 F;43CO.geo
+F;43NE.geo
 F;44CO.geo
 F;45WY.geo
 F;46CO.geo
@@ -534,6 +535,7 @@ F;UT42.geo
 F;UT53.geo
 F;UT68.geo
 F;UT74.geo
+F;UT75.geo
 F;W43.geo
 F;WY01.geo
 F;WY02.geo

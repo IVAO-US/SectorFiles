@@ -14,7 +14,7 @@ N6 Hangars;KSBP;35.23466;-120.63369;
 N3 Hangars;KSBP;35.2355;-120.63462;
 N1 Hangars;KSBP;35.23572;-120.63543;
 West Side Ramp;KSBP;35.23847;-120.6473;
-San Luis Obispo Regional Airport Terminal;KSBP;35.23878;-120.64011;
+San Luis Obispo Regional Airport Terminal;KSBP;35.23872;-120.6401;
 Runway 29 Hold Pad;KSBP;35.23307;-120.63309;
 Runway 11 Hold Pad;KSBP;35.24128;-120.64665;
 Site Q;KSBP;35.23923;-120.64875;

@@ -1,9 +1,9 @@
 [INFO]
-N43.54.29.270
-W111.04.28.921
+N43.51.11.994
+W111.07.46.644
 60
 43
-12.2479
+12.2705
 US/ZLC;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas;US/videomaps
 
 [DEFINE]
@@ -47,14 +47,14 @@ F;vfr.vrt
 
 
 [MVA]
-F;KBIL.mva
-F;KGEG_MSO.mva
-F;KS56.mva
-F;KGTF.mva
-F;KZLC_GTF.mva
-F;KBOI.mva
-F;KCPR.mva
-F;KBOI_BZN.mva
+F;BIL.mva
+F;GEG_MSO.mva
+F;S56.mva
+F;GTF.mva
+F;ZLC_GTF.mva
+F;BOI.mva
+F;CPR.mva
+F;BOI_BZN.mva
 
 [ARTCC]
 F;artcc.artcc
@@ -489,6 +489,7 @@ F;KSMN.geo
 F;KSPK.geo
 F;KSUN.geo
 F;KTMT.geo
+F;KTPH.geo
 F;KTVY.geo
 F;KTWF.geo
 F;KVEL.geo

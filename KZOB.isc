@@ -1,9 +1,9 @@
 [INFO]
-N41.32.16.878
-W081.27.43.859
+N41.33.21.667
+W081.20.00.547
 60
 45
--07.6887
+-07.8288
 US/ZOB;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas;US/videomaps
 
 [DEFINE]
@@ -47,26 +47,26 @@ F;vfr.vrt
 
 
 [MVA]
-F;KBGM.mva
-F;KROC.mva
-F;KD21.mva
-F;KTOL.mva
-F;KGTB.mva
-F;KPCT.mva
-F;KAVP.mva
-F;KCMH.mva
-F;KMDT.mva
-F;KSYR.mva
-F;KELM.mva
-F;KPIT.mva
-F;KCLE.mva
-F;KBUF.mva
-F;KHTS.mva
-F;KAZO.mva
-F;KCKB.mva
-F;KYNG.mva
-F;KCRW.mva
-F;KFWA.mva
+F;BGM.mva
+F;ROC.mva
+F;D21.mva
+F;TOL.mva
+F;GTB.mva
+F;PCT.mva
+F;AVP.mva
+F;CMH.mva
+F;MDT.mva
+F;SYR.mva
+F;ELM.mva
+F;PIT.mva
+F;CLE.mva
+F;BUF.mva
+F;HTS.mva
+F;AZO.mva
+F;CKB.mva
+F;YNG.mva
+F;FWA.mva
+F;SBN.mva
 
 [ARTCC]
 F;artcc.artcc
@@ -83,7 +83,7 @@ F;coast.geo
 F;CYQG.geo
 F;00NY.geo
 F;00PN.geo
-F;00WV.geo
+F;01F.geo
 F;01G.geo
 F;01PA.geo
 F;02G.geo
@@ -95,8 +95,10 @@ F;05PS.geo
 F;06OH.geo
 F;06PA.geo
 F;07PA.geo
+F;07PN.geo
 F;08OH.geo
 F;0G6.geo
+F;0G7.geo
 F;0NK0.geo
 F;0NK3.geo
 F;0OH5.geo
@@ -123,6 +125,7 @@ F;16MI.geo
 F;17G.geo
 F;17OH.geo
 F;17PS.geo
+F;18MI.geo
 F;18OI.geo
 F;18WV.geo
 F;19NY.geo
@@ -136,6 +139,7 @@ F;1G8.geo
 F;1MI4.geo
 F;1MI5.geo
 F;1MI6.geo
+F;1N3.geo
 F;1OA2.geo
 F;1OH2.geo
 F;1OH3.geo
@@ -148,7 +152,9 @@ F;20OH.geo
 F;22D.geo
 F;22T.geo
 F;23NK.geo
+F;23NY.geo
 F;25MI.geo
+F;25NK.geo
 F;25OH.geo
 F;26OH.geo
 F;26W.geo
@@ -169,7 +175,6 @@ F;2G1.geo
 F;2G2.geo
 F;2G4.geo
 F;2G9.geo
-F;2MD8.geo
 F;2MI3.geo
 F;2OA1.geo
 F;2OA6.geo
@@ -187,10 +192,12 @@ F;32OH.geo
 F;32PN.geo
 F;33OI.geo
 F;34G.geo
+F;34OH.geo
 F;34OI.geo
 F;35MI.geo
 F;35NK.geo
 F;38D.geo
+F;38NY.geo
 F;39G.geo
 F;39OH.geo
 F;39PN.geo
@@ -204,6 +211,7 @@ F;3G4.geo
 F;3G5.geo
 F;3G6.geo
 F;3G9.geo
+F;3II0.geo
 F;3NK4.geo
 F;3NK6.geo
 F;3NP.geo
@@ -212,6 +220,7 @@ F;3OH8.geo
 F;3PN6.geo
 F;3PN9.geo
 F;3PS2.geo
+F;3PS4.geo
 F;3PS9.geo
 F;3S5.geo
 F;3T7.geo
@@ -233,13 +242,14 @@ F;44MI.geo
 F;45G.geo
 F;45OI.geo
 F;46MI.geo
-F;48D.geo
+F;46NY.geo
+F;47NY.geo
 F;48G.geo
-F;48I.geo
 F;48NY.geo
 F;48PS.geo
 F;49G.geo
 F;49NK.geo
+F;4C2.geo
 F;4D0.geo
 F;4G1.geo
 F;4G2.geo
@@ -251,7 +261,6 @@ F;4M4.geo
 F;4MD2.geo
 F;4MI1.geo
 F;4MI4.geo
-F;4MI7.geo
 F;4MI8.geo
 F;4N2.geo
 F;4NK3.geo
@@ -267,11 +276,11 @@ F;50G.geo
 F;51G.geo
 F;51MI.geo
 F;51OH.geo
-F;52I.geo
 F;52NY.geo
 F;53NY.geo
 F;53OH.geo
 F;54MI.geo
+F;54OH.geo
 F;55D.geo
 F;55G.geo
 F;55NY.geo
@@ -280,6 +289,7 @@ F;56D.geo
 F;56NY.geo
 F;56WV.geo
 F;57D.geo
+F;57P.geo
 F;58OH.geo
 F;58PA.geo
 F;59NY.geo
@@ -326,6 +336,7 @@ F;6OH7.geo
 F;6P7.geo
 F;6PA4.geo
 F;6PN5.geo
+F;6PS3.geo
 F;6W0.geo
 F;70D.geo
 F;70PN.geo
@@ -338,14 +349,12 @@ F;75MI.geo
 F;75NY.geo
 F;75PA.geo
 F;75PN.geo
-F;75WV.geo
 F;76G.geo
 F;77G.geo
 F;77PA.geo
 F;78MI.geo
 F;78NY.geo
 F;78OH.geo
-F;79D.geo
 F;79MI.geo
 F;79OH.geo
 F;7D8.geo
@@ -353,6 +362,7 @@ F;7D9.geo
 F;7G0.geo
 F;7G1.geo
 F;7G8.geo
+F;7IN2.geo
 F;7MI.geo
 F;7MI6.geo
 F;7MI8.geo
@@ -405,6 +415,7 @@ F;92MI.geo
 F;92NY.geo
 F;92PA.geo
 F;92PN.geo
+F;94NY.geo
 F;95NY.geo
 F;96G.geo
 F;97G.geo
@@ -449,6 +460,8 @@ F;E75.geo
 F;G05.geo
 F;I10.geo
 F;I64.geo
+F;II16.geo
+F;IN83.geo
 F;KADG.geo
 F;KAFJ.geo
 F;KAGC.geo
@@ -457,7 +470,6 @@ F;KAMN.geo
 F;KAOO.geo
 F;KARB.geo
 F;KAXQ.geo
-F;KBAX.geo
 F;KBFD.geo
 F;KBJJ.geo
 F;KBKL.geo
@@ -479,16 +491,15 @@ F;KDSV.geo
 F;KDTW.geo
 F;KDUH.geo
 F;KDUJ.geo
-F;KEKN.geo
 F;KELZ.geo
 F;KERI.geo
 F;KFDY.geo
+F;KFIG.geo
 F;KFKL.geo
 F;KFNT.geo
 F;KFPK.geo
 F;KFWQ.geo
 F;KFZI.geo
-F;KGDW.geo
 F;KGKJ.geo
 F;KGQQ.geo
 F;KGVQ.geo
@@ -499,7 +510,6 @@ F;KHYX.geo
 F;KHZY.geo
 F;KIAG.geo
 F;KIDI.geo
-F;KIKW.geo
 F;KIUA.geo
 F;KJHW.geo
 F;KJST.geo
@@ -513,7 +523,6 @@ F;KMBS.geo
 F;KMFD.geo
 F;KMGW.geo
 F;KMNN.geo
-F;KMOP.geo
 F;KMPG.geo
 F;KMTC.geo
 F;KOLE.geo
@@ -522,12 +531,14 @@ F;KOWX.geo
 F;KOYM.geo
 F;KOZW.geo
 F;KPCW.geo
+F;KPEO.geo
 F;KPHD.geo
 F;KPHN.geo
 F;KPIT.geo
 F;KPJC.geo
 F;KPOV.geo
 F;KPTK.geo
+F;KRMY.geo
 F;KRNP.geo
 F;KROC.geo
 F;KSDC.geo
@@ -546,7 +557,6 @@ F;KYNG.geo
 F;M99.geo
 F;MI01.geo
 F;MI05.geo
-F;MI1.geo
 F;MI10.geo
 F;MI11.geo
 F;MI12.geo
@@ -557,8 +567,8 @@ F;MI26.geo
 F;MI27.geo
 F;MI28.geo
 F;MI29.geo
+F;MI35.geo
 F;MI41.geo
-F;MI44.geo
 F;MI48.geo
 F;MI53.geo
 F;MI70.geo
@@ -578,6 +588,7 @@ F;NY16.geo
 F;NY24.geo
 F;NY27.geo
 F;NY33.geo
+F;NY34.geo
 F;NY39.geo
 F;NY41.geo
 F;NY49.geo
@@ -676,9 +687,7 @@ F;PS64.geo
 F;PS66.geo
 F;R47.geo
 F;S24.geo
-F;W22.geo
 F;W87.geo
-F;WV15.geo
 F;WV19.geo
 F;WV28.geo
 F;WV29.geo
@@ -690,11 +699,8 @@ F;WV44.geo
 F;WV46.geo
 F;WV53.geo
 F;WV57.geo
-F;WV62.geo
 F;WV65.geo
 F;WV66.geo
-F;WV67.geo
-F;WV70.geo
 F;Y47.geo
 F;Y83.geo
 F;K89D.geo

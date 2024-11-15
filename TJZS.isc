@@ -4,7 +4,7 @@ W066.01.09.539
 60
 57
 -11.6250
-US/ZSU;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas;US/videomaps
+US/TJZS;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas;US/videomaps
 
 [DEFINE]
 TAXIWAY;#FF999A99;
@@ -47,7 +47,7 @@ F;vfr.vrt
 
 
 [MVA]
-F;TJZS.mva
+F;ZSU.mva
 
 [ARTCC]
 F;artcc.artcc

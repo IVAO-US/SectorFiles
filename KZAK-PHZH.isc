@@ -4,7 +4,7 @@ W182.01.10.502
 60
 58
 07.7273
-US/ZAK;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas;US/videomaps
+US/KZAK;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas;US/videomaps
 
 [DEFINE]
 TAXIWAY;#FF999A99;
@@ -47,7 +47,7 @@ F;vfr.vrt
 
 
 [MVA]
-F;PHZH.mva
+
 
 [ARTCC]
 F;artcc.artcc
@@ -123,7 +123,6 @@ F;PWAK.geo
 F;TT01.geo
 F;TT02.geo
 F;PLPA.geo
-F;PHIK.geo
 
 [FILLCOLOR]
 F;online.ply

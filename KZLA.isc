@@ -1,9 +1,9 @@
 [INFO]
-N34.25.33.387
-W117.00.03.290
+N34.22.17.237
+W117.00.02.945
 60
-49
-13.1707
+50
+13.1481
 US/ZLA;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas;US/videomaps
 
 [DEFINE]
@@ -49,13 +49,13 @@ F;vfr.vrt
 
 
 [MVA]
-F;KP50.mva
-F;KSBA.mva
-F;KL30.mva
-F;KFAT.mva
-F;KBFL.mva
-F;KJCF.mva
-F;KSCT.mva
+F;P50.mva
+F;SBA.mva
+F;L30.mva
+F;FAT.mva
+F;BFL.mva
+F;JCF.mva
+F;SCT.mva
 
 [ARTCC]
 F;artcc.artcc
@@ -80,15 +80,14 @@ F;05UT.geo
 F;0CA4.geo
 F;0CA5.geo
 F;0CA6.geo
+F;0CA9.geo
 F;0CL1.geo
 F;0CL3.geo
 F;0CL8.geo
-F;0L4.geo
 F;0L7.geo
 F;0L9.geo
 F;0O2.geo
 F;11CL.geo
-F;1A8.geo
 F;1AZ8.geo
 F;1CA6.geo
 F;1CL1.geo
@@ -131,6 +130,7 @@ F;56CL.geo
 F;57CL.geo
 F;58CL.geo
 F;5CA4.geo
+F;5CL1.geo
 F;5CL7.geo
 F;5CL8.geo
 F;5CN4.geo
@@ -158,12 +158,10 @@ F;9L2.geo
 F;A09.geo
 F;A20.geo
 F;AZ03.geo
-F;AZ06.geo
 F;AZ25.geo
 F;AZ34.geo
 F;AZ49.geo
 F;AZ50.geo
-F;AZ60.geo
 F;AZ97.geo
 F;CA42.geo
 F;CA70.geo
@@ -269,7 +267,6 @@ F;KSZP.geo
 F;KTNP.geo
 F;KTNX.geo
 F;KTOA.geo
-F;KTPH.geo
 F;KTRM.geo
 F;KTSP.geo
 F;KUDD.geo
@@ -329,6 +326,7 @@ F;KCSL.geo
 F;KDRA.geo
 F;KNXF.geo
 F;KXTA.geo
+F;MMTJ.geo
 F;KUCC.geo
 
 [FILLCOLOR]

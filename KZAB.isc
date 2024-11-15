@@ -47,14 +47,14 @@ F;vfr.vrt
 
 
 [MVA]
-F;KU90.mva
-F;KABQ.mva
-F;KROW.mva
-F;KELP.mva
-F;KLBB.mva
-F;KMAF.mva
-F;KAMA.mva
-F;KP50.mva
+F;U90.mva
+F;ABQ.mva
+F;ROW.mva
+F;ELP.mva
+F;LBB.mva
+F;MAF.mva
+F;AMA.mva
+F;P50.mva
 
 [ARTCC]
 F;artcc.artcc
@@ -196,6 +196,7 @@ F;AZ00.geo
 F;AZ01.geo
 F;AZ04.geo
 F;AZ05.geo
+F;AZ06.geo
 F;AZ09.geo
 F;AZ13.geo
 F;AZ14.geo
@@ -212,6 +213,7 @@ F;AZ43.geo
 F;AZ45.geo
 F;AZ46.geo
 F;AZ57.geo
+F;AZ60.geo
 F;AZ61.geo
 F;AZ63.geo
 F;AZ64.geo
