@@ -1,4 +1,4 @@
-Tucson International Airport;KTUS;32.12025;-110.93877;
+Tucson International Airport;KTUS;32.12025;-110.93878;
 Atlantic Aviation;KTUS;32.1251;-110.94596;
 C Gates;KTUS;32.12287;-110.93933;
 A5;KTUS;32.1193112;-110.936815;

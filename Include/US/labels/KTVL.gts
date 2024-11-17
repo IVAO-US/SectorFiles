@@ -1,1 +1,1 @@
-Lake Tahoe Airport Terminal;KTVL;38.89247;-119.9999;
+Lake Tahoe Airport Terminal;KTVL;38.89248;-119.99991;

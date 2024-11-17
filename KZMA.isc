@@ -47,12 +47,7 @@ F;vfr.vrt
 
 
 [MVA]
-F;DAB.mva
-F;F11.mva
-F;MIA.mva
-F;PBI.mva
-F;RSW.mva
-F;TPA.mva
+
 
 [ARTCC]
 F;artcc.artcc
@@ -315,8 +310,8 @@ F;MYCP.geo
 F;MYEM.geo
 F;MYBC.geo
 F;MYCA.geo
-F;MYAM.geo
 F;MYLS.geo
+F;MYAM.geo
 F;MYLD.geo
 F;MYBS.geo
 
