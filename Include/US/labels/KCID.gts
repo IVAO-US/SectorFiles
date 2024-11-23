@@ -5,4 +5,3 @@ West Cargo;KCID;41.88732;-091.72522;
 Signature Flight Support;KCID;41.88787;-091.71946;
 Eastern Iowa Airport - Donald J. Canney Terminal;KCID;41.88744;-091.70457;
 A9;KCID;41.8860335;-091.699952;
-A7;KCID;41.8861495;-091.7038985;
