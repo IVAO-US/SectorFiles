@@ -1,1 +1,1 @@
-Chippewa County International Airport;KCIU;46.25765;-084.47635;
+Chippewa County International Airport;KCIU;46.25764;-084.47634;
