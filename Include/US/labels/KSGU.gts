@@ -1,1 +1,1 @@
-St. George Regional Airport;KSGU;37.03061;-113.51034;
+St. George Regional Airport;KSGU;37.03061;-113.51035;

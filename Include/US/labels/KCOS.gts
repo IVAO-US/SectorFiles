@@ -1,13 +1,13 @@
 North GA Ramp/East;KCOS;38.81793;-104.72013;
-Building 3;KCOS;38.82136;-104.7203;
-Building 2;KCOS;38.82135;-104.72068;
-Building 1;KCOS;38.82138;-104.72111;
+Building 3;KCOS;38.82137;-104.72027;
+Building 2;KCOS;38.82136;-104.72069;
+Building 1;KCOS;38.82141;-104.72113;
 Passenger Terminal;KCOS;38.79793;-104.70173;
 GA Ramp;KCOS;38.80862;-104.72141;
-Westpac Restorations;KCOS;38.82115;-104.72274;
+Westpac Restorations;KCOS;38.82114;-104.7228;
 East Terminal;KCOS;38.79769;-104.69929;
 North GA Ramp/West;KCOS;38.81778;-104.72222;
-Kaija Raven Shook Aeronautical Pavilion;KCOS;38.82059;-104.72258;
+Kaija Raven Shook Aeronautical Pavilion;KCOS;38.82052;-104.72243;
 Deice Apron;KCOS;38.78188;-104.68942;
 Terminal Ramp;KCOS;38.79906;-104.7015;
 A/DACG;KCOS;38.77915;-104.68974;
