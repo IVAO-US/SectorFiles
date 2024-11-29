@@ -13,7 +13,7 @@ OUTLINE;#FF000000;
 BUILDING;#FF773333;
 RUNWAY;#FF555555;
 STOPBAR;#FFB30000;
-
+PHZH;#FF87CEEB;
 
 [ATC]
 F;atc.atc
@@ -60,7 +60,7 @@ F;high.artcc
 
 [GEO]
 F;coast.geo
-
+F;PHZH.geo
 F;03N.geo
 F;18HI.geo
 F;1Q9.geo
