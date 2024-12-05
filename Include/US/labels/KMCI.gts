@@ -1,7 +1,7 @@
-United States Postal Service;KMCI;39.30465;-094.72215;
-United Parcel Service;KMCI;39.30648;-094.72152;
-Joint Cargo;KMCI;39.30998;-094.72078;
-General Aviation Ramp;KMCI;39.31377;-094.71953;
-Closed Apron;KMCI;39.31824;-094.71735;
-FedEx Cargo;KMCI;39.32139;-094.7174;
+United States Postal Service;KMCI;39.30459;-094.72198;
+United Parcel Service;KMCI;39.30671;-094.72149;
+Joint Cargo;KMCI;39.31003;-094.72078;
+General Aviation Ramp;KMCI;39.31382;-094.71967;
+Closed Apron;KMCI;39.31815;-094.71766;
+FedEx Cargo;KMCI;39.32134;-094.71739;
 Airport Terminal;KMCI;39.29852;-094.7218;
