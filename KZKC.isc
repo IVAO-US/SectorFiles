@@ -3,7 +3,7 @@ N38.07.44.229
 W094.30.04.721
 60
 47
-03.0737
+03.0526
 US/ZKC;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas;US/videomaps
 
 [DEFINE]
@@ -146,6 +146,7 @@ F;16MO.geo
 F;17KS.geo
 F;17MO.geo
 F;17MU.geo
+F;17Q.geo
 F;18K.geo
 F;18KS.geo
 F;18MO.geo
@@ -234,6 +235,7 @@ F;2MO2.geo
 F;2MO4.geo
 F;2MO6.geo
 F;2MO7.geo
+F;2MO8.geo
 F;2MO9.geo
 F;2MU9.geo
 F;2OK6.geo
@@ -260,7 +262,6 @@ F;37LL.geo
 F;37MO.geo
 F;38IS.geo
 F;38K.geo
-F;38KS.geo
 F;38MO.geo
 F;39K.geo
 F;39KS.geo
@@ -338,7 +339,6 @@ F;4KS4.geo
 F;4KS5.geo
 F;4KS6.geo
 F;4KS9.geo
-F;4LL9.geo
 F;4MO1.geo
 F;4MO2.geo
 F;4MO4.geo
@@ -498,6 +498,7 @@ F;88IL.geo
 F;88IS.geo
 F;89IL.geo
 F;89MO.geo
+F;8IL3.geo
 F;8K0.geo
 F;8K2.geo
 F;8K8.geo
@@ -772,6 +773,7 @@ F;LL49.geo
 F;LL77.geo
 F;M17.geo
 F;M48.geo
+F;M64.geo
 F;M66.geo
 F;M71.geo
 F;MO01.geo
@@ -903,13 +905,13 @@ F;OL35.geo
 F;OL36.geo
 F;OL39.geo
 F;OL40.geo
+F;OL55.geo
 F;OL56.geo
 F;OMU9.geo
 F;SN04.geo
 F;SN05.geo
 F;SN08.geo
 F;SN10.geo
-F;SN12.geo
 F;SN13.geo
 F;SN18.geo
 F;SN20.geo

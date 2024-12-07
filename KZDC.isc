@@ -1,6 +1,6 @@
 [INFO]
-N37.29.54.462
-W077.22.17.899
+N37.29.54.466
+W077.22.17.903
 60
 48
 -09.6266
@@ -267,6 +267,7 @@ F;4WV4.geo
 F;51NC.geo
 F;51VA.geo
 F;52NC.geo
+F;52NR.geo
 F;53VA.geo
 F;53VG.geo
 F;54NC.geo
@@ -603,7 +604,6 @@ F;NC36.geo
 F;NC37.geo
 F;NC40.geo
 F;NC44.geo
-F;NC45.geo
 F;NC48.geo
 F;NC49.geo
 F;NC54.geo

@@ -302,6 +302,7 @@ F;58AR.geo
 F;58MU.geo
 F;58TN.geo
 F;59AR.geo
+F;59TN.geo
 F;5A4.geo
 F;5A6.geo
 F;5AL5.geo
@@ -401,6 +402,7 @@ F;82LS.geo
 F;83MS.geo
 F;83OK.geo
 F;87I.geo
+F;87TN.geo
 F;88MS.geo
 F;88TN.geo
 F;89OK.geo
@@ -420,9 +422,11 @@ F;8TN6.geo
 F;8TN7.geo
 F;8TN8.geo
 F;8TN9.geo
+F;90AR.geo
 F;90MS.geo
 F;93MS.geo
 F;94AR.geo
+F;94TN.geo
 F;95IL.geo
 F;95MO.geo
 F;95TN.geo
@@ -692,6 +696,7 @@ F;MS39.geo
 F;MS40.geo
 F;MS41.geo
 F;MS43.geo
+F;MS44.geo
 F;MS45.geo
 F;MS55.geo
 F;MS58.geo
