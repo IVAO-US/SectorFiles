@@ -4,7 +4,7 @@ Lane Aviation;KCMH;39.99722;-082.89158;
 Lane Aviation;KCMH;39.99721;-082.89248;
 Lane Aviation;KCMH;39.99724;-082.89076;
 10L Holding Area;KCMH;40.00158;-082.90759;
-John Glenn Columbus International Airport;KCMH;39.99796;-082.88608;
+John Glenn Columbus International Airport;KCMH;39.99795;-082.88608;
 Landmark Aviation;KCMH;39.99012;-082.89493;
 CMH Original Terminal (Historic);KCMH;39.98675;-082.87337;
 Republic Airways;KCMH;39.98889;-082.88596;
