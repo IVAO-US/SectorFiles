@@ -1,1 +1,1 @@
-Plattsburgh International Airport;KPBG;44.66892;-073.47376;
+Passenger Terminal;KPBG;44.66893;-073.4729;

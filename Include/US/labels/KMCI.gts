@@ -1,5 +1,5 @@
 United States Postal Service;KMCI;39.30459;-094.72198;
-United Parcel Service;KMCI;39.30671;-094.72149;
+United Parcel Service;KMCI;39.30667;-094.72153;
 Joint Cargo;KMCI;39.31003;-094.72078;
 General Aviation Ramp;KMCI;39.31382;-094.71967;
 Closed Apron;KMCI;39.31815;-094.71766;

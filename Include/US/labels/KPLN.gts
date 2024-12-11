@@ -1,1 +1,1 @@
-Pellston Regional Airport Terminal;KPLN;45.57142;-084.78773;
+Passenger Terminal;KPLN;45.57135;-084.78693;

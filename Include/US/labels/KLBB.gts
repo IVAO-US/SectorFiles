@@ -1,4 +1,4 @@
-Lubbock Preston Smith International Airport;KLBB;33.65636;-101.8243;
+Lubbock Preston Smith International Airport;KLBB;33.65638;-101.82428;
 Cargo Ramp;KLBB;33.67297;-101.83385;
 Chapparal Aviation;KLBB;33.65781;-101.81593;
 2;KLBB;33.6729855;-101.8327166;

@@ -42,7 +42,7 @@ F;airways.high
 [VFRENR]
 F;vfr.vfi
 
-[VFRROUTE]
+[VFRRTEENR]
 F;vfr.vrt
 
 
@@ -308,8 +308,8 @@ F;MYCP.geo
 F;MYEM.geo
 F;MYBC.geo
 F;MYCA.geo
-F;MYAM.geo
 F;MYLS.geo
+F;MYAM.geo
 F;MYLD.geo
 F;MYBS.geo
 

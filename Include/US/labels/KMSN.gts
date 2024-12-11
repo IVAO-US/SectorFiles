@@ -1,4 +1,4 @@
-East Apron;KMSN;43.14092;-089.32775;
+East Apron;KMSN;43.14089;-089.32777;
 South Apron;KMSN;43.13404;-089.33138;
 Army Guard Heliport;KMSN;43.12965;-089.34071;
 South Holding Bay;KMSN;43.12577;-089.34572;
