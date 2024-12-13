@@ -1,1 +1,1 @@
-Rickenbacker Passenger Terminal;KLCK;39.8171;-082.93763;
+Rickenbacker Passenger Terminal;KLCK;39.81709;-082.93768;
