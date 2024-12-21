@@ -1,10 +1,10 @@
-Midland International Air and Space Port;KMAF;31.93714;-102.20954;
+Midland International Air and Space Port;KMAF;31.93714;-102.20953;
 West Executive Ramp;KMAF;31.94442;-102.2177;
 East Ramp;KMAF;31.93487;-102.1951;
 Run-Up Pad;KMAF;31.94577;-102.21628;
 CAF Ramp;KMAF;31.94355;-102.21477;
 Apron U;KMAF;31.94309;-102.21259;
-Air Carrier Ramp / SIDA;KMAF;31.9372;-102.20844;
+Air Carrier Ramp / SIDA;KMAF;31.93719;-102.20845;
 South Ramp;KMAF;31.93475;-102.20679;
 South Ramp;KMAF;31.93225;-102.20659;
 North Ramp / Tranient Parking;KMAF;31.94222;-102.20875;
