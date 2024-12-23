@@ -1,7 +1,7 @@
 Cargo Ramp;KMSY;29.99137;-090.27267;
 Terminal Ramp;KMSY;29.9862;-090.25767;
 GA Ramp;KMSY;29.99666;-090.26401;
-Concorse B;KMSY;29.99383;-090.2574;
+Concourse B;KMSY;29.99383;-090.25745;
 Concourse C;KMSY;29.99366;-090.25434;
 Louis Armstrong International Airport;KMSY;29.99596;-090.25818;
 Non-Movement Area;KMSY;29.99407;-090.25711;

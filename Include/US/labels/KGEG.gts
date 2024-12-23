@@ -1,4 +1,4 @@
-Spokane International Airport;KGEG;47.62489;-117.53867;
+Spokane International Airport;KGEG;47.62485;-117.53871;
 West Air Cargo Ramp;KGEG;47.62838;-117.52914;
 Triangle Ramp;KGEG;47.62679;-117.52074;
 East Air Cargo Ramp;KGEG;47.6243;-117.52251;
