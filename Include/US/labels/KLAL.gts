@@ -1,10 +1,10 @@
-Lakeland Regional Airport;KLAL;27.99426;-082.0156;
+Lakeland Linder International Airport;KLAL;27.99426;-082.0162;
 Double M Aviation;KLAL;27.99418;-082.01755;
 Sheltair Hangar;KLAL;27.99309;-082.01645;
-Aeromech;KLAL;27.99352;-082.0166;
+Fixed Wing Aviation;KLAL;27.99352;-082.01715;
 Lakeland Police Department Auxiallary and Storage;KLAL;27.97887;-082.01871;
 Aircraft Ramp;KLAL;27.98239;-082.01248;
 Lakeland AeroClub Headquarters;KLAL;27.98149;-082.02688;
 NOAA - Aircraft Operations Center;KLAL;27.98081;-082.01768;
-Air Cargo Ramp;KLAL;27.99157;-082.03257;
+Air Cargo Ramp;KLAL;27.99165;-082.03276;
 Sheltair FBO;KLAL;27.9932;-082.0167;

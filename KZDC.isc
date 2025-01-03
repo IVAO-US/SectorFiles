@@ -88,7 +88,6 @@ F;01MD.geo
 F;01NC.geo
 F;01VA.geo
 F;02MD.geo
-F;02VA.geo
 F;03NC.geo
 F;04NJ.geo
 F;04VG.geo
@@ -132,6 +131,7 @@ F;15NC.geo
 F;15VA.geo
 F;16NC.geo
 F;16VA.geo
+F;16VG.geo
 F;17N.geo
 F;17NC.geo
 F;17NR.geo
@@ -192,7 +192,6 @@ F;2VA2.geo
 F;2VA3.geo
 F;2VA5.geo
 F;2VA6.geo
-F;2VA8.geo
 F;2VG3.geo
 F;2VG7.geo
 F;2VG8.geo
@@ -255,7 +254,6 @@ F;4NC2.geo
 F;4NC3.geo
 F;4NC5.geo
 F;4NC7.geo
-F;4VA3.geo
 F;4VA4.geo
 F;4VA5.geo
 F;4VA8.geo
@@ -336,6 +334,7 @@ F;7NJ9.geo
 F;7VA5.geo
 F;7VA9.geo
 F;7VG0.geo
+F;7VG4.geo
 F;7W4.geo
 F;7W6.geo
 F;80VA.geo
@@ -623,7 +622,6 @@ F;NC99.geo
 F;NJ25.geo
 F;NJ74.geo
 F;NJ84.geo
-F;NR10.geo
 F;NR13.geo
 F;NR20.geo
 F;NR21.geo
@@ -667,7 +665,6 @@ F;VA61.geo
 F;VA62.geo
 F;VA63.geo
 F;VA65.geo
-F;VA66.geo
 F;VA68.geo
 F;VA72.geo
 F;VA73.geo
@@ -695,7 +692,6 @@ F;VG24.geo
 F;VG25.geo
 F;VG29.geo
 F;VG30.geo
-F;VG33.geo
 F;VG34.geo
 F;VG37.geo
 F;VG39.geo
