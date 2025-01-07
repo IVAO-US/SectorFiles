@@ -1,1 +1,1 @@
-Beechcraft Hangar;KMKC;39.1183;-094.59219;
+Beechcraft Hangar;KMKC;39.11823;-094.59227;
