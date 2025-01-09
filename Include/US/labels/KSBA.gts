@@ -1,5 +1,5 @@
 Santa Barbara Airport Terminal;KSBA;34.42475;-119.83794;
-SBA Commercial Ramp;KSBA;34.42475;-119.83759;
+SBA Commercial Ramp;KSBA;34.42474;-119.83759;
 Signature Ramp;KSBA;34.43278;-119.83685;
 SBA South Terminal Apron;KSBA;34.42291;-119.83775;
 5D;KSBA;34.4262447;-119.8366101;

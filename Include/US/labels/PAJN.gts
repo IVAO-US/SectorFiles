@@ -1,6 +1,6 @@
 Coastal Helicopters;PAJN;58.3588;-134.58052;
 Ward Air;PAJN;58.35866;-134.57903;
-Juneau International Airport;PAJN;58.35902;-134.58513;
+Passenger Terminal;PAJN;58.35904;-134.58451;
 Alaska Seaplanes;PAJN;58.35801;-134.57675;
 Alaska Seaplanes;PAJN;58.35813;-134.57753;
 Ward Air;PAJN;58.35829;-134.57786;
