@@ -1,9 +1,9 @@
 [INFO]
-N27.00.03.593
-W081.07.47.058
+N27.07.43.206
+W081.14.24.708
 60
 53
--05.5085
+-05.4462
 US/ZMA;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas;US/videomaps
 
 [DEFINE]
@@ -47,7 +47,12 @@ F;vfr.vrt
 
 
 [MVA]
-
+F;DAB.mva
+F;F11.mva
+F;MIA.mva
+F;PBI.mva
+F;RSW.mva
+F;TPA.mva
 
 [ARTCC]
 F;artcc.artcc
@@ -274,6 +279,12 @@ F;X52.geo
 F;X58.geo
 F;X59.geo
 F;KMCO.geo
+F;KTPA.geo
+F;KORL.geo
+F;KVDF.geo
+F;KZPH.geo
+F;KBKV.geo
+F;KCLW.geo
 F;MYGW.geo
 F;MYCC.geo
 F;MYBS.geo

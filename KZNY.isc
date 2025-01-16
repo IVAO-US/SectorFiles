@@ -1,9 +1,9 @@
 [INFO]
-N40.41.09.984
-W075.42.15.975
+N40.38.52.968
+W075.25.30.346
 60
-45
--11.7349
+46
+-11.8558
 US/ZNY;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas;US/videomaps
 
 [DEFINE]
@@ -416,6 +416,27 @@ F;S37.geo
 F;W05.geo
 F;W42.geo
 F;W73.geo
+F;KISP.geo
+F;KPHL.geo
+F;KIAD.geo
+F;KDCA.geo
+F;KBWI.geo
+F;KBOS.geo
+F;KPVD.geo
+F;KBDL.geo
+F;KPNE.geo
+F;KTTN.geo
+F;KILG.geo
+F;KEVY.geo
+F;KACY.geo
+F;KADW.geo
+F;KHPN.geo
+F;KBDR.geo
+F;KHVN.geo
+F;KSWF.geo
+F;KFOK.geo
+F;KJPX.geo
+F;KDXR.geo
 F;K2W2.geo
 F;KJRA.geo
 

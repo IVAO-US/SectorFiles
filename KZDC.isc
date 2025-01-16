@@ -1,9 +1,9 @@
 [INFO]
-N37.29.54.466
-W077.22.17.903
+N37.34.25.869
+W077.16.36.229
 60
 48
--09.6266
+-09.7337
 US/ZDC;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas;US/videomaps
 
 [DEFINE]
@@ -747,6 +747,17 @@ F;WV67.geo
 F;WV68.geo
 F;WV70.geo
 F;WV77.geo
+F;KJFK.geo
+F;KLGA.geo
+F;KEWR.geo
+F;KTEB.geo
+F;KISP.geo
+F;KCLT.geo
+F;KFLO.geo
+F;KMYR.geo
+F;KWRI.geo
+F;KNEL.geo
+F;KBLM.geo
 F;KEDG.geo
 
 [FILLCOLOR]

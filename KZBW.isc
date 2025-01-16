@@ -1,9 +1,9 @@
 [INFO]
-N43.05.30.772
-W071.56.39.022
+N42.56.41.809
+W072.07.43.143
 60
 44
--15.1824
+-15.0127
 US/ZBW;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas;US/videomaps
 
 [DEFINE]
@@ -728,6 +728,15 @@ F;VT73.geo
 F;VT8.geo
 F;W57.geo
 F;KIAD.geo
+F;KJFK.geo
+F;KDCA.geo
+F;KBWI.geo
+F;KLGA.geo
+F;KEWR.geo
+F;KTEB.geo
+F;KBGM.geo
+F;KITH.geo
+F;KFRG.geo
 F;K28M.geo
 F;K8B5.geo
 F;K1B6.geo
