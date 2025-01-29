@@ -1,12 +1,14 @@
+South United Hangar;KMCO;28.42431;-081.33377;
+North United Hangar;KMCO;28.43825;-081.33382;
+Southwest Airlines;KMCO;28.40839;-081.33151;
+FBO;KMCO;28.42168;-081.33207;
+Atlantic Aviation FBO;KMCO;28.43261;-081.33308;
 West Ramp;KMCO;28.43332;-081.33277;
 Airside 4 Gates 70-99;KMCO;28.42701;-081.30251;
+Orlando International Airport Terminal A/B;KMCO;28.431;-081.3098;
 Airside 2 Gates 100-129;KMCO;28.43503;-081.30281;
 Airside 3 Gates 30-59;KMCO;28.42735;-081.31526;
 Airside 1 Gates 1-29;KMCO;28.43496;-081.31482;
-Orlando International Airport Terminal A/B;KMCO;28.431;-081.3098;
-North United Hangar;KMCO;28.43825;-081.33382;
-Southwest Airlines;KMCO;28.40839;-081.33151;
-South United Hangar;KMCO;28.43514;-081.33417;
 Terminal C;KMCO;28.41235;-081.31455;
 1;KMCO;28.4340922;-081.3145784;
 3;KMCO;28.4338658;-081.3149696;
