@@ -3,7 +3,7 @@ N35.10.00.511
 W089.53.22.538
 60
 49
--00.3300
+-00.3500
 US/ZME;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas;US/videomaps
 
 [DEFINE]
@@ -119,6 +119,7 @@ F;0TN0.geo
 F;0TN1.geo
 F;0TN5.geo
 F;10AR.geo
+F;10KY.geo
 F;10TN.geo
 F;11TN.geo
 F;12A.geo
@@ -425,6 +426,7 @@ F;8TN8.geo
 F;8TN9.geo
 F;90AR.geo
 F;90MS.geo
+F;91TN.geo
 F;93MS.geo
 F;94AR.geo
 F;94TN.geo

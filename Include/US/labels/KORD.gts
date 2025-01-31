@@ -44,7 +44,7 @@ UAL Service Ramp;KORD;41.99337;-087.9224;
 B Pad;KORD;41.97991;-087.89198;
 AAL Service Ramp;KORD;41.99137;-087.9208;
 South Central Cargo Ramp;KORD;41.96248;-087.92021;
-Concourse L;KORD;41.97705;-087.89852;
+Concourse L;KORD;41.97698;-087.89851;
 Concourse H/K Link;KORD;41.97499;-087.90119;
 North East Cargo Ramp;KORD;41.99436;-087.8954;
 O’Hare 21 Deicing Facility & Crossfield Taxiway;KORD;41.9778;-087.93268;

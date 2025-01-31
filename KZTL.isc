@@ -1,6 +1,6 @@
 [INFO]
-N34.16.41.950
-W083.42.16.005
+N34.16.41.948
+W083.42.16.010
 60
 50
 -04.6730
@@ -372,6 +372,7 @@ F;82A.geo
 F;82GA.geo
 F;82NR.geo
 F;83NR.geo
+F;84TN.geo
 F;85GA.geo
 F;85NC.geo
 F;85TN.geo
@@ -489,6 +490,7 @@ F;GE30.geo
 F;GE33.geo
 F;GE35.geo
 F;GE53.geo
+F;GE56.geo
 F;GE61.geo
 F;GE72.geo
 F;GE99.geo
