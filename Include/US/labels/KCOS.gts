@@ -8,7 +8,7 @@ Westpac Restorations;KCOS;38.82114;-104.7228;
 East Terminal;KCOS;38.79769;-104.69929;
 North GA Ramp/West;KCOS;38.81778;-104.72222;
 Kaija Raven Shook Aeronautical Pavilion;KCOS;38.82052;-104.72243;
-Deice Apron;KCOS;38.78188;-104.68942;
+USFS Air Tanker / Deice Apron;KCOS;38.78188;-104.69032;
 Terminal Ramp;KCOS;38.79906;-104.7015;
 A/DACG;KCOS;38.77915;-104.68974;
 South GA Ramp;KCOS;38.80069;-104.72211;
