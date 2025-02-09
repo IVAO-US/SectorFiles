@@ -1,6 +1,6 @@
 GA Ramp;KMDW;41.7802;-087.75363;
 Signiture;KMDW;41.7843;-087.76135;
-Midway Airport Terminal;KMDW;41.78667;-087.74333;
+Midway Airport Terminal;KMDW;41.78667;-087.7434;
 North Ramp;KMDW;41.79191;-087.75541;
 North ramp;KMDW;41.79193;-087.75053;
 South ramp;KMDW;41.77876;-087.75532;
