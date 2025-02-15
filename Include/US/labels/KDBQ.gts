@@ -1,13 +1,14 @@
-Babka Ramp;KDBQ;42.40097;-090.70018;
+Babka Ramp;KDBQ;42.40101;-090.70027;
 University of Dubuque Babka Aviation Center;KDBQ;42.40061;-090.70078;
 General Aviation Ramp;KDBQ;42.40693;-090.7084;
 Airport Maintenance & Fire;KDBQ;42.40256;-090.70268;
+UD Babka Hangar;KDBQ;42.40169;-090.70086;
 Blue Skies Dubuque;KDBQ;42.40349;-090.70342;
-UD Americas Hangar;KDBQ;42.40553;-090.70616;
+UD Americas Hangar;KDBQ;42.40553;-090.70618;
 UD Iowa Hangar;KDBQ;42.4053;-090.70565;
 Air Methods Ramp;KDBQ;42.40585;-090.70741;
-Iowa Ramp;KDBQ;42.40536;-090.70614;
-Terminal Apron;KDBQ;42.3977;-090.70621;
+Iowa Ramp;KDBQ;42.40535;-090.70612;
+Terminal Apron;KDBQ;42.3977;-090.70614;
 Robert L. Martin Terminal;KDBQ;42.39705;-090.70685;
 Dubuque Jet Center;KDBQ;42.40329;-090.70317;
 McCoy;KDBQ;42.40401;-090.70353;
