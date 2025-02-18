@@ -15,7 +15,7 @@ Amazon Prime;KPDX;45.57776;-122.60824;
 FedEx;KPDX;45.57844;-122.61069;
 Concourse B;KPDX;45.58751;-122.59416;
 Boeing Hangars;KPDX;45.57923;-122.61397;
-Concourse E;KPDX;45.58915;-122.59036;
+Concourse E;KPDX;45.58913;-122.59032;
 Bonneville Power Administration Hangar;KPDX;45.58898;-122.61663;
 Peninsula Airlines;KPDX;45.58827;-122.61546;
 Empire Airlines;KPDX;45.58792;-122.61533;
