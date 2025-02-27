@@ -1,2 +1,2 @@
 Runway 26 Run-up area;KDKX;35.9638481;-083.8678053;
-Runway 08 Run-up Area;KDKX;35.9622671;-083.8777472;
+Runway 08 Run-up Area;KDKX;35.9623332;-083.877304;
