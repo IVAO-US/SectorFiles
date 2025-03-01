@@ -120,7 +120,6 @@ F;0TE4.geo
 F;0TE5.geo
 F;0TE7.geo
 F;0TS0.geo
-F;0TS4.geo
 F;0TS5.geo
 F;0TS8.geo
 F;0TX6.geo
@@ -427,7 +426,6 @@ F;5TS2.geo
 F;5TS8.geo
 F;5TX1.geo
 F;5XA6.geo
-F;5XS3.geo
 F;5XS6.geo
 F;5XS8.geo
 F;60R.geo
@@ -593,6 +591,7 @@ F;97TS.geo
 F;97TX.geo
 F;98LS.geo
 F;99LA.geo
+F;99TA.geo
 F;99TX.geo
 F;99XA.geo
 F;9LA6.geo
@@ -945,6 +944,7 @@ F;TT18.geo
 F;TT19.geo
 F;TT20.geo
 F;TT31.geo
+F;TT34.geo
 F;TT41.geo
 F;TT45.geo
 F;TT46.geo

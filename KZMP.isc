@@ -1,9 +1,9 @@
 [INFO]
-N44.39.54.559
-W094.04.28.779
+N44.38.50.271
+W094.04.26.903
 60
 43
-02.1585
+02.1507
 US/ZMP;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas;US/videomaps
 
 [DEFINE]
@@ -186,7 +186,6 @@ F;1SD3.geo
 F;1SD4.geo
 F;1SD5.geo
 F;1WI2.geo
-F;1WI8.geo
 F;1WN3.geo
 F;1Y3.geo
 F;1Y5.geo
@@ -216,6 +215,7 @@ F;27C.geo
 F;27MN.geo
 F;28MI.geo
 F;28MN.geo
+F;28NE.geo
 F;28WI.geo
 F;29C.geo
 F;29IA.geo
@@ -352,7 +352,6 @@ F;47Y.geo
 F;48D.geo
 F;48MY.geo
 F;48WI.geo
-F;48Y.geo
 F;49MI.geo
 F;49MN.geo
 F;49MY.geo
@@ -1031,6 +1030,7 @@ F;M69.geo
 F;MI1.geo
 F;MI30.geo
 F;MI31.geo
+F;MI37.geo
 F;MI44.geo
 F;MI45.geo
 F;MI55.geo

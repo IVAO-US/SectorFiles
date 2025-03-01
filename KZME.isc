@@ -288,6 +288,7 @@ F;4TN6.geo
 F;50M.geo
 F;50TN.geo
 F;51AR.geo
+F;51AS.geo
 F;51TN.geo
 F;52AR.geo
 F;52TN.geo
@@ -399,6 +400,7 @@ F;7TN1.geo
 F;7TN3.geo
 F;7TN4.geo
 F;7TN5.geo
+F;80AR.geo
 F;81AR.geo
 F;82LS.geo
 F;83MS.geo
@@ -479,6 +481,8 @@ F;AR79.geo
 F;AR88.geo
 F;AR89.geo
 F;AR91.geo
+F;AS11.geo
+F;AS31.geo
 F;H34.geo
 F;H35.geo
 F;H68.geo

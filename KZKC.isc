@@ -221,7 +221,6 @@ F;2K8.geo
 F;2KS2.geo
 F;2KS3.geo
 F;2KS4.geo
-F;2KS5.geo
 F;2KS6.geo
 F;2KS8.geo
 F;2KS9.geo
@@ -425,6 +424,7 @@ F;6K9.geo
 F;6KS.geo
 F;6KS6.geo
 F;6KS7.geo
+F;6KS8.geo
 F;6LL4.geo
 F;6LL5.geo
 F;6LL6.geo
@@ -470,12 +470,14 @@ F;7KS3.geo
 F;7KS4.geo
 F;7KS6.geo
 F;7KS7.geo
+F;7KS8.geo
 F;7KS9.geo
 F;7LL3.geo
 F;7MO1.geo
 F;7MO3.geo
 F;7MO4.geo
 F;7MO7.geo
+F;7MO8.geo
 F;7OK1.geo
 F;7OK7.geo
 F;80KS.geo
@@ -542,6 +544,7 @@ F;9K6.geo
 F;9K7.geo
 F;9K8.geo
 F;9KS.geo
+F;9KS9.geo
 F;9LL2.geo
 F;9LL5.geo
 F;9MO3.geo
@@ -905,6 +908,7 @@ F;OL40.geo
 F;OL55.geo
 F;OL56.geo
 F;OMU9.geo
+F;S44.geo
 F;SN04.geo
 F;SN05.geo
 F;SN08.geo
