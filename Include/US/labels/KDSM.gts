@@ -1,4 +1,4 @@
-Elliott;KDSM;41.54038;-093.65581;
+Modern Aviation;KDSM;41.54038;-093.65621;
 South Cargo Ramp;KDSM;41.52896;-093.65804;
 Main Terminal Ramp;KDSM;41.53409;-093.64946;
 Signature Flight Support;KDSM;41.53688;-093.6474;
@@ -9,6 +9,7 @@ Meredith;KDSM;41.54011;-093.65254;
 40;KDSM;41.52697;-093.6623;
 South T's;KDSM;41.52709;-093.66393;
 37;KDSM;41.52768;-093.66293;
+Des Moines Flying Service;KDSM;41.52873;-093.66341;
 Building 41;KDSM;41.5271;-093.66448;
 Des Moines International Airport Terminal;KDSM;41.53299;-093.65154;
 Building 42;KDSM;41.52607;-093.66407;
