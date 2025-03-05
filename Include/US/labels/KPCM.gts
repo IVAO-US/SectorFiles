@@ -1,1 +1,1 @@
-Plant City Airport Main Terminal;KPCM;28.00175;-082.16397;
+Plant City Airport Main Terminal;KPCM;28.0018;-082.16396;
