@@ -1,2 +1,2 @@
-Lancaster Airport;KLNS;40.1188;-076.30014;
-Lancaster Airport;KLNS;40.11858;-076.29954;
+Lancaster Airport;KLNS;40.11877;-076.30018;
+Lancaster Airport;KLNS;40.11862;-076.29955;
