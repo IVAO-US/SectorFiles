@@ -1,7 +1,7 @@
 Modern Aviation;KDSM;41.54038;-093.65621;
 South Cargo Ramp;KDSM;41.52896;-093.65804;
 Main Terminal Ramp;KDSM;41.53409;-093.64946;
-Signature Flight Support;KDSM;41.53688;-093.6474;
+Weitz/Turner Airport Construction Office;KDSM;41.53688;-093.6482;
 Endeavor Maintenance Hangar;KDSM;41.52721;-093.65759;
 Elliott Jet Center;KDSM;41.5402;-093.65368;
 Meredith;KDSM;41.54011;-093.65254;

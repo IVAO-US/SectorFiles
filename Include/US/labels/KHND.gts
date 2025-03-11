@@ -1,4 +1,5 @@
-Henderson Executive Airport;KHND;35.97717;-115.14035;
+Henderson Executive Airport;The Landings;KHND;35.97717;-115.141;
+Monarch Sky Flight School & Flying Club;KHND;35.97997;-115.14352;
 B02;KHND;35.968;-115.13794;
 B03;KHND;35.96799;-115.13773;
 B04;KHND;35.968;-115.13751;
