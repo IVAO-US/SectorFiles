@@ -1,1 +1,1 @@
-Erie International Airport;KERI;42.08288;-080.18285;
+Passenger Terminal;KERI;42.08289;-080.18246;

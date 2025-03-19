@@ -8,4 +8,4 @@ Dauntless Air;KSGS;44.86118;-093.0282;
 Commemorative Air Force Minnesota Wing;KSGS;44.86122;-093.03062;
 Fleming Field;KSGS;44.8612;-093.03064;
 Prescott Flying Club;KSGS;44.86323;-093.03329;
-Two Brothers;KSGS;44.85733;-093.03077;
+Two Brothers;KSGS;44.8573;-093.03074;
