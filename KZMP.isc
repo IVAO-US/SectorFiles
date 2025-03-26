@@ -47,21 +47,7 @@ F;vfr.vrt
 
 
 [MVA]
-F;DLH.mva
-F;R90.mva
-F;MKE.mva
-F;ALO.mva
-F;GRB.mva
-F;RST.mva
-F;BIS.mva
-F;CID.mva
-F;M98.mva
-F;DSM.mva
-F;FAR.mva
-F;AZO.mva
-F;MCI.mva
-F;SUX.mva
-F;FSD.mva
+
 
 [ARTCC]
 F;artcc.artcc

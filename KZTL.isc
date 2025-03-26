@@ -47,28 +47,7 @@ F;vfr.vrt
 
 
 [MVA]
-F;MOB.mva
-F;TYS.mva
-F;BHM.mva
-F;CAE.mva
-F;P31.mva
-F;HTS.mva
-F;RDU.mva
-F;HSV.mva
-F;SAV.mva
-F;FAY.mva
-F;CHA.mva
-F;FLO.mva
-F;A80.mva
-F;OZR.mva
-F;TRI.mva
-F;GSO.mva
-F;GSP.mva
-F;MGM.mva
-F;ROA.mva
-F;AVL.mva
-F;CLT.mva
-F;AGS.mva
+
 
 [ARTCC]
 F;artcc.artcc

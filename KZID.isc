@@ -47,24 +47,7 @@ F;vfr.vrt
 
 
 [MVA]
-F;CLE.mva
-F;FWA.mva
-F;TOL.mva
-F;ROA.mva
-F;SDF.mva
-F;IND.mva
-F;HTS.mva
-F;CVG.mva
-F;CKB.mva
-F;CRW.mva
-F;BNA.mva
-F;LEX.mva
-F;TRI.mva
-F;TYS.mva
-F;EVV.mva
-F;CMI.mva
-F;CMH.mva
-F;HUF.mva
+
 
 [ARTCC]
 F;artcc.artcc

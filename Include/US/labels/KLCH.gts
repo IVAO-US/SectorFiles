@@ -1,1 +1,1 @@
-Lake Charles Regional Airport;KLCH;30.12347;-093.22187;
+Passenger Terminal;KLCH;30.12342;-093.22133;

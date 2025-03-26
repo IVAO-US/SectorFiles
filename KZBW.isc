@@ -47,20 +47,7 @@ F;vfr.vrt
 
 
 [MVA]
-F;ROC.mva
-F;PWM.mva
-F;BGR.mva
-F;Y90.mva
-F;N90.mva
-F;ELM.mva
-F;A90.mva
-F;ALB.mva
-F;GTB.mva
-F;PVD.mva
-F;AVP.mva
-F;BGM.mva
-F;BTV.mva
-F;SYR.mva
+
 
 [ARTCC]
 F;artcc.artcc
