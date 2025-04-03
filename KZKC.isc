@@ -1,9 +1,9 @@
 [INFO]
-N38.07.43.178
-W094.31.09.737
+N38.07.43.180
+W094.31.09.736
 60
 47
-03.0524
+03.0314
 US/ZKC;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas;US/videomaps
 
 [DEFINE]
@@ -242,7 +242,6 @@ F;07S.geo
 F;08KS.geo
 F;08MO.geo
 F;09KS.geo
-F;09MO.geo
 F;09OK.geo
 F;0C1.geo
 F;0H7.geo
@@ -534,7 +533,6 @@ F;5MO6.geo
 F;5MU5.geo
 F;5MU9.geo
 F;5O1.geo
-F;5OK3.geo
 F;5OK6.geo
 F;5OK9.geo
 F;60KS.geo
@@ -599,7 +597,6 @@ F;75KS.geo
 F;75U.geo
 F;76KS.geo
 F;77KS.geo
-F;77MO.geo
 F;78MO.geo
 F;78MU.geo
 F;79IS.geo
@@ -1013,6 +1010,7 @@ F;O65.geo
 F;OK00.geo
 F;OK01.geo
 F;OK05.geo
+F;OK1.geo
 F;OK15.geo
 F;OK18.geo
 F;OK20.geo

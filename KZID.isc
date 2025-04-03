@@ -3,7 +3,7 @@ N38.52.17.466
 W084.27.42.818
 60
 47
--04.6667
+-04.6735
 US/ZID;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas;US/videomaps
 
 [DEFINE]
@@ -451,7 +451,6 @@ F;7I4.geo
 F;7IN3.geo
 F;7IN6.geo
 F;7IN9.geo
-F;7KY3.geo
 F;7KY4.geo
 F;7L8.geo
 F;7OA7.geo

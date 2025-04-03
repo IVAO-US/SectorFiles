@@ -1,5 +1,5 @@
 [INFO]
-N38.12.13.555
+N38.12.13.556
 W121.10.04.242
 60
 47
@@ -271,7 +271,9 @@ F;32CA.geo
 F;32CL.geo
 F;33CL.geo
 F;34CN.geo
+F;35CN.geo
 F;36CA.geo
+F;37CN.geo
 F;38CL.geo
 F;38CN.geo
 F;3A5.geo
@@ -318,7 +320,6 @@ F;6CA6.geo
 F;6CL8.geo
 F;71CL.geo
 F;73CA.geo
-F;74CA.geo
 F;77CA.geo
 F;77CL.geo
 F;77NV.geo

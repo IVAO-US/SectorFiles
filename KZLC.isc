@@ -373,6 +373,7 @@ F;38ID.geo
 F;38S.geo
 F;38U.geo
 F;38UT.geo
+F;39MT.geo
 F;3MT3.geo
 F;3MT4.geo
 F;3MT6.geo
@@ -394,6 +395,7 @@ F;40U.geo
 F;41ID.geo
 F;41U.geo
 F;42ID.geo
+F;42MT.geo
 F;42U.geo
 F;44ID.geo
 F;44MT.geo
@@ -637,6 +639,7 @@ F;KSLC.geo
 F;KSMN.geo
 F;KSPK.geo
 F;KSUN.geo
+F;KSVR.geo
 F;KTMT.geo
 F;KTPH.geo
 F;KTVY.geo
@@ -788,7 +791,6 @@ F;U34.geo
 F;U36.geo
 F;U37.geo
 F;U41.geo
-F;U42.geo
 F;U45.geo
 F;U46.geo
 F;U48.geo
@@ -855,6 +857,7 @@ F;WY32.geo
 F;WY33.geo
 F;WY34.geo
 F;WY38.geo
+F;WY41.geo
 F;WY60.geo
 F;WY64.geo
 F;K9D2.geo

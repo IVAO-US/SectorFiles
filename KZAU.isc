@@ -1,9 +1,9 @@
 [INFO]
-N41.55.31.895
-W088.36.36.105
+N41.55.33.837
+W088.35.30.310
 60
 45
--01.8545
+-01.8795
 US/ZAU;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas;US/videomaps
 
 [DEFINE]
@@ -305,7 +305,6 @@ F;1WI3.geo
 F;1WI5.geo
 F;1WI6.geo
 F;1WI7.geo
-F;1WI9.geo
 F;1WN1.geo
 F;20IS.geo
 F;20WI.geo
@@ -741,6 +740,7 @@ F;IL93.geo
 F;IL94.geo
 F;IL95.geo
 F;IL97.geo
+F;IL99.geo
 F;IN0.geo
 F;IN00.geo
 F;IN04.geo
@@ -927,7 +927,6 @@ F;LL51.geo
 F;LL52.geo
 F;LL54.geo
 F;LL55.geo
-F;LL64.geo
 F;LL74.geo
 F;LL78.geo
 F;LL79.geo
