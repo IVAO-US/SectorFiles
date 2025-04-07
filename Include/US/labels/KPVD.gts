@@ -1,6 +1,6 @@
 Hangar 2;KPVD;41.73243;-071.42457;
 Bruce Sundlun Terminal;KPVD;41.72614;-071.43616;
-General Aviation Parking and Cargo;KPVD;41.7316;-071.42676;
+General Aviation Parking and Cargo;KPVD;41.73163;-071.42669;
 Northwest Ramp;KPVD;41.73147;-071.43044;
 22;KPVD;41.7280235;-071.4332655;
 15;KPVD;41.7272108;-071.4345637;
