@@ -1,2 +1,3 @@
+Passenger Terminal;KCPR;42.89705;-106.46573;
 Atlantic Aviation;KCPR;42.90131;-106.45985;
 FedEx;KCPR;42.90017;-106.46075;
