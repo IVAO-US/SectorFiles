@@ -1,4 +1,4 @@
-David McCampbell Terminal;KPBI;26.68809;-080.09189;
+David McCampbell Terminal;KPBI;26.68808;-080.09191;
 General Aviation Parking;KPBI;26.67924;-080.08059;
 GA PARKING;KPBI;26.67888;-080.09699;
 Cargo Ramp;KPBI;26.68576;-080.08061;

@@ -6,7 +6,7 @@ Southwest;KMDW;41.7922;-087.75094;
 Southwest;KMDW;41.79233;-087.74983;
 South ramp;KMDW;41.77876;-087.75532;
 Airport Maintanence Center;KMDW;41.77979;-087.75273;
-Midway Airport Terminal;KMDW;41.78667;-087.7434;
+Midway Airport Terminal;KMDW;41.78664;-087.74344;
 North Ramp;KMDW;41.79191;-087.75541;
 4R Pad;KMDW;41.78034;-087.75973;
 North ramp;KMDW;41.79193;-087.75053;

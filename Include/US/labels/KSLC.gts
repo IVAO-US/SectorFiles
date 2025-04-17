@@ -1,7 +1,7 @@
 North Cargo;KSLC;40.80236;-111.98306;
 HB;KSLC;40.77411;-111.95684;
 Concourse A;KSLC;40.78559;-111.98571;
-Salt Lake City International Airport Terminal;KSLC;40.78434;-111.98735;
+Salt Lake City International Airport Terminal;KSLC;40.78436;-111.98739;
 Taxiway L Deice Pad;KSLC;40.77929;-111.97148;
 34R Deice Pad;KSLC;40.77656;-111.97768;
 34L Deice Pad;KSLC;40.77665;-111.99366;
