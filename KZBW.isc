@@ -1,6 +1,6 @@
 [INFO]
 N42.56.41.809
-W072.07.43.143
+W072.07.43.142
 60
 44
 -15.0127
@@ -340,6 +340,7 @@ F;33NY.geo
 F;33VT.geo
 F;35ME.geo
 F;35NH.geo
+F;36ME.geo
 F;36VT.geo
 F;37NH.geo
 F;38VT.geo
@@ -516,6 +517,7 @@ F;CT15.geo
 F;CT16.geo
 F;CT19.geo
 F;CT20.geo
+F;CT21.geo
 F;CT24.geo
 F;CT29.geo
 F;CT39.geo
@@ -524,7 +526,6 @@ F;CT43.geo
 F;CT48.geo
 F;CT52.geo
 F;CT59.geo
-F;CT66.geo
 F;CT74.geo
 F;CT78.geo
 F;CT80.geo

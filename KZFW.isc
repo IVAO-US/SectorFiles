@@ -276,7 +276,6 @@ F;12OK.geo
 F;12TA.geo
 F;12TS.geo
 F;12TT.geo
-F;12XA.geo
 F;13TX.geo
 F;13XA.geo
 F;14TA.geo
@@ -521,7 +520,6 @@ F;67TT.geo
 F;67TX.geo
 F;67XA.geo
 F;68F.geo
-F;68LA.geo
 F;68TS.geo
 F;69XS.geo
 F;6F1.geo
@@ -591,6 +589,7 @@ F;80XA.geo
 F;81OK.geo
 F;81TE.geo
 F;81TS.geo
+F;82TA.geo
 F;82TE.geo
 F;82TS.geo
 F;83TS.geo
@@ -868,6 +867,7 @@ F;OK23.geo
 F;OK24.geo
 F;OK25.geo
 F;OK28.geo
+F;OK29.geo
 F;OK32.geo
 F;OK36.geo
 F;OK40.geo
@@ -998,6 +998,7 @@ F;TT11.geo
 F;TT12.geo
 F;TT16.geo
 F;TT21.geo
+F;TT27.geo
 F;TT29.geo
 F;TT32.geo
 F;TT37.geo

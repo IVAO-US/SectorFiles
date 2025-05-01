@@ -299,7 +299,6 @@ F;1H2.geo
 F;1H3.geo
 F;1H5.geo
 F;1H6.geo
-F;1IL1.geo
 F;1IL4.geo
 F;1IS2.geo
 F;1IS3.geo
@@ -447,6 +446,7 @@ F;40KS.geo
 F;40MO.geo
 F;40OK.geo
 F;41KS.geo
+F;41MO.geo
 F;42KS.geo
 F;42MO.geo
 F;43K.geo
@@ -683,6 +683,8 @@ F;9K6.geo
 F;9K7.geo
 F;9K8.geo
 F;9KS.geo
+F;9KS3.geo
+F;9KS8.geo
 F;9KS9.geo
 F;9LL2.geo
 F;9LL5.geo

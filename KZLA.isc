@@ -1,6 +1,6 @@
 [INFO]
-N34.22.17.237
-W117.00.02.945
+N34.22.17.236
+W117.00.02.946
 60
 50
 13.1481
@@ -225,6 +225,7 @@ F;04CA.geo
 F;04CL.geo
 F;04NV.geo
 F;05UT.geo
+F;0AZ9.geo
 F;0CA4.geo
 F;0CA5.geo
 F;0CA6.geo
@@ -304,7 +305,6 @@ F;8CL1.geo
 F;99CL.geo
 F;9AZ2.geo
 F;9L2.geo
-F;A09.geo
 F;A20.geo
 F;AZ03.geo
 F;AZ25.geo
