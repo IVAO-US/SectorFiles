@@ -1,6 +1,6 @@
 Eastern Iowa Airport - Donald J. Canney Terminal;KCID;41.88854;-091.70288;
 Collins Aerospace;KCID;41.8905;-091.70918;
-West Cargo;KCID;41.88732;-091.72522;
+West Cargo;KCID;41.8873;-091.7253;
 Signature Flight Support;KCID;41.88787;-091.71946;
 Eastern Iowa Airport - Donald J. Canney Terminal;KCID;41.88743;-091.70462;
 Central Cargo;KCID;41.88735;-091.72147;

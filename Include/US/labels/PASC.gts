@@ -1,1 +1,1 @@
-Alaska Airlines - Prudhoe Bay Terminal;PASC;70.19738;-148.47705;
+Alaska Airlines - Prudhoe Bay Terminal;PASC;70.19734;-148.47722;

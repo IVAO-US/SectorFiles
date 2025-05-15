@@ -1,1 +1,1 @@
-Tiedown Apron;KLWS;46.372;-117.02537;
+Tiedown Apron;KLWS;46.37196;-117.02524;

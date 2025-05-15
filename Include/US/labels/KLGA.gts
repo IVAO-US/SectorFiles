@@ -1,5 +1,5 @@
 Transient Parking;KLGA;40.77938;-073.88331;
-American Airlines Hangars;KLGA;40.77316;-073.87797;
+Hangars 5A-5B;KLGA;40.77316;-073.87737;
 Marine Air Terminal;KLGA;40.77344;-073.88672;
 Terminal A;KLGA;40.77351;-073.88528;
 General Aviation PARKING;KLGA;40.77711;-073.88293;
