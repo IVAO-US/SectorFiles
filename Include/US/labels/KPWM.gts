@@ -1,4 +1,4 @@
-Portland International Jetport;KPWM;43.64734;-070.31208;
+Portland International Jetport;KPWM;43.64733;-070.31209;
 Northeast;KPWM;43.64835;-070.30876;
 Northeast Air Inc.;KPWM;43.64908;-070.30969;
 FEDEX;KPWM;43.64924;-070.30321;

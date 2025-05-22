@@ -3,7 +3,7 @@ General Aviation Ramp;KPSP;33.82567;-116.51111;
 Jack Bernabucci Restoration Hangar;KPSP;33.83272;-116.50757;
 Robert J. Pond Hangar;KPSP;33.83215;-116.50562;
 Major General Kenneth P. Miles Hangar;KPSP;33.83176;-116.50632;
-General Aviation Ramp;KPSP;33.82249;-116.49766;
+General Aviation Ramp;KPSP;33.82244;-116.49759;
 Donald & Peggy Cravens Hanger;KPSP;33.83261;-116.5064;
 Thomas L. Phillips Hanger;KPSP;33.83276;-116.5067;
 Signature Flight Services;KPSP;33.82648;-116.5112;
