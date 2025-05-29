@@ -1,9 +1,9 @@
 [INFO]
-N40.18.51.947
-W103.55.35.230
+N40.19.54.450
+W103.55.35.836
 60
 46
-08.5250
+08.5124
 US/ZDV;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas;US/videomaps
 
 [DEFINE]
@@ -234,6 +234,7 @@ F;08CO.geo
 F;08UT.geo
 F;09CO.geo
 F;09K.geo
+F;09UT.geo
 F;0CD2.geo
 F;0CD5.geo
 F;0CD7.geo
@@ -246,7 +247,6 @@ F;0H1.geo
 F;0NE0.geo
 F;0NE1.geo
 F;0P1.geo
-F;0SD7.geo
 F;0V7.geo
 F;10CO.geo
 F;10WY.geo
@@ -424,6 +424,7 @@ F;86CO.geo
 F;86KS.geo
 F;87CD.geo
 F;88CO.geo
+F;8CD4.geo
 F;8CO0.geo
 F;8CO2.geo
 F;8CO5.geo

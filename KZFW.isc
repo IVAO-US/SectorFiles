@@ -3,7 +3,7 @@ N33.17.42.066
 W097.29.59.154
 60
 50
-04.9643
+04.9405
 US/ZFW;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas;US/videomaps
 
 [DEFINE]
@@ -1052,7 +1052,6 @@ F;TX96.geo
 F;TX99.geo
 F;X16.geo
 F;X65.geo
-F;XA0.geo
 F;XA03.geo
 F;XA04.geo
 F;XA05.geo

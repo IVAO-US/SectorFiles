@@ -273,6 +273,7 @@ F;16W.geo
 F;16WA.geo
 F;17OR.geo
 F;17S.geo
+F;17WT.geo
 F;18JY.geo
 F;18OR.geo
 F;19OR.geo
@@ -361,6 +362,7 @@ F;37OR.geo
 F;37WA.geo
 F;38W.geo
 F;38WA.geo
+F;38WT.geo
 F;39ID.geo
 F;39P.geo
 F;39WA.geo
@@ -957,8 +959,9 @@ F;WN13.geo
 F;WN15.geo
 F;WN17.geo
 F;WN18.geo
-F;WN20.geo
+F;WN19.geo
 F;WN21.geo
+F;WN22.geo
 F;WN23.geo
 F;WN26.geo
 F;WN29.geo
