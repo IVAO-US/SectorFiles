@@ -1,9 +1,0 @@
-Chattanooga Metropolitan Airport Terminal;KCHA;35.03739;-085.19927;
-West Star Aviation;KCHA;35.04439;-085.20586;
-Crystal Air;KCHA;35.02542;-085.20414;
-HessJet;KCHA;35.0409;-085.19765;
-Unum Hangar;KCHA;35.04202;-085.19825;
-Xpress Air;KCHA;35.04504;-085.20635;
-Freight;KCHA;35.02233;-085.20578;
-Wilson Air Center;KCHA;35.03271;-085.20746;
-Wilson Air Center;KCHA;35.03366;-085.2072;

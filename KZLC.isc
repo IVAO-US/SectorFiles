@@ -188,18 +188,18 @@ F;PWM.mva
 F;ICT.mva
 F;CKB.mva
 F;SBN.mva
-F;GEG.mva
 F;GEG_MSO.mva
+F;GEG.mva
 F;GEG_PSC.mva
 F;CMI.mva
 F;M03.mva
 F;GRK.mva
 F;RSW.mva
-F;ABQ.mva
 F;ROA.mva
+F;ABQ.mva
+F;D01_GJT.mva
 F;P80.mva
 F;D01_DEN_PUB.mva
-F;D01_GJT.mva
 F;FAR.mva
 
 [ARTCC]
@@ -863,12 +863,6 @@ F;WY38.geo
 F;WY41.geo
 F;WY60.geo
 F;WY64.geo
-F;K9D2.geo
-F;KBDX.geo
-F;I98D.geo
-F;KFYN.geo
-F;KUT9.geo
-F;KGFA.geo
 
 [FILLCOLOR]
 F;online.ply

@@ -1,5 +1,0 @@
-Terminal 4;KONT;34.06019;-117.5886;
-UPS Ramp;KONT;34.04993;-117.57919;
-International Arrivals Terminal;KONT;34.06057;-117.60521;
-Guardian Jet Center;KONT;34.05118;-117.61246;
-Terminal 2;KONT;34.06016;-117.59729;

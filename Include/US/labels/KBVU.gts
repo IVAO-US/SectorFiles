@@ -1,2 +1,0 @@
-Helipad 3;KBVU;35.94818;-114.85983;
-Terminal Building;KBVU;35.94858;-114.85658;

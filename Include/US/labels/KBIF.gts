@@ -1,9 +1,0 @@
-West Ramp;KBIF;31.83174;-106.40911;
-Hazardous Cargo Ramp;KBIF;31.84987;-106.38747;
-North Parking Apron;KBIF;31.84044;-106.38485;
-Lighted Helipad East;KBIF;31.83708;-106.38054;
-Lighted Helipad Center;KBIF;31.83703;-106.38401;
-Lighted Helipad West;KBIF;31.83697;-106.38823;
-Main Ramp;KBIF;31.83428;-106.38401;
-Hot Refuel Pad;KBIF;31.83775;-106.37382;
-Hot Refuel Pad;KBIF;31.83734;-106.37381;
