@@ -13,7 +13,9 @@ OUTLINE;#FF000000;
 BUILDING;#FF773333;
 RUNWAY;#FF555555;
 STOPBAR;#FFB30000;
+WEST;#FF999999;
 ORD8;#FF999999;
+EAST;#FF999999;
 
 [ATC]
 F;atc.atc
@@ -213,7 +215,9 @@ F;high.artcc
 
 [GEO]
 F;coast.geo
+F;WEST.geo
 F;ORD8.geo
+F;EAST.geo
 F;00IL.geo
 F;00IS.geo
 F;01B.geo
@@ -263,6 +267,7 @@ F;0LL5.geo
 F;0LL6.geo
 F;0WI2.geo
 F;0WI4.geo
+F;0WI6.geo
 F;0WS7.geo
 F;10C.geo
 F;10IA.geo
@@ -341,7 +346,6 @@ F;2IS9.geo
 F;2LL2.geo
 F;2LL3.geo
 F;2LL7.geo
-F;2MI0.geo
 F;2MI5.geo
 F;2WI1.geo
 F;2WI4.geo
@@ -541,6 +545,7 @@ F;71LL.geo
 F;72IN.geo
 F;72LL.geo
 F;73C.geo
+F;73G.geo
 F;74IL.geo
 F;75IN.geo
 F;75WI.geo
@@ -549,7 +554,6 @@ F;77II.geo
 F;77MI.geo
 F;78II.geo
 F;79WS.geo
-F;7C5.geo
 F;7IL0.geo
 F;7IL3.geo
 F;7IL7.geo
@@ -1013,6 +1017,7 @@ F;WS96.geo
 F;Y50.geo
 F;Y70.geo
 F;Z98.geo
+F;IA54.geo
 
 [FILLCOLOR]
 F;online.ply

@@ -1,0 +1,2 @@
+TSTC Aviation Technology;KABI;32.42832;-099.68937;
+Abilene Aero;KABI;32.41355;-099.68178;

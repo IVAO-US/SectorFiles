@@ -519,7 +519,6 @@ F;5IS9.geo
 F;5K1.geo
 F;5K4.geo
 F;5KS0.geo
-F;5KS1.geo
 F;5KS2.geo
 F;5KS4.geo
 F;5KS6.geo
@@ -647,6 +646,7 @@ F;8KS4.geo
 F;8KS5.geo
 F;8KS7.geo
 F;8KS8.geo
+F;8MO1.geo
 F;8MO3.geo
 F;8MO4.geo
 F;8MO7.geo
@@ -1098,6 +1098,7 @@ F;T93.geo
 F;TE05.geo
 F;TS79.geo
 F;TX38.geo
+F;KFES.geo
 
 [FILLCOLOR]
 F;online.ply

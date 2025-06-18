@@ -1,0 +1,4 @@
+Show Low Regional Airport;KSOW;34.26379;-110.00867;
+Run Up Area;KSOW;34.26757;-109.99598;
+Run Up Area;KSOW;34.2672;-109.99805;
+Run Up Area;KSOW;34.26272;-110.01918;

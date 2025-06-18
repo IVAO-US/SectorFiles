@@ -1,6 +1,6 @@
 [INFO]
-N31.23.19.123
-W082.24.29.508
+N31.23.19.122
+W082.24.29.509
 60
 51
 -05.1643
@@ -475,6 +475,7 @@ F;94FA.geo
 F;95FA.geo
 F;95SC.geo
 F;96FL.geo
+F;97FA.geo
 F;97FL.geo
 F;98FD.geo
 F;98FL.geo
@@ -603,7 +604,6 @@ F;FL54.geo
 F;FL55.geo
 F;FL58.geo
 F;FL60.geo
-F;FL61.geo
 F;FL62.geo
 F;FL66.geo
 F;FL80.geo
@@ -811,6 +811,13 @@ F;X60.geo
 F;X61.geo
 F;KATL.geo
 F;KMIA.geo
+F;KNQB.geo
+F;KNHL.geo
+F;KNVI.geo
+F;KNPI.geo
+F;KNZX.geo
+F;KTDR.geo
+F;KNSX.geo
 
 [FILLCOLOR]
 F;online.ply

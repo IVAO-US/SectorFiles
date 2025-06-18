@@ -1,0 +1,9 @@
+Transient Alert Aircraft Services;PHIK;21.32729;-157.95425;
+Transient Alert Aircraft Services;PHIK;21.3273;-157.9548;
+Hickam Air Force Base;PHIK;21.33195;-157.95964;
+Hangar 15;PHIK;21.33272;-157.9602;
+Hangar 17;PHIK;21.33248;-157.95993;
+Hangar 7;PHIK;21.33466;-157.95809;
+Hangar 9;PHIK;21.33442;-157.95783;
+Hangar 3;PHIK;21.33562;-157.95705;
+Hangar 5;PHIK;21.3354;-157.95675;

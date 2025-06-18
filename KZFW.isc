@@ -635,6 +635,7 @@ F;91F.geo
 F;91OK.geo
 F;91TA.geo
 F;91XA.geo
+F;91XS.geo
 F;92F.geo
 F;92OK.geo
 F;93F.geo
@@ -902,6 +903,7 @@ F;OL44.geo
 F;OL46.geo
 F;OL47.geo
 F;OL48.geo
+F;OL49.geo
 F;T13.geo
 F;T14.geo
 F;T15.geo
@@ -1098,6 +1100,8 @@ F;XS76.geo
 F;XS78.geo
 F;XS88.geo
 F;XS91.geo
+F;KF87.geo
+F;KM18.geo
 
 [FILLCOLOR]
 F;online.ply

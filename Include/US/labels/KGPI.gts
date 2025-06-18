@@ -1,0 +1,3 @@
+Terminal Ramp;KGPI;48.3077;-114.25426;
+GA Ramp;KGPI;48.30976;-114.25062;
+Glacier Park Intl. Airport (FCA);KGPI;48.30747;-114.25447;

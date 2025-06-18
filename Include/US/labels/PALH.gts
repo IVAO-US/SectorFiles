@@ -1,0 +1,5 @@
+Odom Hangar;PALH;61.17903;-149.97353;
+Main Hangar;PALH;61.17918;-149.97272;
+Restoration Hangar;PALH;61.17937;-149.97388;
+Rasmuson Hangar;PALH;61.17898;-149.97282;
+South Hangar;PALH;61.17873;-149.97266;
