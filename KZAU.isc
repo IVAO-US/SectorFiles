@@ -13,8 +13,8 @@ OUTLINE;#FF000000;
 BUILDING;#FF773333;
 RUNWAY;#FF555555;
 STOPBAR;#FFB30000;
-WEST;#FF999999;
 ORD8;#FF999999;
+WEST;#FF999999;
 EAST;#FF999999;
 
 [ATC]
@@ -190,18 +190,18 @@ F;PWM.mva
 F;ICT.mva
 F;CKB.mva
 F;SBN.mva
-F;GEG_MSO.mva
 F;GEG.mva
+F;GEG_MSO.mva
 F;GEG_PSC.mva
 F;CMI.mva
 F;M03.mva
 F;GRK.mva
 F;RSW.mva
-F;ROA.mva
 F;ABQ.mva
-F;D01_GJT.mva
+F;ROA.mva
 F;P80.mva
 F;D01_DEN_PUB.mva
+F;D01_GJT.mva
 F;FAR.mva
 
 [ARTCC]
@@ -215,8 +215,8 @@ F;high.artcc
 
 [GEO]
 F;coast.geo
-F;WEST.geo
 F;ORD8.geo
+F;WEST.geo
 F;EAST.geo
 F;00IL.geo
 F;00IS.geo
