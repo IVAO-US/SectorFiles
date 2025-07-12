@@ -1,0 +1,2 @@
+Gaitros Aviation FBO;KDEC;39.83511;-088.87833;
+Decatur Airport;KDEC;39.83317;-088.87787;

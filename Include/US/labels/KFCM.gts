@@ -1,0 +1,4 @@
+Premier Jet Center;KFCM;44.83077;-093.46463;
+Inflight Aviation;KFCM;44.82932;-093.45272;
+B PAD;KFCM;44.8275;-093.47054;
+Thunderbird Aviation;KFCM;44.83041;-093.45666;

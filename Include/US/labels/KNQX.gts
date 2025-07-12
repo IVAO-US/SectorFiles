@@ -1,0 +1,2 @@
+Fighter Ramp;KNQX;24.57735;-081.70024;
+Transient Ramp;KNQX;24.58034;-081.68995;

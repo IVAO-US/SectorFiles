@@ -1,0 +1,4 @@
+East Ramp;KAWO;48.15896;-122.15383;
+Glasair Aviation;KAWO;48.16389;-122.15288;
+Arlington Flight Services;KAWO;48.16684;-122.15445;
+West Ramp;KAWO;48.15509;-122.16024;

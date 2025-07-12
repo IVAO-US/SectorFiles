@@ -1,0 +1,2 @@
+Parallel Taxiway;KPVF;38.7240511;-120.7549023;
+Parallel Taxiway;KPVF;38.7264173;-120.7490297;

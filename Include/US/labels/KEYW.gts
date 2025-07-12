@@ -1,0 +1,5 @@
+GA Ramp;KEYW;24.55447;-081.75805;
+Island City Flying Service;KEYW;24.55385;-081.75764;
+GA Ramp;KEYW;24.55485;-081.76267;
+Commercial Ramp;KEYW;24.5547;-081.75526;
+Signature Aviation Key West KEYW;KEYW;24.55384;-081.75859;

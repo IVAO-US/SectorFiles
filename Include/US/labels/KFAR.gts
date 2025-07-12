@@ -1,0 +1,13 @@
+Arm/Disarm Pad;KFAR;46.90967;-096.81379;
+North Air Cargo Ramp;KFAR;46.93001;-096.82402;
+Arm/Disarm Pad;KFAR;46.92865;-096.81456;
+North General Aviation Ramp;KFAR;46.92933;-096.81054;
+Terminal Ramp;KFAR;46.9205;-096.82609;
+Passenger Terminal;KFAR;46.91992;-096.82647;
+South General Aviation Ramp;KFAR;46.90682;-096.80796;
+Red River Aero Aircraft Charter Service;KFAR;46.90548;-096.80859;
+Main Hangar;KFAR;46.90536;-096.8049;
+Beck-Odegaard Wing;KFAR;46.90584;-096.8046;
+North Dakota ANG Ramp;KFAR;46.91092;-096.8055;
+2;KFAR;46.929854;-096.821457;
+1;KFAR;46.9298561;-096.8221533;

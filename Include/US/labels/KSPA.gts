@@ -1,0 +1,2 @@
+Spartanburg Terminal;KSPA;34.91865;-081.95816;
+SPA Helipad;KSPA;34.91739;-081.95923;

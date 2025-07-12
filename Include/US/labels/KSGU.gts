@@ -1,0 +1,4 @@
+St. George Regional Airport;KSGU;37.03061;-113.51035;
+West Apron;KSGU;37.04344;-113.50949;
+Terminal Apron;KSGU;37.03083;-113.51026;
+East Apron;KSGU;37.0375;-113.5052;
