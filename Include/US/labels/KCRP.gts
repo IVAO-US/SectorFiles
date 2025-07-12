@@ -1,2 +1,0 @@
-Hayden W. Head Terminal;KCRP;27.77419;-097.50347;
-USCG;KCRP;27.7805;-097.5098;

@@ -1,8 +1,0 @@
-U.S. Army Reserve;KIXD;38.83611;-094.89618;
-Hangar 5A;KIXD;38.8389;-094.88846;
-New Century Air Service;KIXD;38.8393;-094.88557;
-Advanced Aviation;KIXD;38.83904;-094.88731;
-Commemerative Air Force;KIXD;38.83838;-094.8877;
-Hangar 5B;KIXD;38.83957;-094.88916;
-North T Hangars;KIXD;38.84187;-094.88921;
-East T Hangars;KIXD;38.83895;-094.88653;

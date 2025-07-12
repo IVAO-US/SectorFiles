@@ -1,7 +1,0 @@
-Transient Pad;KLSV;36.24778;-115.03379;
-DOE ramp;KLSV;36.23844;-115.02292;
-Live Ordnance Loading Area;KLSV;36.22853;-115.02564;
-Revetments;KLSV;36.2242;-115.0381;
-Jolly Pad;KLSV;36.2514;-115.02788;
-Primary Hazardous Cargo Area;KLSV;36.24623;-115.01807;
-Bomber Pad;KLSV;36.22817;-115.03368;

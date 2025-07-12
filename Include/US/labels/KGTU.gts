@@ -1,2 +1,0 @@
-Aero Centex;KGTU;30.68332;-097.67586;
-Genesis Aero;KGTU;30.68345;-097.6853;

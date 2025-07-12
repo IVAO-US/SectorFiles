@@ -1,3 +1,0 @@
-Pueblo Memorial Airport;KPUB;38.28374;-104.49672;
-Ramp;KPUB;38.2838;-104.49748;
-Solo Runup Area;KPUB;38.2859;-104.48214;

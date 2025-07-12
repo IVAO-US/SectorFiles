@@ -106,6 +106,7 @@ F;ALB.mva
 F;MYR.mva
 F;A80.mva
 F;DAB.mva
+F;A90.mva
 F;MWH.mva
 F;EUG.mva
 F;TPA.mva
@@ -927,8 +928,7 @@ F;Z90.geo
 F;Z91.geo
 F;Z93.geo
 F;ZNC.geo
-F;POLI.geo
-F;CYQQ.geo
+
 
 [FILLCOLOR]
 F;online.ply

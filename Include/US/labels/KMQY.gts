@@ -1,4 +1,0 @@
-East Ramp;KMQY;36.00857;-086.51165;
-West Ramp;KMQY;36.00458;-086.5254;
-AMI Aviation Services;KMQY;36.01137;-086.52704;
-Nitetrain Aviation;KMQY;36.0119;-086.52745;

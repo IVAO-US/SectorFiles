@@ -1,4 +1,0 @@
-GA Tenant Ramp;PAOM;64.51204;-165.43802;
-Nome Airport Terminal;PAOM;64.50744;-165.44284;
-Air National Guard;PAOM;64.51626;-165.42679;
-Bering Air;PAOM;64.50665;-165.44638;

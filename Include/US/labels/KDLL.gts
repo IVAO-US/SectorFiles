@@ -1,1 +1,0 @@
-KDLL Aircraft Parking;KDLL;43.51941;-089.77458;

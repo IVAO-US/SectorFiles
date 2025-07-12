@@ -1,3 +1,0 @@
-Flagstaff Pulliam Airport;KFLG;35.13888;-111.6761;
-Terminal Ramp;KFLG;35.1384;-111.67491;
-GA Ramp;KFLG;35.13581;-111.6771;

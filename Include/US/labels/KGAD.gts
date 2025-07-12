@@ -1,1 +1,0 @@
-Main Terminal;KGAD;33.97182;-086.08274;

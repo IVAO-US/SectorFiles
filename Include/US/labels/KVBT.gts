@@ -1,1 +1,0 @@
-VBT Fieldhouse;KVBT;36.35051;-094.22192;

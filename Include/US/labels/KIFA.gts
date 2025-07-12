@@ -1,4 +1,0 @@
-T-Hangars #1-#8;KIFA;42.46901;-093.26392;
-Cold Storage Building;KIFA;42.46962;-093.2634;
-Open Hangar;KIFA;42.46974;-093.26332;
-Airport Terminal/FBO;KIFA;42.46978;-093.26448;

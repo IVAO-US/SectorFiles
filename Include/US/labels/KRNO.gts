@@ -1,3 +1,0 @@
-Concourse C;KRNO;39.50687;-119.774;
-Concourse B;KRNO;39.50477;-119.77396;
-Stellar Aviation;KRNO;39.51464;-119.76365;

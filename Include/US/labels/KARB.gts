@@ -1,4 +1,0 @@
-Northwest T's;KARB;42.22648;-083.7515;
-FBO Solo Aviation;KARB;42.22531;-083.74656;
-Aviation Center;KARB;42.22596;-083.74312;
-Northeast Tees;KARB;42.22683;-083.74229;

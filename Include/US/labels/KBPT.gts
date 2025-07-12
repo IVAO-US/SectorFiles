@@ -1,2 +1,0 @@
-KUSA Aviation;KBPT;29.9545;-094.01403;
-Jerry Ware Terminal;KBPT;29.9557;-094.02305;

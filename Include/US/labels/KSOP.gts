@@ -1,2 +1,0 @@
-Main Terminal;KSOP;35.23395;-079.39833;
-Hangar;KSOP;35.2375;-079.40062;

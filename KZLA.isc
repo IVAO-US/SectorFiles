@@ -108,6 +108,7 @@ F;ALB.mva
 F;MYR.mva
 F;A80.mva
 F;DAB.mva
+F;A90.mva
 F;MWH.mva
 F;EUG.mva
 F;TPA.mva
@@ -470,12 +471,7 @@ F;UT47.geo
 F;UT54.geo
 F;UT91.geo
 F;KPHX.geo
-F;KCSL.geo
-F;KDRA.geo
-F;KNXF.geo
-F;KXTA.geo
-F;MMTJ.geo
-F;KUCC.geo
+
 
 [FILLCOLOR]
 F;online.ply

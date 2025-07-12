@@ -1,2 +1,0 @@
-Jet Yard;KMZJ;32.51453;-111.32588;
-Aircraft Cemetery B;KMZJ;32.50427;-111.3153;
