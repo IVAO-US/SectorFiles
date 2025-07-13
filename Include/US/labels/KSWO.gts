@@ -7,4 +7,3 @@ Hangar 1;KSWO;36.15867;-097.08339;
 University Flight Center Ramp North;KSWO;36.16003;-097.08329;
 University Flight Center Ramp South;KSWO;36.15429;-097.08623;
 Terminal Ramp;KSWO;36.15781;-097.08434;
-1;KSWO;36.1579156;-097.0843578;

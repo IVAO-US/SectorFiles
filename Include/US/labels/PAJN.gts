@@ -1,4 +1,5 @@
 Coastal Helicopters;PAJN;58.3588;-134.58052;
+Ward Air;PAJN;58.35866;-134.57903;
 Passenger Terminal;PAJN;58.35904;-134.58451;
 Alaska Seaplanes;PAJN;58.35801;-134.57675;
 Alaska Seaplanes;PAJN;58.35813;-134.57753;
