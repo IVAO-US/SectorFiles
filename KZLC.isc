@@ -1,9 +1,9 @@
 [INFO]
-N43.51.11.063
-W111.07.42.433
+N43.53.20.594
+W111.06.39.855
 60
 43
-12.2195
+12.1774
 US/ZLC;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas;US/videomaps
 
 [DEFINE]
@@ -416,6 +416,7 @@ F;4U7.geo
 F;4U9.geo
 F;50MT.geo
 F;50S.geo
+F;51ID.geo
 F;52S.geo
 F;52U.geo
 F;53MT.geo
@@ -716,8 +717,8 @@ F;MT82.geo
 F;MT83.geo
 F;MT84.geo
 F;MT86.geo
-F;MT88.geo
 F;MT89.geo
+F;MT92.geo
 F;MT94.geo
 F;MT95.geo
 F;MT96.geo

@@ -1,2 +1,1 @@
 Hanger;KAVX;33.40198;-118.41526;
-Transient Parking;KAVX;33.40342;-118.41644;

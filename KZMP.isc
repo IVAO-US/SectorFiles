@@ -1,9 +1,9 @@
 [INFO]
-N44.38.51.630
-W094.05.32.095
+N44.38.51.839
+W094.06.36.452
 60
 43
-02.1557
+02.1689
 US/ZMP;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas;US/videomaps
 
 [DEFINE]
@@ -1458,7 +1458,6 @@ F;WN66.geo
 F;WN86.geo
 F;WN90.geo
 F;WN98.geo
-F;WN99.geo
 F;WS06.geo
 F;WS13.geo
 F;WS14.geo

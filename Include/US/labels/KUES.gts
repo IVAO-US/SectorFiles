@@ -1,4 +1,7 @@
 West Corporate Hangers;KUES;43.04037;-088.24354;
+Atlantic Aviation UES;KUES;43.03877;-088.23867;
+ATP Flight School;KUES;43.03902;-088.23997;
+Stein's Aircraft Service;KUES;43.03985;-088.2432;
 East Corporate Hangars;KUES;43.03652;-088.22905;
 Southwest Hangars;KUES;43.0351;-088.23695;
 South Tiedown;KUES;43.03769;-088.23675;

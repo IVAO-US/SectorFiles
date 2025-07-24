@@ -1,6 +1,6 @@
 [INFO]
 N37.34.25.868
-W077.16.36.234
+W077.16.36.236
 60
 48
 -09.7337
@@ -271,6 +271,7 @@ F;16VG.geo
 F;17N.geo
 F;17NC.geo
 F;17NR.geo
+F;18NR.geo
 F;19N.geo
 F;19NC.geo
 F;1DE5.geo
@@ -338,6 +339,7 @@ F;31VA.geo
 F;32MD.geo
 F;32NC.geo
 F;33N.geo
+F;33NC.geo
 F;33VA.geo
 F;34NJ.geo
 F;38N.geo

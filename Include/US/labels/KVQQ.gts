@@ -1,3 +1,4 @@
+LSI Inc Building 1;KVQQ;30.22744;-081.88203;
 Flightstar Aircraft Service Building H905;KVQQ;30.23543;-081.88216;
 Cecil Spaceport Ramp;KVQQ;30.21995;-081.87186;
 5;KVQQ;30.21993;-081.88987;
