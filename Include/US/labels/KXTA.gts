@@ -12,5 +12,6 @@ Hangar 18;KXTA;37.22884;-115.81144;
 Hangar 5 (Building 202);KXTA;37.24496;-115.81541;
 Hangars 22 and 23;KXTA;37.23303;-115.81357;
 Hangars 20-23 Storage Building;KXTA;37.23221;-115.81412;
+Hangar 7 (Building 206);KXTA;37.24425;-115.81665;
 Hangar 18 Support Buildings (Buildings 431-432);KXTA;37.2357;-115.81722;
 Hangar 6 (Building 208);KXTA;37.24477;-115.81671;
