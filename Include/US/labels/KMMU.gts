@@ -1,0 +1,2 @@
+General Aviation Parking;KMMU;40.7956952;-074.4202932;
+West Tiedowns;KMMU;40.7982332;-074.4265726;

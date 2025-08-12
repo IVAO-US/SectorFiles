@@ -1,0 +1,1 @@
+New Castle Airport FBO;KUCP;41.02456;-080.41434;
