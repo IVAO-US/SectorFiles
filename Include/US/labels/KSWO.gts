@@ -6,3 +6,4 @@ Oklahoma State University Cowboy Hangar;KSWO;36.15591;-097.08492;
 1;KSWO;36.15867;-097.08304;
 University Flight Center Ramp North;KSWO;36.16003;-097.08329;
 University Flight Center Ramp South;KSWO;36.15429;-097.08623;
+1;KSWO;36.1579156;-097.0843578;

@@ -1,3 +1,4 @@
+Hawkeye Aviation;KBJC;39.9123;-105.11523;
 Mountain Aviation;KBJC;39.91147;-105.10789;
 Windsong dba Propel Aircraft / Hammack Group;KBJC;39.91374;-105.1165;
 Tri-Pac (Custis) Aviation;KBJC;39.91248;-105.11646;

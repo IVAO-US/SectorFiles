@@ -1,5 +1,5 @@
-West Ramp;KBGM;42.20652;-075.98569;
+West Ramp;KBGM;42.20651;-075.98573;
 H1;KBGM;42.2064;-075.98427;
-Main Ramp;KBGM;42.20793;-075.98218;
-North Ramp;KBGM;42.21087;-075.98336;
-Greater Binghamton Airport Terminal;KBGM;42.20794;-075.98394;
+Main Ramp;KBGM;42.20787;-075.98223;
+North Ramp;KBGM;42.21083;-075.98343;
+Greater Binghamton Airport Terminal;KBGM;42.20797;-075.98397;

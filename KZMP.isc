@@ -427,6 +427,8 @@ F;36WI.geo
 F;37N.geo
 F;37ND.geo
 F;37NE.geo
+F;38IA.geo
+F;38MN.geo
 F;38ND.geo
 F;38NE.geo
 F;38WI.geo
@@ -1303,7 +1305,6 @@ F;NA86.geo
 F;NA88.geo
 F;NA90.geo
 F;NA99.geo
-F;ND01.geo
 F;ND02.geo
 F;ND07.geo
 F;ND08.geo
@@ -1344,7 +1345,6 @@ F;ND82.geo
 F;ND83.geo
 F;ND84.geo
 F;ND85.geo
-F;ND89.geo
 F;ND90.geo
 F;ND92.geo
 F;ND96.geo

@@ -1,5 +1,7 @@
-Odom Hangar;PALH;61.17903;-149.97353;
-Main Hangar;PALH;61.17918;-149.97272;
-Restoration Hangar;PALH;61.17937;-149.97388;
-Rasmuson Hangar;PALH;61.17898;-149.97282;
-South Hangar;PALH;61.17873;-149.97266;
+Odom Hangar;PALH;61.17907;-149.97345;
+Main Hangar;PALH;61.17921;-149.97266;
+Branham Hangar;PALH;61.17912;-149.97437;
+Restoration Hangar;PALH;61.17938;-149.97382;
+Rasmuson Hangar;PALH;61.179;-149.97278;
+South Hangar;PALH;61.17876;-149.97262;
+Alaska Civil Air Patrol;PALH;61.17783;-149.97252;

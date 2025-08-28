@@ -379,6 +379,7 @@ F;44VA.geo
 F;45NC.geo
 F;46VA.geo
 F;47NC.geo
+F;48NR.geo
 F;48VA.geo
 F;49NR.geo
 F;4MD0.geo
@@ -407,6 +408,7 @@ F;52NR.geo
 F;53VA.geo
 F;53VG.geo
 F;54NC.geo
+F;54NR.geo
 F;58M.geo
 F;58NJ.geo
 F;58NR.geo
@@ -733,7 +735,6 @@ F;NC11.geo
 F;NC12.geo
 F;NC13.geo
 F;NC18.geo
-F;NC20.geo
 F;NC22.geo
 F;NC28.geo
 F;NC34.geo
