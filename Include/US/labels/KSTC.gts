@@ -12,4 +12,3 @@ Life Link III;KSTC;45.5524;-094.07414;
 6;KSTC;45.5395;-094.05495;
 8;KSTC;45.53922;-094.05446;
 Army Aviation Support Facility #2 - MN National Guard;KSTC;45.53891;-094.05856;
-General Aviation Terminal;KSTC;45.54727;-094.06701;

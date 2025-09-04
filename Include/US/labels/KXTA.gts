@@ -1,5 +1,6 @@
 Hangar 4 (Building 200);KXTA;37.24436;-115.81535;
 Hangars 12-9 (Building 482);KXTA;37.23119;-115.81606;
+Hangar 8 (Building 443);KXTA;37.23414;-115.81622;
 Hangar 18 (Building 430);KXTA;37.23576;-115.81487;
 Hangar 17 (Building 470);KXTA;37.23194;-115.81717;
 Hangars 20 and 21;KXTA;37.23369;-115.81361;
@@ -14,5 +15,5 @@ Hangars 20-23 Storage Building;KXTA;37.23221;-115.81412;
 Hangar 7 (Building 206);KXTA;37.24425;-115.81665;
 Hangar 18 Support Buildings (Buildings 431-432);KXTA;37.2357;-115.81722;
 Hangar 6 (Building 208);KXTA;37.24477;-115.81671;
-P;KXTA;37.2472895;-115.8117186;
 Red Hat Hangers;KXTA;37.2449978;-115.814174;
+P;KXTA;37.2472895;-115.8117186;
