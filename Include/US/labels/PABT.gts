@@ -1,3 +1,3 @@
-Sourdough Outfitters Hangar;PABT;66.91835;-151.51648;
-Brooks Range Aviation Hangar;PABT;66.91933;-151.51517;
-NPS & FWS Hangar;PABT;66.91991;-151.51387;
+Sourdough Outfitters Hangar;PABT;66.91838;-151.51638;
+Brooks Range Aviation Hangar;PABT;66.9193;-151.51506;
+NPS & FWS Hangar;PABT;66.91988;-151.51382;

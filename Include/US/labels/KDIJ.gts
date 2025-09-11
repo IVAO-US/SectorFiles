@@ -1,0 +1,2 @@
+Driggs Airport;KDIJ;43.73632;-111.1101;
+Warbirds Cafe;KDIJ;43.73852;-111.10639;
