@@ -13,8 +13,8 @@ OUTLINE;#FF000000;
 BUILDING;#FF773333;
 RUNWAY;#FF555555;
 STOPBAR;#FFB30000;
-ORD8;#FF999999;
 WEST;#FF999999;
+ORD8;#FF999999;
 EAST;#FF999999;
 
 [ATC]
@@ -216,8 +216,8 @@ F;high.artcc
 
 [GEO]
 F;coast.geo
-F;ORD8.geo
 F;WEST.geo
+F;ORD8.geo
 F;EAST.geo
 F;00IL.geo
 F;00IS.geo
@@ -276,7 +276,6 @@ F;11C.geo
 F;11IA.geo
 F;11LL.geo
 F;11WN.geo
-F;12IL.geo
 F;13C.geo
 F;13IN.geo
 F;13WI.geo
@@ -365,7 +364,6 @@ F;33IA.geo
 F;33IL.geo
 F;34IA.geo
 F;34IL.geo
-F;34IN.geo
 F;34MI.geo
 F;34WI.geo
 F;35C.geo
@@ -537,7 +535,6 @@ F;6IL9.geo
 F;6IN3.geo
 F;6IS0.geo
 F;6K7.geo
-F;6LL2.geo
 F;6MI3.geo
 F;6MI6.geo
 F;6MI7.geo
@@ -780,7 +777,6 @@ F;IN82.geo
 F;IN85.geo
 F;IN87.geo
 F;IN9.geo
-F;IN90.geo
 F;IN91.geo
 F;IN93.geo
 F;IS00.geo

@@ -1,9 +1,9 @@
 [INFO]
-N41.33.21.936
-W081.20.00.211
+N41.33.20.262
+W081.20.03.527
 60
 45
--07.8231
+-07.8108
 US/ZOB;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas;US/videomaps
 
 [DEFINE]
@@ -376,7 +376,6 @@ F;45OI.geo
 F;46MI.geo
 F;46NY.geo
 F;47NY.geo
-F;48G.geo
 F;48NY.geo
 F;48PS.geo
 F;49G.geo

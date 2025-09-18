@@ -1,9 +1,9 @@
 [INFO]
-N45.47.46.240
-W121.21.06.198
+N45.49.54.845
+W121.19.57.027
 60
 42
-15.7841
+15.7753
 US/ZSE;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas;US/videomaps
 
 [DEFINE]
@@ -402,6 +402,7 @@ F;48WA.geo
 F;49OR.geo
 F;49WA.geo
 F;4OR0.geo
+F;4OR1.geo
 F;4OR3.geo
 F;4OR4.geo
 F;4OR5.geo
@@ -461,6 +462,7 @@ F;5WA7.geo
 F;5WA8.geo
 F;5WA9.geo
 F;60OR.geo
+F;60WN.geo
 F;61ID.geo
 F;61OR.geo
 F;61S.geo

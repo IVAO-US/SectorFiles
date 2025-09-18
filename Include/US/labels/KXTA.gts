@@ -15,5 +15,4 @@ Hangars 20-23 Storage Building;KXTA;37.23221;-115.81412;
 Hangar 7 (Building 206);KXTA;37.24425;-115.81665;
 Hangar 18 Support Buildings (Buildings 431-432);KXTA;37.2357;-115.81722;
 Hangar 6 (Building 208);KXTA;37.24477;-115.81671;
-P;KXTA;37.2472895;-115.8117186;
 Red Hat Hangers;KXTA;37.2449978;-115.814174;

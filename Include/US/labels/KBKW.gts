@@ -1,1 +1,1 @@
-Raleigh County Airport Terminal;KBKW;37.78419;-081.12284;
+Raleigh County Airport Terminal;KBKW;37.78423;-081.12284;

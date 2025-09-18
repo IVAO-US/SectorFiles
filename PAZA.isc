@@ -1,9 +1,9 @@
 [INFO]
-N62.14.24.847
-W156.04.29.537
+N62.13.21.653
+W156.07.42.612
 60
 28
-14.1757
+14.0403
 US/PAZA;US/labels;US/geos;US/polygons;US/procedures;US/navaids;US/mvas;US/videomaps
 
 [DEFINE]
@@ -292,7 +292,6 @@ F;2AK5.geo
 F;2AK6.geo
 F;2AK7.geo
 F;2AK8.geo
-F;2AK9.geo
 F;2AN.geo
 F;2D3.geo
 F;2K5.geo
@@ -625,7 +624,6 @@ F;K29.geo
 F;K40.geo
 F;K55.geo
 F;KAE.geo
-F;KBE.geo
 F;KCL.geo
 F;KCR.geo
 F;KEB.geo
