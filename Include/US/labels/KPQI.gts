@@ -1,2 +1,1 @@
 Presque Isle International Airport;KPQI;46.69215;-068.04696;
-1;KPQI;46.6919842;-068.0456813;

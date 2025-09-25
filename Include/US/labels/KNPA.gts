@@ -1,2 +1,4 @@
 Museum Ramp;KNPA;30.35373;-087.3053;
 Maintenance and Restoration Hangar;KNPA;30.35209;-087.30548;
+74;KNPA;30.34551;-087.27213;
+73;KNPA;30.34528;-087.27083;
