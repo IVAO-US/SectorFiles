@@ -1,4 +1,3 @@
-Maverick Air Center Hangar;KFSD;43.59288;-096.74291;
 Sanford AirMed;KFSD;43.59217;-096.74189;
 Sioux Falls Regional Airport;KFSD;43.5801;-096.73335;
 West General Aviation Ramp;KFSD;43.59126;-096.74219;

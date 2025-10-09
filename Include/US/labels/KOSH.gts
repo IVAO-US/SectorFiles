@@ -1,5 +1,5 @@
-Cloud 9;KOSH;43.97064;-088.55381;
 Myers Aviation;KOSH;43.98774;-088.55092;
+Cloud 9;KOSH;43.97064;-088.55381;
 Sonex Parts Distribution Warehouse;KOSH;43.98825;-088.55077;
 Flight Training Hangar;KOSH;43.97028;-088.54681;
 Aviation Services;KOSH;43.98805;-088.55131;
