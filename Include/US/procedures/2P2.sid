@@ -1,5 +1,7 @@
 // Data provided by Keyvan Aviation.
+/// WINEP1 ///
 2P2;32:20:14:02;WINEP1;2P2;2P2;
 OCEKA;OCEKA;<br>;
-WINEP;WINEP;
+WINEP;WINEP;min 3000;
+
 

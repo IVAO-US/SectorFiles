@@ -1,6 +1,8 @@
 // Data provided by Keyvan Aviation.
+/// 77S2 ///
 77S;34;77S2;77S;77S;
 77S;77S;<br>;
-43.96676026;-123.02587306;
-EUG;EUG;
+43.96676026;-123.02587306;min 1700;
+EUG;EUG;min 4000;
+
 
