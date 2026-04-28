@@ -1,14 +1,20 @@
-// Data provided by Keyvan Aviation.
+// Data provided by Keyvan Avaiation
+
+/// CVO.VDMA ///
 S12;34:16;CVO.VDMA;S12;S12;3;
 CVO;CVO;<br>;
 CVO;CVO;min 3600;
 SAIDY;SAIDY;min 2500;
 KINCI;KINCI;at 1020;
+
+/// VDMA ///
 S12;34:16;VDMA;S12;S12;3;
 CVO;CVO;<br>;
 CVO;CVO;min 3600;
 SAIDY;SAIDY;min 2500;
 KINCI;KINCI;at 1020;
+
+/// VDMA (GA) ///
 S12;34:16;VDMA (GA);S12;S12;5;
 44.68126871;-123.13387956;<br>;
 CVO;CVO;at 3600;
@@ -20,4 +26,3 @@ KINCI;KINCI;<br>;
 KINCI;KINCI;at 1020;
 CVO;CVO;<br>;
 CVO;CVO;at 3600;
-

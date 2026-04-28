@@ -1,13 +1,10 @@
-// Data provided by Keyvan Aviation.
+// Data provided by Keyvan Avaiation
+
 /// ADIBE1 ///
-U34;13;ADIBE1;U34;U34;
+U34;31:13;ADIBE1;U34;U34;
 U34/RW31;U34/RW31;<br>;
 38.94421182;-110.20501349;
 ADIBE;ADIBE;min 10000;
-
-U34;31;ADIBE1;U34;U34;
 U34/RW13;U34/RW13;<br>;
 38.97891856;-110.24922197;
 ADIBE;ADIBE;min 10000;
-
-

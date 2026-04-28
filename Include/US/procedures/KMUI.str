@@ -1,19 +1,24 @@
-// Data provided by Keyvan Aviation.
+// Data provided by Keyvan Avaiation
+
+/// RUZZL.R25 ///
 KMUI;25;RUZZL.R25;KMUI;KMUI;3;
 RUZZL;RUZZL;<br>;
 RUZZL;RUZZL;max 6000:min 4000:spd 090 kt;
 EARVN;EARVN;at 2700:spd 090 kt;
 JURKI;JURKI;min 2300:spd 090 kt;
 KMUI/RW25;KMUI/RW25;at 1300:spd 090 kt;
+
+/// R25 ///
 KMUI;25;R25;KMUI;KMUI;3;
 RUZZL;RUZZL;<br>;
 RUZZL;RUZZL;max 6000:min 4000:spd 090 kt;
 EARVN;EARVN;at 2700:spd 090 kt;
 JURKI;JURKI;min 2300:spd 090 kt;
 KMUI/RW25;KMUI/RW25;at 1300:spd 090 kt;
+
+/// R25 (GA) ///
 KMUI;25;R25 (GA);KMUI;KMUI;5;
 RUZZL;RUZZL;<br>;
 KMUI/RW25;KMUI/RW25;at 1300:spd 090 kt;
 40.43326942;-076.57928844;
 BAARN;BAARN;max 6000:min 3000:spd 090 kt;
-

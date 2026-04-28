@@ -1,5 +1,5 @@
-// Data provided by Keyvan Aviation.
-/// AVILA4 ///
+// Data provided by Keyvan Avaiation
+
 /// AVILA4.GVO ///
 KSBP;11;AVILA4.GVO;KSBP;KSBP;
 KSBP;KSBP;<br>;
@@ -42,8 +42,6 @@ ORCUT;ORCUT;min 6000;
 GVO20;GVO20;
 GVO;GVO;
 
-
-/// CREPE3 ///
 /// CREPE3.FRAMS ///
 KSBP;29;CREPE3.FRAMS;KSBP;KSBP;
 KSBP;KSBP;<br>;
@@ -76,8 +74,6 @@ CREPE;CREPE;<br>;
 RUGTY;RUGTY;
 FRAMS;FRAMS;
 
-
-/// WYNNR4 ///
 /// WYNNR4.FLW ///
 KSBP;11;WYNNR4.FLW;KSBP;KSBP;
 KSBP;KSBP;<br>;
@@ -117,5 +113,3 @@ WYNNR;WYNNR;<br>;
 PRB;PRB;
 WYNNR;WYNNR;<br>;
 FLW;FLW;
-
-

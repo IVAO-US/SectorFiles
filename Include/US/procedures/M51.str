@@ -1,14 +1,20 @@
-// Data provided by Keyvan Aviation.
+// Data provided by Keyvan Avaiation
+
+/// ZOSLO.RNVA ///
 M51;32:19:14:01;ZOSLO.RNVA;M51;M51;3;
 ZOSLO;ZOSLO;<br>;
 ZOSLO;ZOSLO;min 3500;
 WULEN;WULEN;min 1800;
 WISID;WISID;at 840;
+
+/// RNVA ///
 M51;32:19:14:01;RNVA;M51;M51;3;
 ZOSLO;ZOSLO;<br>;
 ZOSLO;ZOSLO;min 3500;
 WULEN;WULEN;min 1800;
 WISID;WISID;at 840;
+
+/// RNVA (GA) ///
 M51;32:19:14:01;RNVA (GA);M51;M51;5;
 33.51193991;-088.69546266;<br>;
 ZOSLO;ZOSLO;at 3500;
@@ -18,4 +24,3 @@ WISID;WISID;<br>;
 WISID;WISID;at 840;
 ZOSLO;ZOSLO;<br>;
 ZOSLO;ZOSLO;at 3500;
-

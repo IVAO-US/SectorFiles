@@ -1,16 +1,21 @@
-// Data provided by Keyvan Aviation.
+// Data provided by Keyvan Avaiation
+
+/// RACON.RNVA ///
 12G;36:21:18:03;RACON.RNVA;12G;12G;3;
 RACON;RACON;<br>;
 RACON;RACON;min 2900;
 SODRR;SODRR;min 2600;
 TIDPE;TIDPE;at 1840;
+
+/// RNVA ///
 12G;36:21:18:03;RNVA;12G;12G;3;
 RACON;RACON;<br>;
 RACON;RACON;min 2900;
 SODRR;SODRR;min 2600;
 TIDPE;TIDPE;at 1840;
+
+/// RNVA (GA) ///
 12G;36:21:18:03;RNVA (GA);12G;12G;5;
 RACON;RACON;<br>;
 TIDPE;TIDPE;at 1840;
 ZISKI;ZISKI;at 3000;
-

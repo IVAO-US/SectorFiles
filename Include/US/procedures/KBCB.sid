@@ -1,13 +1,11 @@
-// Data provided by Keyvan Aviation.
-/// BEMAR3 ///
+// Data provided by Keyvan Avaiation
+
 /// BEMAR3 ///
 KBCB;13;BEMAR3;KBCB;KBCB;
 KBCB;KBCB;<br>;
 37.19592852;-080.37934659;
 BEMAR;BEMAR;min 5200;
 
-
-/// SETHY5 ///
 /// SETHY5.AASTN ///
 KBCB;31;SETHY5.AASTN;KBCB;KBCB;
 KBCB;KBCB;<br>;
@@ -34,5 +32,3 @@ FUENT;FUENT;
 TABER;TABER;
 SETHY;SETHY;<br>;
 AASTN;AASTN;
-
-

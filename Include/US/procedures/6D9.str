@@ -1,19 +1,24 @@
-// Data provided by Keyvan Aviation.
+// Data provided by Keyvan Avaiation
+
+/// VOJVI.R08 ///
 6D9;08;VOJVI.R08;6D9;6D9;3;
 VOJVI;VOJVI;<br>;
 VOJVI;VOJVI;min 3100;
 ZOBOR;ZOBOR;min 2400;
 YATUC;YATUC;max 1451:min 1440;
 6D9/RW08;6D9/RW08;at 655;
+
+/// R08 ///
 6D9;08;R08;6D9;6D9;3;
 VOJVI;VOJVI;<br>;
 VOJVI;VOJVI;min 3100;
 ZOBOR;ZOBOR;min 2400;
 YATUC;YATUC;max 1451:min 1440;
 6D9/RW08;6D9/RW08;at 655;
+
+/// R08 (GA) ///
 6D9;08;R08 (GA);6D9;6D9;5;
 VOJVI;VOJVI;<br>;
 6D9/RW08;6D9/RW08;at 655;
 44.31250994;-083.41060365;
 SNOWW;SNOWW;at 3500;
-

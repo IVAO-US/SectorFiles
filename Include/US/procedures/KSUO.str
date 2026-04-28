@@ -1,14 +1,20 @@
-// Data provided by Keyvan Aviation.
+// Data provided by Keyvan Avaiation
+
+/// GLUGS.R34 ///
 KSUO;34;GLUGS.R34;KSUO;KSUO;3;
 GLUGS;GLUGS;<br>;
 GLUGS;GLUGS;max 6000:min 5000;
 ROLFS;ROLFS;min 4200;
 KSUO/RW34;KSUO/RW34;at 2764;
+
+/// R34 ///
 KSUO;34;R34;KSUO;KSUO;3;
 GLUGS;GLUGS;<br>;
 GLUGS;GLUGS;max 6000:min 5000;
 ROLFS;ROLFS;min 4200;
 KSUO/RW34;KSUO/RW34;at 2764;
+
+/// R34 (GA) ///
 KSUO;34;R34 (GA);KSUO;KSUO;5;
 43.27234248;-100.86589246;<br>;
 GLUGS;GLUGS;at 5000:spd 165 kt;
@@ -18,4 +24,3 @@ KSUO/RW34;KSUO/RW34;<br>;
 KSUO/RW34;KSUO/RW34;at 2764;
 GLUGS;GLUGS;<br>;
 GLUGS;GLUGS;at 5000:spd 165 kt;
-

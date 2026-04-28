@@ -1,18 +1,23 @@
-// Data provided by Keyvan Aviation.
+// Data provided by Keyvan Avaiation
+
+/// JASDI.R18 ///
 0R7;18;JASDI.R18;0R7;0R7;3;
 JASDI;JASDI;<br>;
 JASDI;JASDI;min 3000;
 FIXON;FIXON;min 1800;
 PEGSE;PEGSE;max 1023:min 1020;
 RW18;RW18;at 227;
+
+/// R18 ///
 0R7;18;R18;0R7;0R7;3;
 JASDI;JASDI;<br>;
 JASDI;JASDI;min 3000;
 FIXON;FIXON;min 1800;
 PEGSE;PEGSE;max 1023:min 1020;
 RW18;RW18;at 227;
+
+/// R18 (GA) ///
 0R7;18;R18 (GA);0R7;0R7;5;
 JASDI;JASDI;<br>;
 RW18;RW18;at 227;
 ZUKRI;ZUKRI;at 3000;
-

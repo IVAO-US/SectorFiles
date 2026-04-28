@@ -1,14 +1,20 @@
-// Data provided by Keyvan Aviation.
+// Data provided by Keyvan Avaiation
+
+/// GSO.D34 ///
 N63;34;GSO.D34;N63;N63;3;
 GSO;GSO;<br>;
 KAREN;KAREN;min 2500;
 DULII;DULII;min 2000;
 N63/RW34;N63/RW34;at 681;
+
+/// D34 ///
 N63;34;D34;N63;N63;3;
 GSO;GSO;<br>;
 KAREN;KAREN;min 2500;
 DULII;DULII;min 2000;
 N63/RW34;N63/RW34;at 681;
+
+/// D34 (GA) ///
 N63;34;D34 (GA);N63;N63;5;
 36.30907590;-080.15434512;<br>;
 KAREN;KAREN;at 2500;
@@ -18,4 +24,3 @@ N63/RW34;N63/RW34;<br>;
 N63/RW34;N63/RW34;at 681;
 KAREN;KAREN;<br>;
 KAREN;KAREN;at 2500;
-

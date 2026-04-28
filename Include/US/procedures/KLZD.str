@@ -1,14 +1,20 @@
-// Data provided by Keyvan Aviation.
+// Data provided by Keyvan Avaiation
+
+/// PUT.VORA ///
 KLZD;31:13;PUT.VORA;KLZD;KLZD;3;
 PUT;PUT;<br>;
 PUT;PUT;min 2600;
 SNAPO;SNAPO;at 1120;
 85PUT;85PUT;at 1120;
+
+/// VORA ///
 KLZD;31:13;VORA;KLZD;KLZD;3;
 PUT;PUT;<br>;
 PUT;PUT;min 2600;
 SNAPO;SNAPO;at 1120;
 85PUT;85PUT;at 1120;
+
+/// VORA (GA) ///
 KLZD;31:13;VORA (GA);KLZD;KLZD;5;
 41.83090689;-071.89203776;<br>;
 PUT;PUT;at 2600;
@@ -18,4 +24,3 @@ PUT;PUT;at 2600;
 85PUT;85PUT;at 1120;
 PUT;PUT;<br>;
 PUT;PUT;at 2600;
-

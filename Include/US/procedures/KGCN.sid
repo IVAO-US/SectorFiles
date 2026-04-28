@@ -1,13 +1,11 @@
-// Data provided by Keyvan Aviation.
-/// GRAND4 ///
+// Data provided by Keyvan Avaiation
+
 /// GRAND4 ///
 KGCN;21;GRAND4;KGCN;KGCN;
 KGCN;KGCN;<br>;
 35.94246190;-112.15742767;
 BISOP;BISOP;
 
-
-/// PARKS4 ///
 /// PARKS4 ///
 KGCN;21;PARKS4;KGCN;KGCN;
 KGCN;KGCN;<br>;
@@ -15,5 +13,3 @@ KGCN;KGCN;<br>;
 35.96641016;-112.18847370;
 GUCRU;GUCRU;min 10000;
 PGS;PGS;
-
-

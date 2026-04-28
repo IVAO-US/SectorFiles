@@ -1,12 +1,18 @@
-// Data provided by Keyvan Aviation.
+// Data provided by Keyvan Avaiation
+
+/// FLIBB.VORA ///
 0B8;30:25:12:07;FLIBB.VORA;0B8;0B8;3;
 FLIBB;FLIBB;<br>;
 GON;GON;min 2000;
 MAFYA;MAFYA;at 560;
+
+/// VORA ///
 0B8;30:25:12:07;VORA;0B8;0B8;3;
 FLIBB;FLIBB;<br>;
 GON;GON;min 2000;
 MAFYA;MAFYA;at 560;
+
+/// VORA (GA) ///
 0B8;30:25:12:07;VORA (GA);0B8;0B8;5;
 41.25691735;-072.03139797;<br>;
 GON;GON;at 2000;
@@ -16,4 +22,3 @@ MAFYA;MAFYA;<br>;
 MAFYA;MAFYA;at 560;
 GON;GON;<br>;
 GON;GON;at 2000;
-

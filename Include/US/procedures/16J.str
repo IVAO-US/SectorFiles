@@ -1,14 +1,20 @@
-// Data provided by Keyvan Aviation.
+// Data provided by Keyvan Avaiation
+
+/// PZD.R32 ///
 16J;32;PZD.R32;16J;16J;3;
 PZD;PZD;<br>;
 PZD;PZD;min 2900;
 FANOG;FANOG;max 1932:min 1920;
 16J/RW32;16J/RW32;at 329;
+
+/// R32 ///
 16J;32;R32;16J;16J;3;
 PZD;PZD;<br>;
 PZD;PZD;min 2900;
 FANOG;FANOG;max 1932:min 1920;
 16J/RW32;16J/RW32;at 329;
+
+/// R32 (GA) ///
 16J;32;R32 (GA);16J;16J;5;
 31.74796211;-084.42580578;<br>;
 PZD;PZD;at 2900;
@@ -18,4 +24,3 @@ PZD;PZD;at 2900;
 16J/RW32;16J/RW32;at 329;
 PZD;PZD;<br>;
 PZD;PZD;at 2900;
-

@@ -1,5 +1,5 @@
-// Data provided by Keyvan Aviation.
-/// EDUKY5 ///
+// Data provided by Keyvan Avaiation
+
 /// EDUKY5 ///
 KRIL;08;EDUKY5;KRIL;KRIL;
 KRIL;KRIL;<br>;
@@ -7,8 +7,6 @@ KRIL;KRIL;<br>;
 SLOLM;SLOLM;
 EDUKY;EDUKY;
 
-
-/// SQUAT5 ///
 /// SQUAT5 ///
 KRIL;26;SQUAT5;KRIL;KRIL;
 KRIL/RW26;KRIL/RW26;<br>;
@@ -16,8 +14,6 @@ GNBRL;GNBRL;
 YIRDU;YIRDU;
 SQUAT;SQUAT;
 
-
-/// UYRIG5 ///
 /// UYRIG5.DBL ///
 KRIL;08;UYRIG5.DBL;KRIL;KRIL;
 KRIL;KRIL;<br>;
@@ -40,5 +36,3 @@ UYRIG;UYRIG;
 SXW;SXW;
 UYRIG;UYRIG;<br>;
 DBL;DBL;
-
-

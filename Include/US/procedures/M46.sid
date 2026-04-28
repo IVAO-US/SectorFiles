@@ -1,17 +1,13 @@
-// Data provided by Keyvan Aviation.
-/// CISPU1 ///
+// Data provided by Keyvan Avaiation
+
 /// CISPU1 ///
 M46;06;CISPU1;M46;M46;
 M46;M46;<br>;
 COLOK;COLOK;
 CISPU;CISPU;
 
-
-/// CONUK1 ///
 /// CONUK1 ///
 M46;24;CONUK1;M46;M46;
 M46;M46;<br>;
 SITOY;SITOY;
 CONUK;CONUK;
-
-

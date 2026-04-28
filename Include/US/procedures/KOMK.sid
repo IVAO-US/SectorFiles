@@ -1,5 +1,5 @@
-// Data provided by Keyvan Aviation.
-/// EPH1 ///
+// Data provided by Keyvan Avaiation
+
 /// EPH1 ///
 KOMK;17;EPH1;KOMK;KOMK;
 KOMK;KOMK;<br>;
@@ -7,5 +7,3 @@ KOMK;KOMK;<br>;
 GETNG;GETNG;min 1900:spd 210 kt;
 HVARD;HVARD;
 EPH;EPH;min 4200;
-
-

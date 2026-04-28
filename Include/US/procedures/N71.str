@@ -1,9 +1,13 @@
-// Data provided by Keyvan Aviation.
+// Data provided by Keyvan Avaiation
+
+/// D28 ///
 N71;28;D28;N71;N71;3;
 LRP;LRP;<br>;
 LRP;LRP;min 2600;
 ESAAL;ESAAL;min 2600;
 N71/RW28;N71/RW28;at 445;
+
+/// D28 (GA) ///
 N71;28;D28 (GA);N71;N71;5;
 40.10979487;-076.69655815;<br>;
 GRAMO;GRAMO;at 3000;
@@ -15,11 +19,14 @@ N71/RW28;N71/RW28;at 445;
 N71/RW28;N71/RW28;<br>;
 N71/RW28;N71/RW28;at 445;
 
+/// R28 ///
 N71;28;R28;N71;N71;3;
 LRP;LRP;<br>;
 LRP;LRP;min 2600;
 SEBOY;SEBOY;min 2300;
 N71/RW28;N71/RW28;at 440;
+
+/// R28 (GA) ///
 N71;28;R28 (GA);N71;N71;5;
 OSAKE;OSAKE;<br>;
 GRAMO;GRAMO;at 3000;
@@ -28,4 +35,3 @@ N71/RW28;N71/RW28;at 440;
 OSAKE;OSAKE;
 N71/RW28;N71/RW28;<br>;
 N71/RW28;N71/RW28;at 440;
-

@@ -1,19 +1,24 @@
-// Data provided by Keyvan Aviation.
+// Data provided by Keyvan Avaiation
+
+/// TYI.D27 ///
 KETC;27;TYI.D27;KETC;KETC;3;
 TYI;TYI;<br>;
 FUTAL;FUTAL;min 1800;
 35.91449167;-077.44169167;
 FUTAL;FUTAL;min 1800;
 RW27;RW27;at 95;
+
+/// D27 ///
 KETC;27;D27;KETC;KETC;3;
 TYI;TYI;<br>;
 FUTAL;FUTAL;min 1800;
 35.91449167;-077.44169167;
 FUTAL;FUTAL;min 1800;
 RW27;RW27;at 95;
+
+/// D27 (GA) ///
 KETC;27;D27 (GA);KETC;KETC;5;
 FUTAL;FUTAL;<br>;
 RW27;RW27;at 95;
 43.91756148;002.10280282;
 TYI;TYI;at 2000;
-

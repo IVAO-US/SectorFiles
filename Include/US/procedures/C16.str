@@ -1,4 +1,6 @@
-// Data provided by Keyvan Aviation.
+// Data provided by Keyvan Avaiation
+
+/// CMI.VORA ///
 C16;36:27:18:09;CMI.VORA;C16;C16;3;
 40.03453056;-088.27607500;<br>;
 CMI;CMI;min 2300;
@@ -10,6 +12,8 @@ FANUK;FANUK;<br>;
 FANUK;FANUK;at 1540;
 CMI;CMI;<br>;
 CMI;CMI;min 2300;
+
+/// VORA ///
 C16;36:27:18:09;VORA;C16;C16;3;
 40.03453056;-088.27607500;<br>;
 CMI;CMI;min 2300;
@@ -21,10 +25,11 @@ FANUK;FANUK;<br>;
 FANUK;FANUK;at 1540;
 CMI;CMI;<br>;
 CMI;CMI;min 2300;
+
+/// VORA (GA) ///
 C16;36:27:18:09;VORA (GA);C16;C16;5;
 CMI;CMI;<br>;
 MABNE;MABNE;at 1560;
 40.15529714;-088.19346223;
 40.06288965;-088.18069353;
 OCTOE;OCTOE;at 2500;
-

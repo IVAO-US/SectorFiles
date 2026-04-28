@@ -1,5 +1,5 @@
-// Data provided by Keyvan Aviation.
-/// CRBN2 ///
+// Data provided by Keyvan Avaiation
+
 /// CRBN2 ///
 KDWX;06;CRBN2;KDWX;KDWX;
 KDWX;KDWX;<br>;
@@ -10,12 +10,8 @@ VANJO;VANJO;
 UCIGA;UCIGA;
 NEDAE;NEDAE;
 
-
-/// DIXON2 ///
 /// DIXON2 ///
 KDWX;24;DIXON2;KDWX;KDWX;
 KDWX;KDWX;<br>;
 41.02961800;-107.51202199;
 DYNES;DYNES;
-
-

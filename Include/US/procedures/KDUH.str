@@ -1,14 +1,20 @@
-// Data provided by Keyvan Aviation.
+// Data provided by Keyvan Avaiation
+
+/// WTRVL.RNVA ///
 KDUH;27:09;WTRVL.RNVA;KDUH;KDUH;3;
 WTRVL;WTRVL;<br>;
 WTRVL;WTRVL;min 2500;
 TAINT;TAINT;min 2500;
 MAKAF;MAKAF;at 1180;
+
+/// RNVA ///
 KDUH;27:09;RNVA;KDUH;KDUH;3;
 WTRVL;WTRVL;<br>;
 WTRVL;WTRVL;min 2500;
 TAINT;TAINT;min 2500;
 MAKAF;MAKAF;at 1180;
+
+/// RNVA (GA) ///
 KDUH;27:09;RNVA (GA);KDUH;KDUH;5;
 41.73225296;-083.65610328;<br>;
 WTRVL;WTRVL;max 6000:min 2500;
@@ -18,4 +24,3 @@ MAKAF;MAKAF;<br>;
 MAKAF;MAKAF;at 1180;
 WTRVL;WTRVL;<br>;
 WTRVL;WTRVL;max 6000:min 2500;
-

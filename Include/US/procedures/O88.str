@@ -1,19 +1,24 @@
-// Data provided by Keyvan Aviation.
+// Data provided by Keyvan Avaiation
+
+/// WAGER.R25 ///
 O88;25;WAGER.R25;O88;O88;3;
 WAGER;WAGER;<br>;
 WAGER;WAGER;min 3200;
 GIFME;GIFME;min 1700;
 YOLUS;YOLUS;at 540;
 O88/RW25;O88/RW25;at 62;
+
+/// R25 ///
 O88;25;R25;O88;O88;3;
 WAGER;WAGER;<br>;
 WAGER;WAGER;min 3200;
 GIFME;GIFME;min 1700;
 YOLUS;YOLUS;at 540;
 O88/RW25;O88/RW25;at 62;
+
+/// R25 (GA) ///
 O88;25;R25 (GA);O88;O88;5;
 WAGER;WAGER;<br>;
 O88/RW25;O88/RW25;at 62;
 38.18979841;-121.71263808;
 JIRAG;JIRAG;at 3100;
-

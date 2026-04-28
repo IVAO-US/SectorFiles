@@ -1,19 +1,24 @@
-// Data provided by Keyvan Aviation.
+// Data provided by Keyvan Avaiation
+
+/// FBC.VORA ///
 56D;36:18;FBC.VORA;56D;56D;3;
 FBC;FBC;<br>;
 FBC;FBC;min 2500;
 RITRO;RITRO;min 2500;
 YEVUN;YEVUN;at 1520;
 MADDA;MADDA;at 1380;
+
+/// VORA ///
 56D;36:18;VORA;56D;56D;3;
 FBC;FBC;<br>;
 FBC;FBC;min 2500;
 RITRO;RITRO;min 2500;
 YEVUN;YEVUN;at 1520;
 MADDA;MADDA;at 1380;
+
+/// VORA (GA) ///
 56D;36:18;VORA (GA);56D;56D;5;
 FBC;FBC;<br>;
 MADDA;MADDA;at 1380;
 40.88471417;-083.32245995;
 RITRO;RITRO;at 2500;
-

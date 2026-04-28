@@ -1,5 +1,5 @@
-// Data provided by Keyvan Aviation.
-/// GVO3 ///
+// Data provided by Keyvan Avaiation
+
 /// GVO3 ///
 KVBG;12;GVO3;KVBG;KVBG;
 KVBG;KVBG;<br>;
@@ -7,12 +7,8 @@ KVBG;KVBG;min 2000;
 34.65320451;-120.62448147;
 GVO;GVO;min 6000;
 
-
-/// VBG3 ///
 /// VBG3 ///
 KVBG;30;VBG3;KVBG;KVBG;
 KVBG;KVBG;<br>;
 KVBG;KVBG;min 1300;
 MQO;MQO;min 4000;
-
-

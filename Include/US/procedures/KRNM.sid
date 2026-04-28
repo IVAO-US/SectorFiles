@@ -1,5 +1,5 @@
-// Data provided by Keyvan Aviation.
-/// CWARD2 ///
+// Data provided by Keyvan Avaiation
+
 /// CWARD2.LAX ///
 KRNM;27;CWARD2.LAX;KRNM;KRNM;
 GYWNN;GYWNN;<br>;
@@ -34,8 +34,6 @@ LAX;LAX;
 KRNM;KRNM;<br>;
 33.03775668;-116.96310225;
 
-
-/// PADRZ2 ///
 /// PADRZ2.CHKNN ///
 KRNM;27;PADRZ2.CHKNN;KRNM;KRNM;
 GYWNN;GYWNN;<br>;
@@ -98,5 +96,3 @@ LANDO;LANDO;
 EHF;EHF;
 KRNM;KRNM;<br>;
 33.03775668;-116.96310225;
-
-

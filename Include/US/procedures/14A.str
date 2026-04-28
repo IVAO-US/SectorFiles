@@ -1,19 +1,24 @@
-// Data provided by Keyvan Aviation.
+// Data provided by Keyvan Avaiation
+
+/// ZITUV.R14 ///
 14A;14;ZITUV.R14;14A;14A;3;
 ZITUV;ZITUV;<br>;
 ZITUV;ZITUV;min 3000;
 OKECU;OKECU;min 2500;
 ITOYE;ITOYE;max 1494:min 1480;
 14A/RW14;14A/RW14;at 857;
+
+/// R14 ///
 14A;14;R14;14A;14A;3;
 ZITUV;ZITUV;<br>;
 ZITUV;ZITUV;min 3000;
 OKECU;OKECU;min 2500;
 ITOYE;ITOYE;max 1494:min 1480;
 14A/RW14;14A/RW14;at 857;
+
+/// R14 (GA) ///
 14A;14;R14 (GA);14A;14A;5;
 ZITUV;ZITUV;<br>;
 14A/RW14;14A/RW14;at 857;
 HUBUP;HUBUP;
 LEEMO;LEEMO;at 4000;
-

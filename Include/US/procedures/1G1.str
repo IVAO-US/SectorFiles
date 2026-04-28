@@ -1,4 +1,6 @@
-// Data provided by Keyvan Aviation.
+// Data provided by Keyvan Avaiation
+
+/// DJB.VORA ///
 1G1;27:09;DJB.VORA;1G1;1G1;3;
 41.35806389;-082.16196944;<br>;
 DJB;DJB;min 2200;
@@ -7,6 +9,8 @@ DJB;DJB;<br>;
 WCARD;WCARD;at 1260;
 DJB;DJB;<br>;
 DJB;DJB;min 2200;
+
+/// VORA ///
 1G1;27:09;VORA;1G1;1G1;3;
 41.35806389;-082.16196944;<br>;
 DJB;DJB;min 2200;
@@ -15,6 +19,8 @@ DJB;DJB;<br>;
 WCARD;WCARD;at 1260;
 DJB;DJB;<br>;
 DJB;DJB;min 2200;
+
+/// VORA (GA) ///
 1G1;27:09;VORA (GA);1G1;1G1;5;
 41.33415989;-082.10627057;<br>;
 DJB;DJB;at 3000;
@@ -24,4 +30,3 @@ WCARD;WCARD;<br>;
 WCARD;WCARD;at 1260;
 DJB;DJB;<br>;
 DJB;DJB;at 3000;
-

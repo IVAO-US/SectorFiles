@@ -1,14 +1,20 @@
-// Data provided by Keyvan Aviation.
+// Data provided by Keyvan Avaiation
+
+/// CKB.R26 ///
 79D;26;CKB.R26;79D;79D;3;
 CKB;CKB;<br>;
 UCOYA;UCOYA;min 4500;
 TUGOY;TUGOY;min 3500;
 JUBVI;JUBVI;at 1952;
+
+/// UGJOB.R26 ///
 79D;26;UGJOB.R26;79D;79D;3;
 UGJOB;UGJOB;<br>;
 UCOYA;UCOYA;min 4500;
 TUGOY;TUGOY;min 3500;
 JUBVI;JUBVI;at 1952;
+
+/// R26 ///
 79D;26;R26;79D;79D;3;
 UGJOB;UGJOB;<br>;
 UCOYA;UCOYA;min 4500;
@@ -16,6 +22,8 @@ TUGOY;TUGOY;min 3500;
 JUBVI;JUBVI;at 1952;
 CKB;CKB;<br>;
 UCOYA;UCOYA;min 4500;
+
+/// R26 (GA) ///
 79D;26;R26 (GA);79D;79D;5;
 39.16713751;-080.05553975;<br>;
 UCOYA;UCOYA;at 4500;
@@ -25,4 +33,3 @@ JUBVI;JUBVI;<br>;
 JUBVI;JUBVI;at 1952;
 UCOYA;UCOYA;<br>;
 UCOYA;UCOYA;at 4500;
-

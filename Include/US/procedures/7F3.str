@@ -1,18 +1,23 @@
-// Data provided by Keyvan Aviation.
+// Data provided by Keyvan Avaiation
+
+/// BYP.R36 ///
 7F3;36;BYP.R36;7F3;7F3;3;
 BYP;BYP;<br>;
 IMOPY;IMOPY;min 2500;
 KOGLY;KOGLY;min 2200;
 MUMGE;MUMGE;max 1182:min 1180;
 7F3/RW36;7F3/RW36;at 575;
+
+/// R36 ///
 7F3;36;R36;7F3;7F3;3;
 BYP;BYP;<br>;
 IMOPY;IMOPY;min 2500;
 KOGLY;KOGLY;min 2200;
 MUMGE;MUMGE;max 1182:min 1180;
 7F3/RW36;7F3/RW36;at 575;
+
+/// R36 (GA) ///
 7F3;36;R36 (GA);7F3;7F3;5;
 IMOPY;IMOPY;<br>;
 7F3/RW36;7F3/RW36;at 575;
 IGATE;IGATE;at 2500;
-

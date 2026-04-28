@@ -1,16 +1,22 @@
-// Data provided by Keyvan Aviation.
+// Data provided by Keyvan Avaiation
+
+/// WETEV.R18 ///
 3MY;18;WETEV.R18;3MY;3MY;3;
 WETEV;WETEV;<br>;
 WETEV;WETEV;min 2700;
 ZAPEL;ZAPEL;min 2300;
 JIMIR;JIMIR;max 1342:min 1340;
 RW18;RW18;at 833;
+
+/// R18 ///
 3MY;18;R18;3MY;3MY;3;
 WETEV;WETEV;<br>;
 WETEV;WETEV;min 2700;
 ZAPEL;ZAPEL;min 2300;
 JIMIR;JIMIR;max 1342:min 1340;
 RW18;RW18;at 833;
+
+/// R18 (GA) ///
 3MY;18;R18 (GA);3MY;3MY;5;
 45.63282501;005.88056777;<br>;
 WETEV;WETEV;at 2700;
@@ -20,4 +26,3 @@ RW18;RW18;<br>;
 RW18;RW18;at 833;
 WETEV;WETEV;<br>;
 WETEV;WETEV;at 2700;
-

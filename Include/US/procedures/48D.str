@@ -1,19 +1,24 @@
-// Data provided by Keyvan Aviation.
+// Data provided by Keyvan Avaiation
+
+/// YUFJE.R04 ///
 48D;04;YUFJE.R04;48D;48D;3;
 YUFJE;YUFJE;<br>;
 YUFJE;YUFJE;min 3100;
 HUMDI;HUMDI;min 2700;
 ZENOX;ZENOX;at 1440;
 48D/RW04;48D/RW04;at 866;
+
+/// R04 ///
 48D;04;R04;48D;48D;3;
 YUFJE;YUFJE;<br>;
 YUFJE;YUFJE;min 3100;
 HUMDI;HUMDI;min 2700;
 ZENOX;ZENOX;at 1440;
 48D/RW04;48D/RW04;at 866;
+
+/// R04 (GA) ///
 48D;04;R04 (GA);48D;48D;5;
 YUFJE;YUFJE;<br>;
 48D/RW04;48D/RW04;at 866;
 43.84460849;-084.73121376;
 MOP;MOP;at 2800;
-

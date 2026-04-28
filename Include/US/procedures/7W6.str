@@ -1,19 +1,24 @@
-// Data provided by Keyvan Aviation.
+// Data provided by Keyvan Avaiation
+
+/// PUNGO.R11 ///
 7W6;11;PUNGO.R11;7W6;7W6;3;
 PUNGO;PUNGO;<br>;
 FANDU;FANDU;min 2500;
 LULUZ;LULUZ;min 1700;
 WINAS;WINAS;at 540;
 7W6/RW11;7W6/RW11;at 47;
+
+/// R11 ///
 7W6;11;R11;7W6;7W6;3;
 PUNGO;PUNGO;<br>;
 FANDU;FANDU;min 2500;
 LULUZ;LULUZ;min 1700;
 WINAS;WINAS;at 540;
 7W6/RW11;7W6/RW11;at 47;
+
+/// R11 (GA) ///
 7W6;11;R11 (GA);7W6;7W6;5;
 FANDU;FANDU;<br>;
 7W6/RW11;7W6/RW11;at 47;
 35.55839986;-075.94689241;
 PUNGO;PUNGO;at 3000;
-

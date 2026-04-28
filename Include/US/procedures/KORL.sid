@@ -1,18 +1,14 @@
-// Data provided by Keyvan Aviation.
-/// NYTES2 ///
+// Data provided by Keyvan Avaiation
+
 /// NYTES2 ///
 KORL;07;NYTES2;KORL;KORL;
 KORL;KORL;<br>;
 28.55216778;-081.31528523;
 NYTES;NYTES;max 1500;
 
-
-/// TOLLZ2 ///
 /// TOLLZ2 ///
 KORL;25;TOLLZ2;KORL;KORL;
 KORL;KORL;<br>;
 28.53875216;-081.35057364;
 BELZR;BELZR;max 1500;
 TOLLZ;TOLLZ;at 2000;
-
-

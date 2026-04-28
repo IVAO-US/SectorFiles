@@ -1,14 +1,20 @@
-// Data provided by Keyvan Aviation.
+// Data provided by Keyvan Avaiation
+
+/// LIN.RNVB ///
 1O3;30:26:12:08;LIN.RNVB;1O3;1O3;3;
 LIN;LIN;<br>;
 LIN;LIN;min 2000;
 QUADS;QUADS;min 2000;
 MAPYN;MAPYN;at 124;
+
+/// RNVB ///
 1O3;30:26:12:08;RNVB;1O3;1O3;3;
 LIN;LIN;<br>;
 LIN;LIN;min 2000;
 QUADS;QUADS;min 2000;
 MAPYN;MAPYN;at 124;
+
+/// RNVB (GA) ///
 1O3;30:26:12:08;RNVB (GA);1O3;1O3;5;
 38.20322101;-121.27852987;<br>;
 LIN;LIN;max 8000:min 2000;
@@ -18,4 +24,3 @@ MAPYN;MAPYN;<br>;
 MAPYN;MAPYN;at 124;
 LIN;LIN;<br>;
 LIN;LIN;max 8000:min 2000;
-

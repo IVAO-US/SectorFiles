@@ -1,16 +1,22 @@
-// Data provided by Keyvan Aviation.
+// Data provided by Keyvan Avaiation
+
+/// HOLRU.R36 ///
 0M0;36;HOLRU.R36;0M0;0M0;3;
 HOLRU;HOLRU;<br>;
 HOLRU;HOLRU;min 2000;
 OYUGI;OYUGI;min 2000;
 ZIKUL;ZIKUL;max 744:min 740;
 0M0/RW36;0M0/RW36;at 203;
+
+/// R36 ///
 0M0;36;R36;0M0;0M0;3;
 HOLRU;HOLRU;<br>;
 HOLRU;HOLRU;min 2000;
 OYUGI;OYUGI;min 2000;
 ZIKUL;ZIKUL;max 744:min 740;
 0M0/RW36;0M0/RW36;at 203;
+
+/// R36 (GA) ///
 0M0;36;R36 (GA);0M0;0M0;5;
 33.90420301;-091.53406119;<br>;
 HOLRU;HOLRU;at 2000;
@@ -20,4 +26,3 @@ HOLRU;HOLRU;at 2000;
 0M0/RW36;0M0/RW36;at 203;
 HOLRU;HOLRU;<br>;
 HOLRU;HOLRU;at 2000;
-

@@ -1,16 +1,22 @@
-// Data provided by Keyvan Aviation.
+// Data provided by Keyvan Avaiation
+
+/// FJS.NDBA ///
 KSIY;35:17;FJS.NDBA;KSIY;KSIY;3;
 FJS;FJS;<br>;
 MOG;MOG;min 4800;
 41.72727222;-122.48168611;
 MOG;MOG;min 4800;
 MARBK;MARBK;at 3760;
+
+/// LMT.NDBA ///
 KSIY;35:17;LMT.NDBA;KSIY;KSIY;3;
 LMT;LMT;<br>;
 MOG;MOG;min 4800;
 41.72727222;-122.48168611;
 MOG;MOG;min 4800;
 MARBK;MARBK;at 3760;
+
+/// NDBA ///
 KSIY;35:17;NDBA;KSIY;KSIY;3;
 LMT;LMT;<br>;
 MOG;MOG;min 4800;
@@ -19,6 +25,8 @@ MOG;MOG;min 4800;
 MARBK;MARBK;at 3760;
 FJS;FJS;<br>;
 MOG;MOG;min 4800;
+
+/// NDBA (GA) ///
 KSIY;35:17;NDBA (GA);KSIY;KSIY;5;
 41.74800683;-122.46594722;<br>;
 MOG;MOG;at 6800;
@@ -28,4 +36,3 @@ MARBK;MARBK;<br>;
 MARBK;MARBK;at 3760;
 MOG;MOG;<br>;
 MOG;MOG;at 6800;
-

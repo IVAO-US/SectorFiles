@@ -1,12 +1,10 @@
-// Data provided by Keyvan Aviation.
-/// ADEXE1 ///
+// Data provided by Keyvan Avaiation
+
 /// ADEXE1 ///
 KMAN;11;ADEXE1;KMAN;KMAN;
 KMAN;KMAN;<br>;
 ADEXE;ADEXE;min 5000;
 
-
-/// CADKI1 ///
 /// CADKI1 ///
 KMAN;29;CADKI1;KMAN;KMAN;
 KMAN;KMAN;<br>;
@@ -14,5 +12,3 @@ KMAN;KMAN;<br>;
 DEFKI;DEFKI;
 ZURMU;ZURMU;
 CADKI;CADKI;min 8000;
-
-

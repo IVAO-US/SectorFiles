@@ -1,4 +1,6 @@
-// Data provided by Keyvan Aviation.
+// Data provided by Keyvan Avaiation
+
+/// GRINE.R27 ///
 P13;27;GRINE.R27;P13;P13;3;
 GRINE;GRINE;<br>;
 BILDY;BILDY;min 8500;
@@ -6,6 +8,8 @@ IFURI;IFURI;min 7200;
 HURFY;HURFY;min 5800;
 WUNVO;WUNVO;max 4784:min 4780;
 GOBFO;GOBFO;at 3488;
+
+/// R27 ///
 P13;27;R27;P13;P13;3;
 GRINE;GRINE;<br>;
 BILDY;BILDY;min 8500;
@@ -13,6 +17,8 @@ IFURI;IFURI;min 7200;
 HURFY;HURFY;min 5800;
 WUNVO;WUNVO;max 4784:min 4780;
 GOBFO;GOBFO;at 3488;
+
+/// R27 (GA) ///
 P13;27;R27 (GA);P13;P13;5;
 33.34311015;-110.68900835;<br>;
 IFURI;IFURI;at 7200:spd 175 kt;
@@ -22,4 +28,3 @@ GOBFO;GOBFO;<br>;
 GOBFO;GOBFO;at 3488;
 IFURI;IFURI;<br>;
 IFURI;IFURI;at 7200:spd 175 kt;
-
