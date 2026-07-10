@@ -1,13 +1,9 @@
-// Data provided by Keyvan Avaiation
-
-/// R07 ///
+// Data provided by Keyvan Aviation.
 KGOO;07;R07;KGOO;KGOO;3;
 MRGGO;MRGGO;<br>;
 MRGGO;MRGGO;min 5000;
 ULAHY;ULAHY;min 4300;
 KGOO/RW07;KGOO/RW07;at 3111;
-
-/// R07 (GA) ///
 KGOO;07;R07 (GA);KGOO;KGOO;5;
 39.23231059;-120.97867354;<br>;
 MRGGO;MRGGO;at 6000:spd 250 kt;
@@ -16,3 +12,4 @@ KGOO/RW07;KGOO/RW07;at 3111;
 39.23231059;-120.97867354;
 KGOO/RW07;KGOO/RW07;<br>;
 KGOO/RW07;KGOO/RW07;at 3111;
+

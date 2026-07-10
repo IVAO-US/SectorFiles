@@ -1,20 +1,14 @@
-// Data provided by Keyvan Avaiation
-
-/// CLUNG.RNVB ///
+// Data provided by Keyvan Aviation.
 9G6;28:10;CLUNG.RNVB;9G6;9G6;3;
 CLUNG;CLUNG;<br>;
 LEGGY;LEGGY;min 3300;
 HEDSI;HEDSI;min 2400;
 EYEVU;EYEVU;at 1360;
-
-/// RNVB ///
 9G6;28:10;RNVB;9G6;9G6;3;
 CLUNG;CLUNG;<br>;
 LEGGY;LEGGY;min 3300;
 HEDSI;HEDSI;min 2400;
 EYEVU;EYEVU;at 1360;
-
-/// RNVB (GA) ///
 9G6;28:10;RNVB (GA);9G6;9G6;5;
 43.16664861;-078.28891417;<br>;
 LEGGY;LEGGY;at 3300;
@@ -24,3 +18,4 @@ EYEVU;EYEVU;<br>;
 EYEVU;EYEVU;at 1360;
 LEGGY;LEGGY;<br>;
 LEGGY;LEGGY;at 3300;
+

@@ -1,23 +1,18 @@
-// Data provided by Keyvan Avaiation
-
-/// PRIGS.R29 ///
+// Data provided by Keyvan Aviation.
 D57;29;PRIGS.R29;D57;D57;3;
 PRIGS;PRIGS;<br>;
 PRIGS;PRIGS;min 4600;
 RAGLY;RAGLY;min 4000;
 SUETY;SUETY;at 2900;
 D57/RW29;D57/RW29;at 2131;
-
-/// R29 ///
 D57;29;R29;D57;D57;3;
 PRIGS;PRIGS;<br>;
 PRIGS;PRIGS;min 4600;
 RAGLY;RAGLY;min 4000;
 SUETY;SUETY;at 2900;
 D57/RW29;D57/RW29;at 2131;
-
-/// R29 (GA) ///
 D57;29;R29 (GA);D57;D57;5;
 PRIGS;PRIGS;<br>;
 D57/RW29;D57/RW29;at 2131;
 TROKE;TROKE;min 4600;
+

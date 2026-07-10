@@ -1,20 +1,14 @@
-// Data provided by Keyvan Avaiation
-
-/// LATEC.R24 ///
+// Data provided by Keyvan Aviation.
 N35;24;LATEC.R24;N35;N35;3;
 LATEC;LATEC;<br>;
 LATEC;LATEC;max 6000:min 4000;
 HEMOK;HEMOK;min 3700;
 N35/RW24;N35/RW24;at 1467;
-
-/// R24 ///
 N35;24;R24;N35;N35;3;
 LATEC;LATEC;<br>;
 LATEC;LATEC;max 6000:min 4000;
 HEMOK;HEMOK;min 3700;
 N35/RW24;N35/RW24;at 1467;
-
-/// R24 (GA) ///
 N35;24;R24 (GA);N35;N35;5;
 40.96413187;-078.94347703;<br>;
 LATEC;LATEC;max 6000:min 4000;
@@ -24,3 +18,4 @@ N35/RW24;N35/RW24;<br>;
 N35/RW24;N35/RW24;at 1467;
 LATEC;LATEC;<br>;
 LATEC;LATEC;max 6000:min 4000;
+

@@ -1,22 +1,17 @@
-// Data provided by Keyvan Avaiation
-
-/// OAKIE.RNVA ///
+// Data provided by Keyvan Aviation.
 X21;33:22:15:04;OAKIE.RNVA;X21;X21;3;
 OAKIE;OAKIE;<br>;
 OAKIE;OAKIE;min 2000;
 YONLI;YONLI;min 1800;
 X21/RW15;X21/RW15;at 77;
-
-/// RNVA ///
 X21;33:22:15:04;RNVA;X21;X21;3;
 OAKIE;OAKIE;<br>;
 OAKIE;OAKIE;min 2000;
 YONLI;YONLI;min 1800;
 X21/RW15;X21/RW15;at 77;
-
-/// RNVA (GA) ///
 X21;33:22:15:04;RNVA (GA);X21;X21;5;
 OAKIE;OAKIE;<br>;
 X21/RW15;X21/RW15;at 77;
 KIQTU;KIQTU;
 INDIA;INDIA;at 2000;
+

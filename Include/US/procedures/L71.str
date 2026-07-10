@@ -1,14 +1,10 @@
-// Data provided by Keyvan Avaiation
-
-/// R06 ///
+// Data provided by Keyvan Aviation.
 L71;06;R06;L71;L71;3;
 GOVVE;GOVVE;<br>;
 GOVVE;GOVVE;min 9000;
 COTBA;COTBA;min 7000;
 JODIP;JODIP;min 5100;
 ODACE;ODACE;at 2664;
-
-/// R06 (GA) ///
 L71;06;R06 (GA);L71;L71;5;
 HETOM;HETOM;<br>;
 BACRA;BACRA;at 9000;
@@ -18,7 +14,6 @@ HETOM;HETOM;
 ODACE;ODACE;<br>;
 ODACE;ODACE;at 2664;
 
-/// R24 ///
 L71;24;R24;L71;L71;3;
 PEXOE;PEXOE;<br>;
 PEXOE;PEXOE;min 9000;
@@ -26,8 +21,6 @@ CIBIV;CIBIV;min 6900;
 ICINA;ICINA;min 5600;
 RAKVE;RAKVE;min 4500;
 FEKIG;FEKIG;at 2611;
-
-/// R24 (GA) ///
 L71;24;R24 (GA);L71;L71;5;
 MIVDE;MIVDE;<br>;
 JERID;JERID;at 9000;
@@ -36,3 +29,4 @@ FEKIG;FEKIG;at 2611;
 MIVDE;MIVDE;
 FEKIG;FEKIG;<br>;
 FEKIG;FEKIG;at 2611;
+

@@ -1,18 +1,12 @@
-// Data provided by Keyvan Avaiation
-
-/// AIR.VORA ///
+// Data provided by Keyvan Aviation.
 2P7;19:01;AIR.VORA;2P7;2P7;3;
 AIR;AIR;<br>;
 AIR;AIR;min 3100;
 MAJBI;MAJBI;at 1920;
-
-/// VORA ///
 2P7;19:01;VORA;2P7;2P7;3;
 AIR;AIR;<br>;
 AIR;AIR;min 3100;
 MAJBI;MAJBI;at 1920;
-
-/// VORA (GA) ///
 2P7;19:01;VORA (GA);2P7;2P7;5;
 40.07531923;-081.00779427;<br>;
 AIR;AIR;at 3100;
@@ -22,3 +16,4 @@ MAJBI;MAJBI;<br>;
 MAJBI;MAJBI;at 1920;
 AIR;AIR;<br>;
 AIR;AIR;at 3100;
+

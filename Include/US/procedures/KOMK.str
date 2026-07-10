@@ -1,6 +1,4 @@
-// Data provided by Keyvan Avaiation
-
-/// EPH.R35 ///
+// Data provided by Keyvan Aviation.
 KOMK;35;EPH.R35;KOMK;KOMK;3;
 EPH;EPH;<br>;
 PAWYO;PAWYO;min 6000;
@@ -8,8 +6,6 @@ IIGON;IIGON;min 4400;
 IGOYO;IGOYO;min 4000;
 FIDGE;FIDGE;min 3700;
 MAPDY;MAPDY;at 1521;
-
-/// R35 ///
 KOMK;35;R35;KOMK;KOMK;3;
 EPH;EPH;<br>;
 PAWYO;PAWYO;min 6000;
@@ -17,10 +13,9 @@ IIGON;IIGON;min 4400;
 IGOYO;IGOYO;min 4000;
 FIDGE;FIDGE;min 3700;
 MAPDY;MAPDY;at 1521;
-
-/// R35 (GA) ///
 KOMK;35;R35 (GA);KOMK;KOMK;5;
 IIGON;IIGON;<br>;
 MAPDY;MAPDY;at 1521;
 48.45603150;-119.52009036;
 PAWYO;PAWYO;at 6000;
+

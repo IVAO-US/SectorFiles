@@ -1,21 +1,16 @@
-// Data provided by Keyvan Avaiation
-
-/// MILTS.RNVA ///
+// Data provided by Keyvan Aviation.
 Z98;20:02;MILTS.RNVA;Z98;Z98;3;
 MILTS;MILTS;<br>;
 MILTS;MILTS;max 6000:min 3000;
 HARRD;HARRD;min 2300;
 Z98/RW02;Z98/RW02;at 758;
-
-/// RNVA ///
 Z98;20:02;RNVA;Z98;Z98;3;
 MILTS;MILTS;<br>;
 MILTS;MILTS;max 6000:min 3000;
 HARRD;HARRD;min 2300;
 Z98/RW02;Z98/RW02;at 758;
-
-/// RNVA (GA) ///
 Z98;20:02;RNVA (GA);Z98;Z98;5;
 MILTS;MILTS;<br>;
 Z98/RW02;Z98/RW02;at 758;
 DEBZY;DEBZY;at 3000;
+

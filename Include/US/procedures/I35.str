@@ -1,20 +1,14 @@
-// Data provided by Keyvan Avaiation
-
-/// WEVOR.RNVA ///
+// Data provided by Keyvan Aviation.
 I35;26:08;WEVOR.RNVA;I35;I35;3;
 WEVOR;WEVOR;<br>;
 WEVOR;WEVOR;min 5100;
 JEXIL;JEXIL;min 4000;
 ECGIG;ECGIG;at 1762;
-
-/// RNVA ///
 I35;26:08;RNVA;I35;I35;3;
 WEVOR;WEVOR;<br>;
 WEVOR;WEVOR;min 5100;
 JEXIL;JEXIL;min 4000;
 ECGIG;ECGIG;at 1762;
-
-/// RNVA (GA) ///
 I35;26:08;RNVA (GA);I35;I35;5;
 36.88396017;-083.27876200;<br>;
 WEVOR;WEVOR;at 5100;
@@ -24,3 +18,4 @@ ECGIG;ECGIG;<br>;
 ECGIG;ECGIG;at 1762;
 WEVOR;WEVOR;<br>;
 WEVOR;WEVOR;at 5100;
+

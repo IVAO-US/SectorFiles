@@ -1,25 +1,20 @@
-// Data provided by Keyvan Avaiation
-
-/// CPN.RNVA ///
+// Data provided by Keyvan Aviation.
 38S;31:13;CPN.RNVA;38S;38S;3;
 CPN;CPN;<br>;
 CPN;CPN;min 11100;
 ZISON;ZISON;min 8300;
 AYUNO;AYUNO;min 6900;
 CITSU;CITSU;at 6300;
-
-/// RNVA ///
 38S;31:13;RNVA;38S;38S;3;
 CPN;CPN;<br>;
 CPN;CPN;min 11100;
 ZISON;ZISON;min 8300;
 AYUNO;AYUNO;min 6900;
 CITSU;CITSU;at 6300;
-
-/// RNVA (GA) ///
 38S;31:13;RNVA (GA);38S;38S;5;
 ZISON;ZISON;<br>;
 CITSU;CITSU;at 6300;
 JOGUT;JOGUT;
 APICI;APICI;
 WAKIX;WAKIX;at 13000;
+

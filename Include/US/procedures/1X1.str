@@ -1,20 +1,14 @@
-// Data provided by Keyvan Avaiation
-
-/// MMB.VDMA ///
+// Data provided by Keyvan Aviation.
 1X1;36:18;MMB.VDMA;1X1;1X1;3;
 MMB;MMB;<br>;
 MMB;MMB;min 4000;
 HIPPY;HIPPY;min 4000;
 MATHA;MATHA;at 3140;
-
-/// VDMA ///
 1X1;36:18;VDMA;1X1;1X1;3;
 MMB;MMB;<br>;
 MMB;MMB;min 4000;
 HIPPY;HIPPY;min 4000;
 MATHA;MATHA;at 3140;
-
-/// VDMA (GA) ///
 1X1;36:18;VDMA (GA);1X1;1X1;5;
 36.11650947;-100.02156058;<br>;
 MMB;MMB;at 4000;
@@ -24,3 +18,4 @@ MATHA;MATHA;<br>;
 MATHA;MATHA;at 3140;
 MMB;MMB;<br>;
 MMB;MMB;at 4000;
+

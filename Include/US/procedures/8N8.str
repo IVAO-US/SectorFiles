@@ -1,41 +1,31 @@
-// Data provided by Keyvan Avaiation
-
-/// ZEBMU.R09 ///
+// Data provided by Keyvan Aviation.
 8N8;09;ZEBMU.R09;8N8;8N8;3;
 ZEBMU;ZEBMU;<br>;
 ZEBMU;ZEBMU;max 6000:min 4400;
 BOVAY;BOVAY;min 2500;
 RW09;RW09;at 591;
-
-/// R09 ///
 8N8;09;R09;8N8;8N8;3;
 ZEBMU;ZEBMU;<br>;
 ZEBMU;ZEBMU;max 6000:min 4400;
 BOVAY;BOVAY;min 2500;
 RW09;RW09;at 591;
-
-/// R09 (GA) ///
 8N8;09;R09 (GA);8N8;8N8;5;
 ZEBMU;ZEBMU;<br>;
 RW09;RW09;at 591;
 WOXAV;WOXAV;min 4400;
 
-/// WOXAV.R27 ///
 8N8;27;WOXAV.R27;8N8;8N8;3;
 WOXAV;WOXAV;<br>;
 WOXAV;WOXAV;min 4400;
 HEPOP;HEPOP;min 2500;
 RW27;RW27;at 604;
-
-/// R27 ///
 8N8;27;R27;8N8;8N8;3;
 WOXAV;WOXAV;<br>;
 WOXAV;WOXAV;min 4400;
 HEPOP;HEPOP;min 2500;
 RW27;RW27;at 604;
-
-/// R27 (GA) ///
 8N8;27;R27 (GA);8N8;8N8;5;
 WOXAV;WOXAV;<br>;
 RW27;RW27;at 604;
 ZEBMU;ZEBMU;min 4400;
+

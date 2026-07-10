@@ -1,20 +1,14 @@
-// Data provided by Keyvan Avaiation
-
-/// DAS.R30 ///
+// Data provided by Keyvan Aviation.
 00R;30;DAS.R30;00R;00R;3;
 DAS;DAS;<br>;
 BOBKO;BOBKO;min 2000;
 AGEVE;AGEVE;min 1800;
 DILKS;DILKS;at 448;
-
-/// R30 ///
 00R;30;R30;00R;00R;3;
 DAS;DAS;<br>;
 BOBKO;BOBKO;min 2000;
 AGEVE;AGEVE;min 1800;
 DILKS;DILKS;at 448;
-
-/// R30 (GA) ///
 00R;30;R30 (GA);00R;00R;5;
 30.68442328;-095.01925050;<br>;
 BOBKO;BOBKO;at 2000;
@@ -24,3 +18,4 @@ DILKS;DILKS;<br>;
 DILKS;DILKS;at 448;
 BOBKO;BOBKO;<br>;
 BOBKO;BOBKO;at 2000;
+

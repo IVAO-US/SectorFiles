@@ -1,24 +1,16 @@
-// Data provided by Keyvan Avaiation
-
-/// ARGUS.VDMA ///
+// Data provided by Keyvan Aviation.
 KIPL;32:26:14:08;ARGUS.VDMA;KIPL;KIPL;3;
 ARGUS;ARGUS;<br>;
 IPL;IPL;min 1700;
 MAJGY;MAJGY;at 22;
-
-/// IPL.VDMA ///
 KIPL;32:26:14:08;IPL.VDMA;KIPL;KIPL;3;
 IPL;IPL;<br>;
 IPL;IPL;min 2000;
 MAJGY;MAJGY;at 22;
-
-/// VDMA ///
 KIPL;32:26:14:08;VDMA;KIPL;KIPL;3;
 ARGUS;ARGUS;<br>;
 IPL;IPL;min 2000;
 MAJGY;MAJGY;at 22;
-
-/// VDMA (GA) ///
 KIPL;32:26:14:08;VDMA (GA);KIPL;KIPL;5;
 32.85171822;-115.60602392;<br>;
 IPL;IPL;at 2000;
@@ -28,3 +20,4 @@ MAJGY;MAJGY;<br>;
 MAJGY;MAJGY;at 22;
 IPL;IPL;<br>;
 IPL;IPL;at 2000;
+

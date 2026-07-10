@@ -1,13 +1,9 @@
-// Data provided by Keyvan Avaiation
-
-/// RNVB ///
+// Data provided by Keyvan Aviation.
 4G1;33:23:15:05;RNVB;4G1;4G1;3;
 MORNG;MORNG;<br>;
 MORNG;MORNG;min 2700;
 ARTSY;ARTSY;min 2700;
 4G1/RW15;4G1/RW15;at 1206;
-
-/// RNVB (GA) ///
 4G1;33:23:15:05;RNVB (GA);4G1;4G1;5;
 41.43844790;-080.38554311;<br>;
 HAGAR;HAGAR;at 2900;
@@ -16,3 +12,4 @@ HAGAR;HAGAR;at 2900;
 41.43844790;-080.38554311;
 4G1/RW15;4G1/RW15;<br>;
 4G1/RW15;4G1/RW15;at 1206;
+

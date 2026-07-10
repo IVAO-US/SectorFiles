@@ -1,6 +1,4 @@
-// Data provided by Keyvan Avaiation
-
-/// JVL.VORA ///
+// Data provided by Keyvan Aviation.
 44C;25:07;JVL.VORA;44C;44C;3;
 42.55800833;-089.10525833;<br>;
 JVL;JVL;max 6000:min 2700;
@@ -9,8 +7,6 @@ JVL;JVL;<br>;
 MADMY;MADMY;at 1440;
 JVL;JVL;<br>;
 JVL;JVL;max 6000:min 2700;
-
-/// VORA ///
 44C;25:07;VORA;44C;44C;3;
 42.55800833;-089.10525833;<br>;
 JVL;JVL;max 6000:min 2700;
@@ -19,8 +15,6 @@ JVL;JVL;<br>;
 MADMY;MADMY;at 1440;
 JVL;JVL;<br>;
 JVL;JVL;max 6000:min 2700;
-
-/// VORA (GA) ///
 44C;25:07;VORA (GA);44C;44C;5;
 42.47933453;-088.92026338;<br>;
 JVL;JVL;at 2700;
@@ -30,3 +24,4 @@ MADMY;MADMY;<br>;
 MADMY;MADMY;at 1440;
 JVL;JVL;<br>;
 JVL;JVL;at 2700;
+

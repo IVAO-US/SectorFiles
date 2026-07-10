@@ -1,20 +1,14 @@
-// Data provided by Keyvan Avaiation
-
-/// TOVNE.RNVA ///
+// Data provided by Keyvan Aviation.
 F51;19:01;TOVNE.RNVA;F51;F51;3;
 TOVNE;TOVNE;<br>;
 TOVNE;TOVNE;min 3000;
 UIM;UIM;min 2600;
 JEGSU;JEGSU;at 1340;
-
-/// RNVA ///
 F51;19:01;RNVA;F51;F51;3;
 TOVNE;TOVNE;<br>;
 TOVNE;TOVNE;min 3000;
 UIM;UIM;min 2600;
 JEGSU;JEGSU;at 1340;
-
-/// RNVA (GA) ///
 F51;19:01;RNVA (GA);F51;F51;5;
 32.95238291;-095.26409985;<br>;
 TOVNE;TOVNE;at 3000;
@@ -24,3 +18,4 @@ JEGSU;JEGSU;<br>;
 JEGSU;JEGSU;at 1340;
 TOVNE;TOVNE;<br>;
 TOVNE;TOVNE;at 3000;
+

@@ -1,20 +1,14 @@
-// Data provided by Keyvan Avaiation
-
-/// MUDDD.RNVA ///
+// Data provided by Keyvan Aviation.
 4S1;34:16;MUDDD.RNVA;4S1;4S1;3;
 MUDDD;MUDDD;<br>;
 MUDDD;MUDDD;min 4200;
 PITME;PITME;min 2700;
 STRAY;STRAY;at 820;
-
-/// RNVA ///
 4S1;34:16;RNVA;4S1;4S1;3;
 MUDDD;MUDDD;<br>;
 MUDDD;MUDDD;min 4200;
 PITME;PITME;min 2700;
 STRAY;STRAY;at 820;
-
-/// RNVA (GA) ///
 4S1;34:16;RNVA (GA);4S1;4S1;5;
 42.41725774;-124.41002168;<br>;
 MUDDD;MUDDD;max 8000:min 4200;
@@ -24,3 +18,4 @@ STRAY;STRAY;<br>;
 STRAY;STRAY;at 820;
 MUDDD;MUDDD;<br>;
 MUDDD;MUDDD;max 8000:min 4200;
+

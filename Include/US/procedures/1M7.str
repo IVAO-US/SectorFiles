@@ -1,22 +1,16 @@
-// Data provided by Keyvan Avaiation
-
-/// KLEIN.R09 ///
+// Data provided by Keyvan Aviation.
 1M7;09;KLEIN.R09;1M7;1M7;3;
 KLEIN;KLEIN;<br>;
 KLEIN;KLEIN;min 2000;
 MCVIK;MCVIK;min 1800;
 GLYNN;GLYNN;at 900;
 RW09;RW09;at 414;
-
-/// R09 ///
 1M7;09;R09;1M7;1M7;3;
 KLEIN;KLEIN;<br>;
 KLEIN;KLEIN;min 2000;
 MCVIK;MCVIK;min 1800;
 GLYNN;GLYNN;at 900;
 RW09;RW09;at 414;
-
-/// R09 (GA) ///
 1M7;09;R09 (GA);1M7;1M7;5;
 43.91201852;002.12422574;<br>;
 KLEIN;KLEIN;at 2000;
@@ -26,3 +20,4 @@ RW09;RW09;<br>;
 RW09;RW09;at 414;
 KLEIN;KLEIN;<br>;
 KLEIN;KLEIN;at 2000;
+

@@ -1,21 +1,16 @@
-// Data provided by Keyvan Avaiation
-
-/// ENNUI.RNVA ///
+// Data provided by Keyvan Aviation.
 M60;27:09;ENNUI.RNVA;M60;M60;3;
 ENNUI;ENNUI;<br>;
 ENNUI;ENNUI;min 3000;
 CESEX;CESEX;min 1900;
 RW09;RW09;at 248;
-
-/// RNVA ///
 M60;27:09;RNVA;M60;M60;3;
 ENNUI;ENNUI;<br>;
 ENNUI;ENNUI;min 3000;
 CESEX;CESEX;min 1900;
 RW09;RW09;at 248;
-
-/// RNVA (GA) ///
 M60;27:09;RNVA (GA);M60;M60;5;
 ENNUI;ENNUI;<br>;
 RW09;RW09;at 248;
 UJLIY;UJLIY;at 3000;
+

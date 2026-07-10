@@ -1,32 +1,22 @@
-// Data provided by Keyvan Avaiation
-
-/// AGJ.N34 ///
+// Data provided by Keyvan Aviation.
 KHLR;34;AGJ.N34;KHLR;KHLR;3;
 AGJ;AGJ;<br>;
 IL;IL;min 3100:spd 090 kt;
 KHLR/RW34;KHLR/RW34;at 950:spd 090 kt;
-
-/// IL.N34 ///
 KHLR;34;IL.N34;KHLR;KHLR;3;
 IL;IL;<br>;
 IL;IL;min 3100:spd 090 kt;
 KHLR/RW34;KHLR/RW34;at 950:spd 090 kt;
-
-/// LITLE.N34 ///
 KHLR;34;LITLE.N34;KHLR;KHLR;3;
 LITLE;LITLE;<br>;
 IL;IL;min 3100:spd 090 kt;
 KHLR/RW34;KHLR/RW34;at 950:spd 090 kt;
-
-/// N34 ///
 KHLR;34;N34;KHLR;KHLR;3;
 LITLE;LITLE;<br>;
 IL;IL;min 3100:spd 090 kt;
 KHLR/RW34;KHLR/RW34;at 950:spd 090 kt;
 AGJ;AGJ;<br>;
 IL;IL;min 3100:spd 090 kt;
-
-/// N34 (GA) ///
 KHLR;34;N34 (GA);KHLR;KHLR;5;
 31.14498247;-097.71804602;<br>;
 IL;IL;at 3100:spd 090 kt;
@@ -37,28 +27,21 @@ KHLR/RW34;KHLR/RW34;at 950:spd 090 kt;
 IL;IL;<br>;
 IL;IL;at 3100:spd 090 kt;
 
-/// AGJ.R34 ///
 KHLR;34;AGJ.R34;KHLR;KHLR;3;
 AGJ;AGJ;<br>;
 IRESH;IRESH;min 3100:spd 090 kt;
 RNGER;RNGER;min 2500:spd 090 kt;
 KHLR/RW34;KHLR/RW34;at 950:spd 090 kt;
-
-/// IRESH.R34 ///
 KHLR;34;IRESH.R34;KHLR;KHLR;3;
 IRESH;IRESH;<br>;
 IRESH;IRESH;max 6000:min 3100:spd 090 kt;
 RNGER;RNGER;min 2500:spd 090 kt;
 KHLR/RW34;KHLR/RW34;at 950:spd 090 kt;
-
-/// LITLE.R34 ///
 KHLR;34;LITLE.R34;KHLR;KHLR;3;
 LITLE;LITLE;<br>;
 IRESH;IRESH;min 3100:spd 090 kt;
 RNGER;RNGER;min 2500:spd 090 kt;
 KHLR/RW34;KHLR/RW34;at 950:spd 090 kt;
-
-/// R34 ///
 KHLR;34;R34;KHLR;KHLR;3;
 LITLE;LITLE;<br>;
 IRESH;IRESH;max 6000:min 3100:spd 090 kt;
@@ -66,8 +49,6 @@ RNGER;RNGER;min 2500:spd 090 kt;
 KHLR/RW34;KHLR/RW34;at 950:spd 090 kt;
 AGJ;AGJ;<br>;
 IRESH;IRESH;max 6000:min 3100:spd 090 kt;
-
-/// R34 (GA) ///
 KHLR;34;R34 (GA);KHLR;KHLR;5;
 31.14498247;-097.71804602;<br>;
 IRESH;IRESH;max 6000:min 3100:spd 090 kt;
@@ -77,3 +58,4 @@ KHLR/RW34;KHLR/RW34;<br>;
 KHLR/RW34;KHLR/RW34;at 950:spd 090 kt;
 IRESH;IRESH;<br>;
 IRESH;IRESH;max 6000:min 3100:spd 090 kt;
+

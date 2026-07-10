@@ -1,6 +1,4 @@
-// Data provided by Keyvan Avaiation
-
-/// MSN.VDMA ///
+// Data provided by Keyvan Aviation.
 87Y;27:22:09:04;MSN.VDMA;87Y;87Y;3;
 43.14483611;-089.33969722;<br>;
 MSN;MSN;min 3500;
@@ -12,8 +10,6 @@ REINE;REINE;<br>;
 REINE;REINE;at 2500;
 MSN;MSN;<br>;
 MSN;MSN;min 3500;
-
-/// VDMA ///
 87Y;27:22:09:04;VDMA;87Y;87Y;3;
 43.14483611;-089.33969722;<br>;
 MSN;MSN;min 3500;
@@ -25,11 +21,10 @@ REINE;REINE;<br>;
 REINE;REINE;at 2500;
 MSN;MSN;<br>;
 MSN;MSN;min 3500;
-
-/// VDMA (GA) ///
 87Y;27:22:09:04;VDMA (GA);87Y;87Y;5;
 MSN;MSN;<br>;
 MADEZ;MADEZ;at 1560;
 43.10237787;-089.16852301;
 43.13639824;-089.17852001;
 DREAR;DREAR;at 3500;
+

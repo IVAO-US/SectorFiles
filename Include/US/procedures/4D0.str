@@ -1,22 +1,17 @@
-// Data provided by Keyvan Avaiation
-
-/// YEVUD.R09 ///
+// Data provided by Keyvan Aviation.
 4D0;09;YEVUD.R09;4D0;4D0;3;
 YEVUD;YEVUD;<br>;
 YEVUD;YEVUD;min 3000;
 ZABVU;ZABVU;min 2500;
 RW09;RW09;at 881;
-
-/// R09 ///
 4D0;09;R09;4D0;4D0;3;
 YEVUD;YEVUD;<br>;
 YEVUD;YEVUD;min 3000;
 ZABVU;ZABVU;min 2500;
 RW09;RW09;at 881;
-
-/// R09 (GA) ///
 4D0;09;R09 (GA);4D0;4D0;5;
 YEVUD;YEVUD;<br>;
 RW09;RW09;at 881;
 43.91314879;002.11845468;
 CUTTY;CUTTY;at 3000;
+

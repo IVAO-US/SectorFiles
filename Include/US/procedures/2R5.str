@@ -1,23 +1,18 @@
-// Data provided by Keyvan Avaiation
-
-/// VICKI.R06 ///
+// Data provided by Keyvan Aviation.
 2R5;06;VICKI.R06;2R5;2R5;3;
 VICKI;VICKI;<br>;
 OTUWI;OTUWI;min 2000;
 IFUJU;IFUJU;min 1500;
 RW06;RW06;at 180;
-
-/// R06 ///
 2R5;06;R06;2R5;2R5;3;
 VICKI;VICKI;<br>;
 OTUWI;OTUWI;min 2000;
 IFUJU;IFUJU;min 1500;
 RW06;RW06;at 180;
-
-/// R06 (GA) ///
 2R5;06;R06 (GA);2R5;2R5;5;
 OTUWI;OTUWI;<br>;
 RW06;RW06;at 180;
 DEYPA;DEYPA;min 532;
 HELMU;HELMU;
 PLEBE;PLEBE;at 2000;
+

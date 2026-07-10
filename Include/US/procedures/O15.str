@@ -1,20 +1,14 @@
-// Data provided by Keyvan Avaiation
-
-/// MOD.RNVA ///
+// Data provided by Keyvan Aviation.
 O15;30:12;MOD.RNVA;O15;O15;3;
 MOD;MOD;<br>;
 BLONT;BLONT;max 6000:min 2800;
 TOMYY;TOMYY;min 1900;
 FANTO;FANTO;at 760;
-
-/// RNVA ///
 O15;30:12;RNVA;O15;O15;3;
 MOD;MOD;<br>;
 BLONT;BLONT;max 6000:min 2800;
 TOMYY;TOMYY;min 1900;
 FANTO;FANTO;at 760;
-
-/// RNVA (GA) ///
 O15;30:12;RNVA (GA);O15;O15;5;
 37.48003624;-120.70021333;<br>;
 BLONT;BLONT;max 6000:min 2800;
@@ -24,3 +18,4 @@ FANTO;FANTO;<br>;
 FANTO;FANTO;at 760;
 BLONT;BLONT;<br>;
 BLONT;BLONT;max 6000:min 2800;
+

@@ -1,6 +1,4 @@
-// Data provided by Keyvan Avaiation
-
-/// MUGZY.R03 ///
+// Data provided by Keyvan Aviation.
 12N;03;MUGZY.R03;12N;12N;3;
 MUGZY;MUGZY;<br>;
 PEPLE;PEPLE;at 3100;
@@ -8,8 +6,6 @@ HOPED;HOPED;min 3000;
 LYART;LYART;min 2300;
 AXULE;AXULE;min 1820;
 MANTU;MANTU;at 757;
-
-/// SAX.R03 ///
 12N;03;SAX.R03;12N;12N;3;
 SAX;SAX;<br>;
 NOLAA;NOLAA;at 3000;
@@ -17,8 +13,6 @@ HOPED;HOPED;min 3000;
 LYART;LYART;min 2300;
 AXULE;AXULE;min 1820;
 MANTU;MANTU;at 757;
-
-/// R03 ///
 12N;03;R03;12N;12N;3;
 SAX;SAX;<br>;
 NOLAA;NOLAA;at 3000;
@@ -29,8 +23,6 @@ MANTU;MANTU;at 757;
 MUGZY;MUGZY;<br>;
 PEPLE;PEPLE;at 3100;
 HOPED;HOPED;min 3000;
-
-/// R03 (GA) ///
 12N;03;R03 (GA);12N;12N;5;
 MANTU;MANTU;<br>;
 MANTU;MANTU;at 757;
@@ -38,3 +30,4 @@ HOPED;HOPED;at 3000;
 MANTU;MANTU;at 757;
 HOPED;HOPED;<br>;
 HOPED;HOPED;at 3000;
+

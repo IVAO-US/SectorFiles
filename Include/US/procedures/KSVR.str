@@ -1,6 +1,4 @@
-// Data provided by Keyvan Avaiation
-
-/// FFU.R34 ///
+// Data provided by Keyvan Aviation.
 KSVR;34;FFU.R34;KSVR;KSVR;3;
 FFU;FFU;<br>;
 FFU;FFU;max 12000:min 9000;
@@ -9,8 +7,6 @@ LODME;LODME;min 7600;
 ACIPO;ACIPO;at 6080;
 HOKIT;HOKIT;at 5380;
 KSVR/RW34;KSVR/RW34;at 4660;
-
-/// R34 ///
 KSVR;34;R34;KSVR;KSVR;3;
 FFU;FFU;<br>;
 FFU;FFU;max 12000:min 9000;
@@ -19,11 +15,10 @@ LODME;LODME;min 7600;
 ACIPO;ACIPO;at 6080;
 HOKIT;HOKIT;at 5380;
 KSVR/RW34;KSVR/RW34;at 4660;
-
-/// R34 (GA) ///
 KSVR;34;R34 (GA);KSVR;KSVR;5;
 FFU;FFU;<br>;
 KSVR/RW34;KSVR/RW34;at 4660;
 DUYDE;DUYDE;
 KITBE;KITBE;
 STACO;STACO;at 9000;
+

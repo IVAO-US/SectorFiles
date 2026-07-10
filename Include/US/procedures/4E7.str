@@ -1,21 +1,16 @@
-// Data provided by Keyvan Avaiation
-
-/// WAFTS.R31 ///
+// Data provided by Keyvan Aviation.
 4E7;31;WAFTS.R31;4E7;4E7;3;
 WAFTS;WAFTS;<br>;
 WAFTS;WAFTS;min 3000;
 YURUY;YURUY;min 3000;
-RW31;RW31;at 1496;
-
-/// R31 ///
+4E7/RW31;4E7/RW31;at 1496;
 4E7;31;R31;4E7;4E7;3;
 WAFTS;WAFTS;<br>;
 WAFTS;WAFTS;min 3000;
 YURUY;YURUY;min 3000;
-RW31;RW31;at 1496;
-
-/// R31 (GA) ///
+4E7/RW31;4E7/RW31;at 1496;
 4E7;31;R31 (GA);4E7;4E7;5;
 WAFTS;WAFTS;<br>;
-RW31;RW31;at 1496;
+4E7/RW31;4E7/RW31;at 1496;
 SOTHA;SOTHA;at 4000;
+

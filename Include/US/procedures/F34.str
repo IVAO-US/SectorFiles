@@ -1,22 +1,17 @@
-// Data provided by Keyvan Avaiation
-
-/// PXN.RNVB ///
+// Data provided by Keyvan Aviation.
 F34;30:12;PXN.RNVB;F34;F34;3;
 PXN;PXN;<br>;
 WIDIX;WIDIX;min 4000;
 CUMKA;CUMKA;min 2000;
 WOVRO;WOVRO;at 740;
-
-/// RNVB ///
 F34;30:12;RNVB;F34;F34;3;
 PXN;PXN;<br>;
 WIDIX;WIDIX;min 4000;
 CUMKA;CUMKA;min 2000;
 WOVRO;WOVRO;at 740;
-
-/// RNVB (GA) ///
 F34;30:12;RNVB (GA);F34;F34;5;
 WIDIX;WIDIX;<br>;
 WOVRO;WOVRO;at 740;
 36.88966408;-120.42878730;
 MENDO;MENDO;at 3000;
+

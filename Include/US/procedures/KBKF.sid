@@ -1,5 +1,5 @@
-// Data provided by Keyvan Avaiation
-
+// Data provided by Keyvan Aviation.
+/// BKF1 ///
 /// BKF1.STVLR ///
 KBKF;14;BKF1.STVLR;KBKF;KBKF;
 KBKF;KBKF;<br>;
@@ -35,6 +35,14 @@ WEEDS;WEEDS;
 BEEKR;BEEKR;<br>;
 STVLR;STVLR;
 
+
+/// DEN3 ///
+KBKF;14;DEN3;KBKF;KBKF;
+
+KBKF;32;DEN3;KBKF;KBKF;
+
+
+/// PIKES3 ///
 /// PIKES3.ALS ///
 KBKF;32:14;PIKES3.ALS;KBKF;KBKF;
 DEN;DEN;<br>;
@@ -69,6 +77,8 @@ TEHEV;TEHEV;
 BINKE;BINKE;
 ALS;ALS;
 
+
+/// PLAIN2 ///
 /// PLAIN2.AKO ///
 KBKF;32:14;PLAIN2.AKO;KBKF;KBKF;
 DEN;DEN;<br>;
@@ -161,6 +171,8 @@ AKO;AKO;
 ASHBY;ASHBY;
 HCT;HCT;
 
+
+/// ROCKI7 ///
 /// ROCKI7.DBL ///
 KBKF;32:14;ROCKI7.DBL;KBKF;KBKF;
 DEN;DEN;<br>;
@@ -222,6 +234,8 @@ DEN;DEN;<br>;
 CONNR;CONNR;
 DBL;DBL;
 
+
+/// YELLO5 ///
 /// YELLO5.BFF ///
 KBKF;32:14;YELLO5.BFF;KBKF;KBKF;
 DEN;DEN;<br>;
@@ -287,3 +301,5 @@ COPLA;COPLA;
 HANKI;HANKI;
 COPLA;COPLA;<br>;
 BFF;BFF;
+
+

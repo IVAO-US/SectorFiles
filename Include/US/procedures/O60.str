@@ -1,22 +1,17 @@
-// Data provided by Keyvan Avaiation
-
-/// ROZZA.R32 ///
+// Data provided by Keyvan Aviation.
 O60;32;ROZZA.R32;O60;O60;3;
 ROZZA;ROZZA;<br>;
 HOTIN;HOTIN;min 3100;
 CIMAX;CIMAX;min 2500;
 TAKUY;TAKUY;at 939;
-
-/// R32 ///
 O60;32;R32;O60;O60;3;
 ROZZA;ROZZA;<br>;
 HOTIN;HOTIN;min 3100;
 CIMAX;CIMAX;min 2500;
 TAKUY;TAKUY;at 939;
-
-/// R32 (GA) ///
 O60;32;R32 (GA);O60;O60;5;
 HOTIN;HOTIN;<br>;
 TAKUY;TAKUY;at 939;
 38.74230289;-122.96422025;
 NATIC;NATIC;at 6000;
+

@@ -1,24 +1,19 @@
-// Data provided by Keyvan Avaiation
-
-/// JIDEX.R33 ///
+// Data provided by Keyvan Aviation.
 5L0;33;JIDEX.R33;5L0;5L0;3;
 JIDEX;JIDEX;<br>;
 JIDEX;JIDEX;min 3500;
 CAKUD;CAKUD;min 3100;
 HIDIP;HIDIP;at 2340;
 RW33;RW33;at 1547;
-
-/// R33 ///
 5L0;33;R33;5L0;5L0;3;
 JIDEX;JIDEX;<br>;
 JIDEX;JIDEX;min 3500;
 CAKUD;CAKUD;min 3100;
 HIDIP;HIDIP;at 2340;
 RW33;RW33;at 1547;
-
-/// R33 (GA) ///
 5L0;33;R33 (GA);5L0;5L0;5;
 JIDEX;JIDEX;<br>;
 RW33;RW33;at 1547;
 02.73232757;101.68932446;
 NERDE;NERDE;at 3300;
+

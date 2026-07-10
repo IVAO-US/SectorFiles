@@ -1,20 +1,14 @@
-// Data provided by Keyvan Avaiation
-
-/// SODRR.RNVA ///
+// Data provided by Keyvan Aviation.
 8G1;28:10;SODRR.RNVA;8G1;8G1;3;
 SODRR;SODRR;<br>;
 SODRR;SODRR;min 3000;
 YUMAN;YUMAN;min 3000;
 MAJOJ;MAJOJ;at 1700;
-
-/// RNVA ///
 8G1;28:10;RNVA;8G1;8G1;3;
 SODRR;SODRR;<br>;
 SODRR;SODRR;min 3000;
 YUMAN;YUMAN;min 3000;
 MAJOJ;MAJOJ;at 1700;
-
-/// RNVA (GA) ///
 8G1;28:10;RNVA (GA);8G1;8G1;5;
 41.02664105;-082.71673041;<br>;
 SODRR;SODRR;max 6000:min 3000;
@@ -24,3 +18,4 @@ MAJOJ;MAJOJ;<br>;
 MAJOJ;MAJOJ;at 1700;
 SODRR;SODRR;<br>;
 SODRR;SODRR;max 6000:min 3000;
+

@@ -1,13 +1,9 @@
-// Data provided by Keyvan Avaiation
-
-/// RNVA ///
+// Data provided by Keyvan Aviation.
 KPHH;36:18;RNVA;KPHH;KPHH;3;
 KIMMY;KIMMY;<br>;
 KIMMY;KIMMY;min 2000;
 ZUPRU;ZUPRU;min 2000;
 KPHH/RW36;KPHH/RW36;at 76;
-
-/// RNVA (GA) ///
 KPHH;36:18;RNVA (GA);KPHH;KPHH;5;
 33.45926990;-079.52551944;<br>;
 KIMMY;KIMMY;max 4000:min 2000;
@@ -16,3 +12,4 @@ KPHH/RW36;KPHH/RW36;at 76;
 33.45926990;-079.52551944;
 KPHH/RW36;KPHH/RW36;<br>;
 KPHH/RW36;KPHH/RW36;at 76;
+

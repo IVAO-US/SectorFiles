@@ -1,20 +1,14 @@
-// Data provided by Keyvan Avaiation
-
-/// QUGEG.R02 ///
+// Data provided by Keyvan Aviation.
 0M3;02;QUGEG.R02;0M3;0M3;3;
 QUGEG;QUGEG;<br>;
 QUGEG;QUGEG;min 3000;
 UZLAT;UZLAT;min 2600;
 0M3/RW02;0M3/RW02;at 989;
-
-/// R02 ///
 0M3;02;R02;0M3;0M3;3;
 QUGEG;QUGEG;<br>;
 QUGEG;QUGEG;min 3000;
 UZLAT;UZLAT;min 2600;
 0M3/RW02;0M3/RW02;at 989;
-
-/// R02 (GA) ///
 0M3;02;R02 (GA);0M3;0M3;5;
 35.57257782;-087.58588403;<br>;
 QUGEG;QUGEG;at 3000;
@@ -24,3 +18,4 @@ QUGEG;QUGEG;at 3000;
 0M3/RW02;0M3/RW02;at 989;
 QUGEG;QUGEG;<br>;
 QUGEG;QUGEG;at 3000;
+

@@ -1,11 +1,14 @@
-// Data provided by Keyvan Avaiation
-
+// Data provided by Keyvan Aviation.
 /// SAFRD1 ///
-KSAD;12:30;SAFRD1;KSAD;KSAD;
+KSAD;12;SAFRD1;KSAD;KSAD;
 KSAD/RW30;KSAD/RW30;<br>;
 XOMZA;XOMZA;
 SSO;SSO;
+
+KSAD;30;SAFRD1;KSAD;KSAD;
 KSAD/RW12;KSAD/RW12;<br>;
 ZULOM;ZULOM;
 SEBOC;SEBOC;
 SSO;SSO;
+
+

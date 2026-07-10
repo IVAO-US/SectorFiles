@@ -1,14 +1,10 @@
-// Data provided by Keyvan Avaiation
-
-/// RNVA ///
+// Data provided by Keyvan Aviation.
 57D;28:19:10:01;RNVA;57D;57D;3;
 IKTIH;IKTIH;<br>;
 IKTIH;IKTIH;min 2500;
 HODPI;HODPI;min 2500;
 OVUHU;OVUHU;max 1344:min 1340;
 57D/RW10;57D/RW10;at 675;
-
-/// RNVA (GA) ///
 57D;28:19:10:01;RNVA (GA);57D;57D;5;
 42.73390832;-082.83471478;<br>;
 HIGIG;HIGIG;at 4000;
@@ -17,3 +13,4 @@ HIGIG;HIGIG;at 4000;
 42.73390832;-082.83471478;
 57D/RW10;57D/RW10;<br>;
 57D/RW10;57D/RW10;at 675;
+

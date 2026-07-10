@@ -1,6 +1,4 @@
-// Data provided by Keyvan Avaiation
-
-/// SMONE.R30 ///
+// Data provided by Keyvan Aviation.
 C83;30;SMONE.R30;C83;C83;3;
 SMONE;SMONE;<br>;
 DASVE;DASVE;min 4900;
@@ -8,8 +6,6 @@ MOVDD;MOVDD;min 3000;
 BABPI;BABPI;min 2600;
 CUDUG;CUDUG;max 1157:min 1140;
 C83/RW30;C83/RW30;at 79;
-
-/// R30 ///
 C83;30;R30;C83;C83;3;
 SMONE;SMONE;<br>;
 DASVE;DASVE;min 4900;
@@ -17,10 +13,9 @@ MOVDD;MOVDD;min 3000;
 BABPI;BABPI;min 2600;
 CUDUG;CUDUG;max 1157:min 1140;
 C83/RW30;C83/RW30;at 79;
-
-/// R30 (GA) ///
 C83;30;R30 (GA);C83;C83;5;
 MOVDD;MOVDD;<br>;
 C83/RW30;C83/RW30;at 79;
 37.84224874;-121.65421100;
 HAIRE;HAIRE;at 4000;
+

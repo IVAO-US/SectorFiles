@@ -1,13 +1,17 @@
-// Data provided by Keyvan Avaiation
-
+// Data provided by Keyvan Aviation.
+/// DLN2 ///
 /// DLN2 ///
 KRVF;17;DLN2;KRVF;KRVF;
 KRVF;KRVF;<br>;
-45.51865336;-112.29805927;
+45.51864225;-112.29807316;
 DLN;DLN;min 12000;
 
+
+/// RVF2 ///
 /// RVF2 ///
 KRVF;35;RVF2;KRVF;KRVF;
 KRVF;KRVF;<br>;
-45.55217982;-112.30649880;
+45.55216871;-112.30651269;
 HIA;HIA;min 10600;
+
+

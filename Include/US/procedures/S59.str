@@ -1,21 +1,16 @@
-// Data provided by Keyvan Avaiation
-
-/// CLASS.GPSA ///
+// Data provided by Keyvan Aviation.
 S59;33:15;CLASS.GPSA;S59;S59;3;
 CLASS;CLASS;<br>;
 PACCE;PACCE;min 7900;
 RELXU;RELXU;min 6500;
 S59/RW15;S59/RW15;at 2635;
-
-/// GPSA ///
 S59;33:15;GPSA;S59;S59;3;
 CLASS;CLASS;<br>;
 PACCE;PACCE;min 7900;
 RELXU;RELXU;min 6500;
 S59/RW15;S59/RW15;at 2635;
-
-/// GPSA (GA) ///
 S59;33:15;GPSA (GA);S59;S59;5;
 PACCE;PACCE;<br>;
 S59/RW15;S59/RW15;at 2635;
 EYESE;EYESE;at 9600;
+

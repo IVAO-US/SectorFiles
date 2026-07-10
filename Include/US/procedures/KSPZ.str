@@ -1,22 +1,16 @@
-// Data provided by Keyvan Avaiation
-
-/// HZN.R24 ///
+// Data provided by Keyvan Aviation.
 KSPZ;24;HZN.R24;KSPZ;KSPZ;3;
 HZN;HZN;<br>;
 HZN;HZN;min 8000;
 ZEKEM;ZEKEM;min 7000;
 ZUTZA;ZUTZA;min 6200;
 KSPZ/RW24;KSPZ/RW24;at 4255;
-
-/// R24 ///
 KSPZ;24;R24;KSPZ;KSPZ;3;
 HZN;HZN;<br>;
 HZN;HZN;min 8000;
 ZEKEM;ZEKEM;min 7000;
 ZUTZA;ZUTZA;min 6200;
 KSPZ/RW24;KSPZ/RW24;at 4255;
-
-/// R24 (GA) ///
 KSPZ;24;R24 (GA);KSPZ;KSPZ;5;
 39.35667346;-119.33574604;<br>;
 HZN;HZN;at 9900;
@@ -26,3 +20,4 @@ KSPZ/RW24;KSPZ/RW24;<br>;
 KSPZ/RW24;KSPZ/RW24;at 4255;
 HZN;HZN;<br>;
 HZN;HZN;at 9900;
+

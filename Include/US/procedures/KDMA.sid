@@ -1,15 +1,19 @@
-// Data provided by Keyvan Avaiation
-
+// Data provided by Keyvan Aviation.
+/// BBALL2 ///
 /// BBALL2 ///
 KDMA;31;BBALL2;KDMA;KDMA;
 DMA;DMA;<br>;
 BBALL;BBALL;max 18000;
 KDMA;KDMA;<br>;
-32.17665182;-110.89317272;
+32.17642664;-110.89348746;
 
+
+/// MESCA2 ///
 /// MESCA2 ///
 KDMA;13;MESCA2;KDMA;KDMA;
 DMA;DMA;<br>;
 MESCA;MESCA;min 7700;
 KDMA;KDMA;<br>;
-32.15607517;-110.87316842;
+32.15630030;-110.87285371;
+
+

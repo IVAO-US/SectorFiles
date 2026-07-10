@@ -1,5 +1,5 @@
-// Data provided by Keyvan Avaiation
-
+// Data provided by Keyvan Aviation.
+/// BUFIY4 ///
 /// BUFIY4 ///
 KROA;24;BUFIY4;KROA;KROA;
 KROA;KROA;<br>;
@@ -8,12 +8,16 @@ NTHEN;NTHEN;
 PHLIP;PHLIP;
 BUFIY;BUFIY;
 
+
+/// DIXXY8 ///
 /// DIXXY8 ///
 KROA;24;DIXXY8;KROA;KROA;
 KROA;KROA;<br>;
 37.31675317;-079.98803083;
 DIXXY;DIXXY;at 4200;
 
+
+/// MONAT4 ///
 /// MONAT4 ///
 KROA;16;MONAT4;KROA;KROA;
 KROA;KROA;<br>;
@@ -21,6 +25,8 @@ KROA;KROA;<br>;
 JEMES;JEMES;
 MONAT;MONAT;
 
+
+/// SCUTA3 ///
 /// SCUTA3 ///
 KROA;06;SCUTA3;KROA;KROA;
 KROA;KROA;<br>;
@@ -29,3 +35,5 @@ MASSY;MASSY;
 GERMS;GERMS;
 FANBO;FANBO;
 SCUTA;SCUTA;min 5000;
+
+

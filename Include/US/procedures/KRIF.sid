@@ -1,5 +1,5 @@
-// Data provided by Keyvan Avaiation
-
+// Data provided by Keyvan Aviation.
+/// HAMET3 ///
 /// HAMET3 ///
 KRIF;19;HAMET3;KRIF;KRIF;
 KRIF;KRIF;<br>;
@@ -8,6 +8,8 @@ DELPE;DELPE;
 ZIDLO;ZIDLO;
 HAMET;HAMET;min 16000;
 
+
+/// RIF2 ///
 /// RIF2 ///
 KRIF;01;RIF2;KRIF;KRIF;
 KRIF;KRIF;<br>;
@@ -16,3 +18,5 @@ FABRI;FABRI;
 GILEY;GILEY;
 CHMIO;CHMIO;
 DTA;DTA;
+
+
