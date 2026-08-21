@@ -25,8 +25,7 @@ F;airports.ap
 F;runways.rw
 
 [FIXES]
-F;KZAK.fix
-F;PAZA.fix
+F;K.fix
 
 [NDB]
 F;K.ndb
